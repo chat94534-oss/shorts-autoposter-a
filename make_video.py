@@ -386,7 +386,10 @@ def fetch_pexels_photos(query, count):
     url = ("https://api.pexels.com/v1/search?query="
            + urllib.parse.quote(query) + "&per_page=24")
     try:
-        req = urllib.request.Request(url, headers={"Authorization": PEXELS_KEY})
+        req = urllib.request.Request(url, headers={
+            "Authorization": PEXELS_KEY,
+            "User-Agent": "Mozilla/5.0 (shorts-pipeline)",
+        })
         with urllib.request.urlopen(req, timeout=30) as r:
             data = json.loads(r.read().decode("utf-8"))
     except Exception as e:  # noqa: BLE001
