@@ -732,10 +732,6 @@ def main():
                     raise  # nothing to fall back to
                 log(f"  image {i} unavailable ({e}); reusing previous scene.")
                 shutil.copyfile(os.path.join(run_dir, f"raw{i - 1}.jpg"), raw)
-    if credits:
-        names = ", ".join(dict.fromkeys(c for c in credits if c))
-        topic["description"] = (topic["description"]
-                                + f"\n\nPhotos via Pexels: {names}")
         # normalize to exact 1080x1920
         img = os.path.join(run_dir, f"scene{i}.png")
         run(["ffmpeg", "-y", "-i", raw,
@@ -743,6 +739,10 @@ def main():
                     f"crop={W}:{H}", img])
         log(f"Building animated clip {i}/{n}...")
         kenburns_clip(img, os.path.join(run_dir, f"clip{i}.mp4"), per, i)
+    if credits:
+        names = ", ".join(dict.fromkeys(c for c in credits if c))
+        topic["description"] = (topic["description"]
+                                + f"\n\nPhotos via Pexels: {names}")
 
     # 3) captions + assemble (with animated overlays)
     log("Writing captions and assembling video...")
