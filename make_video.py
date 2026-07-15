@@ -396,10 +396,56 @@ def fetch_pexels_photos(query, count):
         log(f"  Pexels search failed ({e}); using AI images.")
         return []
     photos = data.get("photos", [])
+    # relevance guard: keep only photos whose alt text names the actual subject
+    # ("frilled shark" must not match generic great-white photos)
+    words = [w for w in query.lower().split() if len(w) > 2]
+    photos = [p for p in photos
+              if words and all(w in (p.get("alt") or "").lower() for w in words)]
     # portrait photos crop best into 9:16
     photos.sort(key=lambda p: 0 if p.get("height", 0) >= p.get("width", 1) else 1)
-    return [(p["src"]["large2x"], p.get("photographer", ""))
+    return [(p["src"]["large2x"], f"{p.get('photographer', '')} / Pexels")
             for p in photos[:count]]
+
+
+def fetch_inat_photos(query, count):
+    """Species-accurate photos from iNaturalist (keyless, CC-licensed).
+
+    Photos are attached to a verified taxon, so they're the right animal by
+    construction. Only licenses that allow commercial reuse are kept.
+    """
+    ua = {"User-Agent": "Mozilla/5.0 (shorts-pipeline)"}
+    ok_licenses = ("cc0", "cc-by", "cc-by-sa")
+    try:
+        q = urllib.parse.quote(query)
+        req = urllib.request.Request(
+            f"https://api.inaturalist.org/v1/taxa?q={q}&per_page=1", headers=ua)
+        with urllib.request.urlopen(req, timeout=30) as r:
+            results = json.loads(r.read().decode("utf-8")).get("results", [])
+        if not results:
+            return []
+        taxon_id = results[0]["id"]
+        # observations give many more research-grade photos than the taxon record
+        req = urllib.request.Request(
+            f"https://api.inaturalist.org/v1/observations?taxon_id={taxon_id}"
+            f"&photo_license={','.join(ok_licenses)}&quality_grade=research"
+            f"&order_by=votes&per_page=30", headers=ua)
+        with urllib.request.urlopen(req, timeout=30) as r:
+            obs = json.loads(r.read().decode("utf-8")).get("results", [])
+    except Exception as e:  # noqa: BLE001
+        log(f"  iNaturalist search failed ({e}).")
+        return []
+    out = []
+    for o in obs:
+        for p in o.get("photos", []):
+            if (p.get("license_code") or "") not in ok_licenses:
+                continue
+            url = (p.get("url") or "").replace("square", "large")
+            if url:
+                out.append((url, p.get("attribution") or "iNaturalist"))
+            break  # one best photo per observation for variety
+        if len(out) >= count:
+            break
+    return out
 
 
 def download_photo(url, out_path):
@@ -711,8 +757,10 @@ def main():
     base_seed = int(time.time()) % 100000
     subject = topic.get("photo_query", topic["id"].replace("-", " "))
     photos = fetch_pexels_photos(subject, n)
+    if not photos:
+        photos = fetch_inat_photos(subject, n)
     if photos:
-        log(f"Found {len(photos)} real photo(s) on Pexels for '{subject}'.")
+        log(f"Found {len(photos)} real photo(s) for '{subject}'.")
     credits = []
     for i, prompt in enumerate(prompts, 1):
         raw = os.path.join(run_dir, f"raw{i}.jpg")
@@ -722,7 +770,7 @@ def main():
             try:
                 download_photo(purl, raw)
                 credits.append(who)
-                log(f"Scene {i}/{n}: real photo (by {who} / Pexels).")
+                log(f"Scene {i}/{n}: real photo ({who}).")
                 done = True
             except Exception as e:  # noqa: BLE001
                 log(f"  Pexels photo {i} failed ({e}); generating instead.")
@@ -743,9 +791,8 @@ def main():
         log(f"Building animated clip {i}/{n}...")
         kenburns_clip(img, os.path.join(run_dir, f"clip{i}.mp4"), per, i)
     if credits:
-        names = ", ".join(dict.fromkeys(c for c in credits if c))
-        topic["description"] = (topic["description"]
-                                + f"\n\nPhotos via Pexels: {names}")
+        names = "; ".join(dict.fromkeys(c for c in credits if c))
+        topic["description"] = topic["description"] + f"\n\nPhotos: {names}"
 
     # 3) captions + assemble (with animated overlays)
     log("Writing captions and assembling video...")
