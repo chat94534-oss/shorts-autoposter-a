@@ -52,6 +52,7 @@ KEEP_RUNS_DAYS = 3  # auto-delete run folders older than this
 # GitHub's flaky cron only has to fire ONCE/day (later runs just catch up).
 TZ = ZoneInfo("America/New_York")
 PUBLISH_SLOTS = [(10, 30), (13, 30), (16, 30), (19, 30)]  # 10:30a,1:30p,4:30p,7:30p
+CAPTION_BAND = 300  # px reserved at the bottom for the caption over real photos
 
 VOICE = "en-US-AvaNeural"  # female narrator (warm, natural "Conversation" voice)
 VOICE_RATE = "-8%"   # slightly slower -> measured documentary cadence
@@ -808,15 +809,24 @@ def produce_one(topics, state, args, publish_at):
                     raise  # nothing to fall back to
                 log(f"  image {i} unavailable ({e}); reusing previous scene.")
                 shutil.copyfile(os.path.join(run_dir, f"raw{i - 1}.jpg"), raw)
-        # normalize to exact 1080x1920. Real photos are usually landscape, so
-        # fit the WHOLE subject in frame over a blurred fill of itself instead of
-        # cropping (which chopped off heads/tails). No-op for native 9:16 images.
+        # normalize to exact 1080x1920.
         img = os.path.join(run_dir, f"scene{i}.png")
-        fit = (f"[0:v]scale={W}:{H}:force_original_aspect_ratio=increase,"
-               f"crop={W}:{H},gblur=sigma=32[bg];"
-               f"[0:v]scale={W}:{H}:force_original_aspect_ratio=decrease[fg];"
-               f"[bg][fg]overlay=(W-w)/2:(H-h)/2")
-        run(["ffmpeg", "-y", "-i", raw, "-filter_complex", fit, img])
+        if done:
+            # Real photo: fit the WHOLE subject into the frame ABOVE a reserved
+            # bottom caption band (over a blurred fill of itself), so the caption
+            # sits in the blurred band and never covers the animal.
+            top = H - CAPTION_BAND
+            fit = (f"[0:v]scale={W}:{H}:force_original_aspect_ratio=increase,"
+                   f"crop={W}:{H},gblur=sigma=32[bg];"
+                   f"[0:v]scale={W}:{top}:force_original_aspect_ratio=decrease[fg];"
+                   f"[bg][fg]overlay=(W-w)/2:({top}-h)/2")
+            run(["ffmpeg", "-y", "-i", raw, "-filter_complex", fit, img])
+        else:
+            # AI image is already native 9:16 -> fill the frame (caption over the
+            # lower edge, the established look).
+            run(["ffmpeg", "-y", "-i", raw,
+                 "-vf", f"scale={W}:{H}:force_original_aspect_ratio=increase,"
+                        f"crop={W}:{H}", img])
         log(f"Building animated clip {i}/{n}...")
         kenburns_clip(img, os.path.join(run_dir, f"clip{i}.mp4"), per, i)
     if credits:
