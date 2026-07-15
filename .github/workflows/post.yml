@@ -41,6 +41,7 @@ jobs:
         env:
           X264_PRESET: ultrafast
           PYTHONIOENCODING: utf-8
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: python make_video.py --privacy "${{ github.event.inputs.privacy || 'public' }}"
       - name: persist bank/state
         if: always()

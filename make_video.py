@@ -365,6 +365,50 @@ def fetch_image(prompt, out_path, seed, tries=4):
     raise RuntimeError(f"Pollinations failed after {tries} tries: {last}")
 
 
+PEXELS_KEY = os.environ.get("PEXELS_API_KEY", "")
+
+
+def _valid_image(data):
+    return (len(data) >= 3000
+            and (data[:3] == b"\xff\xd8\xff"            # JPEG
+                 or data[:8] == b"\x89PNG\r\n\x1a\n"     # PNG
+                 or data[:4] == b"RIFF"))                # WebP
+
+
+def fetch_pexels_photos(query, count):
+    """Search Pexels for real photos of the subject.
+
+    Returns up to `count` (url, photographer) pairs, portrait-oriented first.
+    Empty list (no key / no results / API error) means: use AI images instead.
+    """
+    if not PEXELS_KEY:
+        return []
+    url = ("https://api.pexels.com/v1/search?query="
+           + urllib.parse.quote(query) + "&per_page=24")
+    try:
+        req = urllib.request.Request(url, headers={"Authorization": PEXELS_KEY})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            data = json.loads(r.read().decode("utf-8"))
+    except Exception as e:  # noqa: BLE001
+        log(f"  Pexels search failed ({e}); using AI images.")
+        return []
+    photos = data.get("photos", [])
+    # portrait photos crop best into 9:16
+    photos.sort(key=lambda p: 0 if p.get("height", 0) >= p.get("width", 1) else 1)
+    return [(p["src"]["large2x"], p.get("photographer", ""))
+            for p in photos[:count]]
+
+
+def download_photo(url, out_path):
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        data = r.read()
+    if not _valid_image(data):
+        raise RuntimeError("Pexels download was not a valid image")
+    with open(out_path, "wb") as f:
+        f.write(data)
+
+
 def kenburns_clip(img, out, dur, idx):
     """One animated clip: varied zoom + directional pan + gentle sway."""
     frames = round(dur * FPS)
@@ -657,21 +701,41 @@ def main():
     audio_dur = make_narration(topic["script"], audio)
     log(f"  narration duration: {audio_dur:.2f}s")
 
-    # 2) images
+    # 2) images — real photos of the subject first (Pexels), AI for the rest
     prompts = expand_prompts(topic["image_prompts"])
     n = len(prompts)
     per = _per(audio_dur, n)  # per-clip length accounting for cross-dissolves
     base_seed = int(time.time()) % 100000
+    subject = topic.get("photo_query", topic["id"].replace("-", " "))
+    photos = fetch_pexels_photos(subject, n)
+    if photos:
+        log(f"Found {len(photos)} real photo(s) on Pexels for '{subject}'.")
+    credits = []
     for i, prompt in enumerate(prompts, 1):
-        log(f"Generating image {i}/{n} (Pollinations)...")
         raw = os.path.join(run_dir, f"raw{i}.jpg")
-        try:
-            fetch_image(prompt, raw, base_seed + i)
-        except Exception as e:  # noqa: BLE001
-            if i == 1:
-                raise  # nothing to fall back to
-            log(f"  image {i} unavailable ({e}); reusing previous scene.")
-            shutil.copyfile(os.path.join(run_dir, f"raw{i - 1}.jpg"), raw)
+        done = False
+        if i <= len(photos):
+            purl, who = photos[i - 1]
+            try:
+                download_photo(purl, raw)
+                credits.append(who)
+                log(f"Scene {i}/{n}: real photo (by {who} / Pexels).")
+                done = True
+            except Exception as e:  # noqa: BLE001
+                log(f"  Pexels photo {i} failed ({e}); generating instead.")
+        if not done:
+            log(f"Generating image {i}/{n} (Pollinations)...")
+            try:
+                fetch_image(prompt, raw, base_seed + i)
+            except Exception as e:  # noqa: BLE001
+                if i == 1:
+                    raise  # nothing to fall back to
+                log(f"  image {i} unavailable ({e}); reusing previous scene.")
+                shutil.copyfile(os.path.join(run_dir, f"raw{i - 1}.jpg"), raw)
+    if credits:
+        names = ", ".join(dict.fromkeys(c for c in credits if c))
+        topic["description"] = (topic["description"]
+                                + f"\n\nPhotos via Pexels: {names}")
         # normalize to exact 1080x1920
         img = os.path.join(run_dir, f"scene{i}.png")
         run(["ffmpeg", "-y", "-i", raw,
