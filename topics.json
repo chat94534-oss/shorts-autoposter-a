@@ -984,5 +984,873 @@
       "sunlit marshy ground with the mole, cinematic"
     ],
     "photo_query": "star nosed mole"
+  },
+  {
+    "id": "wolverine",
+    "title": "The animal that eats frozen bone 🦴 #shorts",
+    "description": "The wolverine's jaws are built to crack meat and bone that froze solid months ago. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "mammal",
+      "arctic",
+      "predator",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's an animal that eats food no other predator can even bite? The wolverine hunts the frozen north, where carcasses turn to stone in the cold. Its skull is thick, its jaw muscles enormous, and one pair of upper molars is rotated ninety degrees inward, a specialised tooth for tearing at flesh that has frozen solid. It crunches through bone to reach the marrow inside, and it will drive bears and wolf packs off their kills. A single wolverine may roam hundreds of square miles, eating what winter left behind.",
+    "captions": [
+      "An animal that eats frozen meat.",
+      "The wolverine of the far north.",
+      "Its molars are rotated sideways to tear.",
+      "It crunches bone for the marrow.",
+      "It drives wolves off their own kills."
+    ],
+    "image_prompts": [
+      "bright daylight photo of a wolverine on snow, vivid fur detail",
+      "close-up of a wolverine's open jaws and teeth, sharp",
+      "a wolverine dragging a frozen carcass across sunlit snow",
+      "wolverine tracks across a bright snowfield, crisp",
+      "wide sunlit boreal forest with a wolverine crossing, cinematic"
+    ],
+    "photo_query": "wolverine"
+  },
+  {
+    "id": "shoebill",
+    "title": "The bird that decapitates its prey 🪓 #shorts",
+    "description": "The shoebill's hooked bill beheads lungfish, and its chicks kill each other. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "bird",
+      "predator",
+      "africa",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a bird that removes its prey's head before swallowing? The shoebill stands five feet tall in African swamps and carries a bill nearly eight inches long, tipped with a sharp hook. It waits, motionless, sometimes for hours, then collapses forward onto a lungfish, shakes it apart, and decapitates it before eating. It will take baby crocodiles too. And in the nest, the older chick usually attacks and kills the younger one while the parents simply watch, feeding only the survivor.",
+    "captions": [
+      "A bird that beheads its food.",
+      "The shoebill of the African swamps.",
+      "Its hooked bill is eight inches long.",
+      "It kills lungfish and baby crocodiles.",
+      "The older chick kills the younger one."
+    ],
+    "image_prompts": [
+      "bright portrait of a shoebill stork's huge hooked bill, vivid",
+      "shoebill standing motionless in sunlit swamp reeds, sharp",
+      "close-up of the shoebill's pale eye and bill hook, well-lit",
+      "a shoebill striking down into bright green swamp water",
+      "wide sunlit African wetland with a shoebill, cinematic"
+    ],
+    "photo_query": "shoebill stork"
+  },
+  {
+    "id": "harpy-eagle",
+    "title": "Talons bigger than a bear's claws 🦅 #shorts",
+    "description": "The harpy eagle plucks monkeys and sloths out of the treetops with claws longer than a grizzly's. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "bird",
+      "raptor",
+      "rainforest",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's an eagle with claws longer than a grizzly bear's? The harpy eagle hunts the rainforest canopy of Central and South America, and its rear talons can reach five inches, longer than the claws of a bear many hundreds of times its weight. Its legs are as thick as a child's wrist, and its grip is strong enough to crush bone. It flies almost silently between the trees, snatches sloths and monkeys straight off the branches, and carries prey weighing as much as it does back to the nest.",
+    "captions": [
+      "An eagle with claws bigger than a bear's.",
+      "The harpy eagle of the rainforest.",
+      "Its rear talons reach five inches.",
+      "Its grip can crush bone.",
+      "It plucks monkeys straight off branches."
+    ],
+    "image_prompts": [
+      "bright close-up of a harpy eagle's face and crest, vivid detail",
+      "macro of a harpy eagle's huge talons gripping a branch, sunlit",
+      "harpy eagle perched in a sunlit rainforest canopy, sharp",
+      "harpy eagle in flight between bright green trees",
+      "wide sunlit rainforest canopy from above, cinematic"
+    ],
+    "photo_query": "harpy eagle"
+  },
+  {
+    "id": "secretary-bird",
+    "title": "The bird that stomps snakes to death 🐍 #shorts",
+    "description": "The secretary bird kicks with five times its own body weight, in fifteen milliseconds. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "bird",
+      "snake",
+      "africa",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a bird that kills snakes by kicking them to death? The secretary bird stalks the African grasslands on long stilt legs, and when it finds a snake it strikes downward with its foot. Researchers measured that kick at around five times the bird's own body weight, delivered in about fifteen thousandths of a second, faster than the bird could possibly see or correct. It aims for the skull. The snake is usually dead or stunned before it can turn and bite.",
+    "captions": [
+      "A bird that stomps snakes to death.",
+      "The secretary bird of the grasslands.",
+      "Its kick is five times its body weight.",
+      "It lands in fifteen milliseconds.",
+      "It aims straight for the skull."
+    ],
+    "image_prompts": [
+      "bright photo of a secretary bird striding across sunlit grassland, vivid",
+      "close-up of a secretary bird's head plumes and orange face, sharp",
+      "secretary bird raising a foot mid-strike in bright daylight",
+      "macro of a secretary bird's long scaled legs and feet, well-lit",
+      "wide sunlit African savanna with a secretary bird, cinematic"
+    ],
+    "photo_query": "secretary bird"
+  },
+  {
+    "id": "bearded-vulture",
+    "title": "The bird that eats nothing but bones 🦴 #shorts",
+    "description": "The bearded vulture drops skeletons onto rocks and digests the pieces in acid. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "bird",
+      "vulture",
+      "bones",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a bird whose diet is almost entirely bone? The bearded vulture, or lammergeier, lives in the high mountains and around three quarters of what it eats is skeleton. Bones too large to swallow it carries into the air and drops onto the same rock slabs again and again until they shatter, then it eats the fragments. Its stomach acid is close to the strength of battery acid, dissolving bone within a day. Some birds even bathe in iron-rich soil, staining their pale feathers rust red.",
+    "captions": [
+      "A bird that lives on bones.",
+      "The bearded vulture of the high peaks.",
+      "It drops skeletons onto rocks to shatter them.",
+      "Its stomach acid dissolves bone in a day.",
+      "It stains itself red in iron-rich soil."
+    ],
+    "image_prompts": [
+      "bright photo of a bearded vulture in flight against blue sky, vivid",
+      "close-up of a bearded vulture's red-stained head and eye, sharp",
+      "a vulture dropping a bone over sunlit rocky mountain slopes",
+      "scattered bone fragments on bright sunlit rock, crisp",
+      "wide sunlit alpine mountain range with a soaring vulture, cinematic"
+    ],
+    "photo_query": "bearded vulture lammergeier"
+  },
+  {
+    "id": "marabou-stork",
+    "title": "The bird that cools off with its own waste 💀 #shorts",
+    "description": "The marabou stork has a bald head for reaching inside corpses, and a very strange way to stay cool. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "bird",
+      "scavenger",
+      "africa",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a bird nicknamed the undertaker? The marabou stork has a wingspan approaching twelve feet, among the widest of any land bird, and it makes its living on carrion. Its head and neck are bald, because feathers would clot with blood when it reaches deep inside a carcass. Beneath its throat hangs a bare pink air sac it inflates for display. And to survive the African heat, it deliberately defecates down its own legs, letting the moisture evaporate and cool the blood underneath.",
+    "captions": [
+      "They call it the undertaker bird.",
+      "The marabou stork's wings span twelve feet.",
+      "Its head is bald for reaching into carcasses.",
+      "A bare pink sac hangs from its throat.",
+      "It cools itself by soiling its own legs."
+    ],
+    "image_prompts": [
+      "bright photo of a marabou stork standing in sunlight, vivid detail",
+      "close-up of the marabou's bald head and pink throat sac, sharp",
+      "marabou stork with wings spread wide in bright daylight",
+      "a group of marabou storks at a sunlit African rubbish tip",
+      "wide sunlit savanna with marabou storks and vultures, cinematic"
+    ],
+    "photo_query": "marabou stork"
+  },
+  {
+    "id": "ribbon-worm",
+    "title": "The longest animal ever measured 📏 #shorts",
+    "description": "A washed-up ribbon worm measured longer than a blue whale, and its slime is toxic. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "worm",
+      "ocean",
+      "toxic",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know the longest animal ever recorded wasn't a whale? In eighteen sixty-four a bootlace worm washed up on a Scottish beach and was measured at around a hundred and eighty feet, longer than any blue whale. These ribbon worms hunt with a weapon hidden inside their own body: a proboscis that turns inside out and fires forward in an instant, wrapping the prey. Their slime carries powerful toxins that paralyse. And the animal itself is so soft it can tie itself into knots without harm.",
+    "captions": [
+      "The longest animal ever recorded.",
+      "A ribbon worm, about 180 feet long.",
+      "It fires a proboscis from inside its body.",
+      "Its slime carries paralysing toxins.",
+      "It can tie itself in knots unharmed."
+    ],
+    "image_prompts": [
+      "bright macro of a long coiled ribbon worm on wet sand, vivid",
+      "close-up of a nemertean worm's smooth glistening body, sharp",
+      "a tangled ribbon worm in a sunlit rockpool, crisp",
+      "sunlit shallow tidal water with a long worm stretched out",
+      "wide bright rocky shoreline at low tide, cinematic"
+    ],
+    "photo_query": "nemertean ribbon worm"
+  },
+  {
+    "id": "colossal-squid",
+    "title": "The eye the size of a dinner plate 👁️ #shorts",
+    "description": "The colossal squid has the largest eyes on Earth and rotating hooks on its arms. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "squid",
+      "deepsea",
+      "ocean",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know the biggest eye on Earth belongs to a squid? The colossal squid of the Antarctic deep has eyes around eleven inches across, wider than a dinner plate, built to catch the faintest glow in near total darkness. Its arms and tentacles carry not just suckers but sharp hooks, and some of those hooks swivel on their bases to lock into flesh. We know it hunts sperm whales' waters because whale stomachs are full of its beaks, and their skin is ringed with the scars.",
+    "captions": [
+      "The largest eye on Earth.",
+      "The colossal squid of the Antarctic deep.",
+      "Its eyes are eleven inches across.",
+      "Its arms carry swivelling hooks.",
+      "Sperm whales wear its scars."
+    ],
+    "image_prompts": [
+      "bright museum photo of a colossal squid specimen, vivid detail",
+      "close-up of a giant squid eye, well-lit and sharp",
+      "macro of sharp squid arm hooks and suckers, bright",
+      "a sperm whale in clear sunlit blue water, crisp",
+      "wide bright Antarctic ocean surface, cinematic"
+    ],
+    "photo_query": "colossal squid"
+  },
+  {
+    "id": "black-swallower",
+    "title": "The fish that eats itself to death 🐟 #shorts",
+    "description": "The black swallower can eat a fish ten times its own weight, and sometimes that kills it. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "fish",
+      "deepsea",
+      "ocean",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a fish that regularly eats prey ten times its own mass? The black swallower lives in the deep ocean, where meals are rare, so it evolved a stomach that stretches like a balloon. It swallows fish twice its own length, walking its jaws down the body until the whole animal is inside. But sometimes the meal is too big to digest. The prey rots first, filling the stomach with gas, and the swallower is dragged upward and bursts, which is how most specimens are found: floating, dead, and full.",
+    "captions": [
+      "A fish that eats prey ten times its weight.",
+      "The deep-sea black swallower.",
+      "Its stomach stretches like a balloon.",
+      "Sometimes the meal rots inside it.",
+      "The gas floats it up, and it bursts."
+    ],
+    "image_prompts": [
+      "bright specimen photo of a black swallower fish, vivid detail",
+      "close-up of a deep sea fish's distended belly, well-lit",
+      "macro of a fish's hinged jaws wide open, sharp",
+      "a dark deep-sea fish against a bright clean background",
+      "wide bright open ocean water column, cinematic"
+    ],
+    "photo_query": "black swallower fish"
+  },
+  {
+    "id": "alligator-snapping-turtle",
+    "title": "The turtle with a worm in its mouth 🪱 #shorts",
+    "description": "The alligator snapping turtle grows a wriggling pink lure on its own tongue. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "reptile",
+      "turtle",
+      "ambush",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a turtle that fishes with its own tongue? The alligator snapping turtle sits on the river bottom with its mouth wide open, so still that algae grows on its shell. On the floor of that mouth sits a small pink appendage shaped like a worm, and the turtle wriggles it. A fish swims in to take the bait, and the jaws close. These animals can weigh over two hundred pounds and live eighty years or more, sitting almost motionless in the mud for most of it.",
+    "captions": [
+      "A turtle that fishes with its tongue.",
+      "The alligator snapping turtle.",
+      "A pink worm-shaped lure sits in its mouth.",
+      "It wriggles the lure and waits.",
+      "It can weigh 200 pounds and live 80 years."
+    ],
+    "image_prompts": [
+      "bright photo of an alligator snapping turtle's spiked shell, vivid",
+      "close-up of the turtle's open mouth showing the pink lure, sharp",
+      "the turtle resting on a sunlit river bottom, crisp",
+      "macro of the turtle's hooked beak and eye, well-lit",
+      "wide sunlit river with clear shallow water, cinematic"
+    ],
+    "photo_query": "alligator snapping turtle"
+  },
+  {
+    "id": "kissing-bug",
+    "title": "The bug that bites your face and defecates in it 😷 #shorts",
+    "description": "The kissing bug feeds on your face at night, and leaves something behind in the wound. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "insect",
+      "parasite",
+      "disease",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's an insect that bites your face while you sleep, then defecates into the wound? It's called the kissing bug, because it feeds around the lips and eyes where the skin is thin. Its droppings can carry a parasite, and when the sleeper rubs the itching bite, they push that parasite into their own bloodstream. It causes Chagas disease, which can stay silent for decades before enlarging the heart or intestines. Millions of people are estimated to be infected, most of them without knowing.",
+    "captions": [
+      "An insect that bites your face at night.",
+      "The kissing bug feeds near the lips.",
+      "It defecates into the wound it made.",
+      "Rubbing the bite pushes the parasite in.",
+      "Chagas disease can stay silent for decades."
+    ],
+    "image_prompts": [
+      "bright macro of a triatomine kissing bug on a leaf, vivid detail",
+      "close-up of the bug's striped abdomen and beak, sharp",
+      "the insect on a bright pale surface, well-lit macro",
+      "a sunlit rural adobe wall with cracks, crisp",
+      "wide bright Latin American countryside scene, cinematic"
+    ],
+    "photo_query": "triatomine kissing bug"
+  },
+  {
+    "id": "chigoe-flea",
+    "title": "The flea that lives inside your foot 🦶 #shorts",
+    "description": "The chigoe flea burrows into skin and swells to two thousand times its size. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "insect",
+      "parasite",
+      "flea",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a flea that doesn't bite and leave, it moves in? The pregnant female chigoe flea burrows head-first into skin, usually under a toenail or the sole of the foot, leaving only her rear end exposed to breathe and lay eggs. Buried in the flesh, her abdomen swells to roughly two thousand times its original volume, until she's the size of a pea beneath the skin. The condition is called tungiasis, it causes intense itching and ulcers, and it affects millions of people in tropical regions.",
+    "captions": [
+      "A flea that moves into your skin.",
+      "The chigoe flea burrows head-first.",
+      "Only its rear stays exposed to breathe.",
+      "It swells 2,000 times inside the flesh.",
+      "The disease is called tungiasis."
+    ],
+    "image_prompts": [
+      "bright macro photograph of a chigoe flea specimen, vivid detail",
+      "extreme close-up of a tiny flea on pale skin, sharp",
+      "macro of a flea's legs and body under bright light",
+      "sunlit dry sandy ground and bare footprints, crisp",
+      "wide bright tropical village path in daylight, cinematic"
+    ],
+    "photo_query": "Tunga penetrans chigoe flea"
+  },
+  {
+    "id": "wolf-spider",
+    "title": "The spider that carries a hundred babies 🕷️ #shorts",
+    "description": "The wolf spider hauls her egg sac everywhere, then wears her young like armour. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "spider",
+      "arachnid",
+      "mother",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a spider that carries her whole family on her back? The wolf spider doesn't build a web, she runs her prey down. She glues her egg sac to her spinnerets and drags it with her everywhere she hunts. When the eggs hatch, dozens or even hundreds of spiderlings climb onto her abdomen and cling there in layers for weeks, riding while she hunts. And if you shine a torch across the ground at night, hundreds of tiny green points shine back: their eyes, reflecting the light.",
+    "captions": [
+      "A spider that carries her whole brood.",
+      "The wolf spider hunts without a web.",
+      "She drags her egg sac as she runs.",
+      "Hundreds of babies ride on her back.",
+      "Their eyes glow green in torchlight."
+    ],
+    "image_prompts": [
+      "bright macro of a wolf spider carrying spiderlings on her back, vivid",
+      "close-up of a wolf spider's eight eyes, sharp and well-lit",
+      "wolf spider on sunlit leaf litter, crisp macro",
+      "macro of a white egg sac attached to a spider's abdomen",
+      "wide sunlit grassy ground at eye level, cinematic"
+    ],
+    "photo_query": "wolf spider with spiderlings"
+  },
+  {
+    "id": "honeypot-ant",
+    "title": "The ants that become living jars 🍯 #shorts",
+    "description": "Some honeypot ants spend their entire lives hanging from the ceiling, swollen with food. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "ant",
+      "insect",
+      "colony",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know some ants are used as furniture? In honeypot ant colonies, certain workers are chosen to become storage. Their nestmates feed them until their abdomens swell into translucent golden spheres the size of a grape, stretched so tight the segments separate. Too heavy to walk, they hang upside down from the ceiling of a chamber underground, motionless, for the rest of their lives. When the colony is starving, another ant strokes their antennae and they regurgitate the food they've been holding for months.",
+    "captions": [
+      "Some ants become living food jars.",
+      "Workers feed them until they swell.",
+      "Their abdomens stretch to grape size.",
+      "They hang from the ceiling, unable to walk.",
+      "They vomit up food when the colony starves."
+    ],
+    "image_prompts": [
+      "bright macro of honeypot ants with swollen golden abdomens, vivid",
+      "close-up of a repletes hanging from a nest ceiling, sharp",
+      "macro of translucent amber ant abdomens backlit, well-lit",
+      "worker ants tending a swollen replete, crisp macro",
+      "wide sunlit arid desert ground with an ant nest hole, cinematic"
+    ],
+    "photo_query": "honeypot ant replete"
+  },
+  {
+    "id": "slave-making-ant",
+    "title": "The ants that can't feed themselves 🐜 #shorts",
+    "description": "Amazon ants raid other colonies for workers, because they'd starve without them. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "ant",
+      "insect",
+      "parasite",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there are ants that would starve to death standing on a pile of food? The Amazon ants have jaws shaped like curved sabres, perfect for piercing skulls and useless for anything else. They cannot dig, cannot care for their own young, and cannot even eat unassisted. So they raid the nests of other ant species, kill the defenders, and carry away the pupae. Those stolen ants hatch inside the raiders' nest, and spend their whole lives feeding and grooming the very colony that stole them.",
+    "captions": [
+      "Ants that can't feed themselves.",
+      "Their jaws are sabres, built only to kill.",
+      "They raid other nests and steal the pupae.",
+      "The stolen ants hatch as workers.",
+      "They serve the colony that took them."
+    ],
+    "image_prompts": [
+      "bright macro of a red Polyergus ant with curved sabre jaws, vivid",
+      "close-up of ants carrying white pupae in daylight, sharp",
+      "a raiding column of ants across sunlit ground, crisp",
+      "macro of two ant species together in a nest, well-lit",
+      "wide bright woodland floor with an ant trail, cinematic"
+    ],
+    "photo_query": "Polyergus amazon ant"
+  },
+  {
+    "id": "cuckoo-catfish",
+    "title": "The fish that eats babies inside their mother's mouth 😱 #shorts",
+    "description": "Cuckoo catfish trick cichlids into brooding their eggs, then the fry eat their hosts. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "fish",
+      "parasite",
+      "lake",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a fish that gets its babies raised inside another fish's mouth? In Lake Tanganyika, some cichlids protect their eggs by carrying them in their mouths until they hatch. The cuckoo catfish times its own spawning to the exact moment the cichlid lays, and slips its eggs among hers. She scoops up the whole clutch. The catfish eggs hatch first, and inside the safety of her mouth, the young catfish eat her own developing young, one by one, until she spits out only theirs.",
+    "captions": [
+      "A fish raised inside another fish's mouth.",
+      "Cichlids brood their eggs in their mouths.",
+      "Cuckoo catfish slip their eggs into the clutch.",
+      "The catfish eggs hatch first.",
+      "They eat her babies from the inside."
+    ],
+    "image_prompts": [
+      "bright aquarium photo of a spotted cuckoo catfish, vivid detail",
+      "close-up of a mouthbrooding cichlid with a full throat, sharp",
+      "colourful cichlids in clear sunlit lake water, crisp",
+      "macro of fish eggs in bright clear water",
+      "wide bright underwater view of a rocky African lake, cinematic"
+    ],
+    "photo_query": "Synodontis multipunctatus cuckoo catfish"
+  },
+  {
+    "id": "vulture-bee",
+    "title": "The bees that make honey out of meat 🥩 #shorts",
+    "description": "Vulture bees gave up flowers entirely and feed on carrion instead. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "bee",
+      "insect",
+      "carrion",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there are bees that don't visit flowers at all? Vulture bees in the tropics of the Americas abandoned pollen entirely and feed on rotting flesh. They land on dead animals, chew through the skin with an extra tooth, and carry the meat home in the same baskets other bees use for pollen. To survive that diet their guts have filled with acid-loving bacteria, the same kind found in vultures and hyenas. And what they store in the hive is a pale, sweet substance made from meat.",
+    "captions": [
+      "Bees that never visit flowers.",
+      "Vulture bees feed on rotting meat.",
+      "They chew into carcasses with an extra tooth.",
+      "Their guts carry vulture-like bacteria.",
+      "Their honey is made from flesh."
+    ],
+    "image_prompts": [
+      "bright macro of a small stingless tropical bee, vivid detail",
+      "close-up of stingless bees at a nest entrance in sunlight, sharp",
+      "macro of a bee's mandibles and head, well-lit",
+      "sunlit tropical forest floor with bright green leaves, crisp",
+      "wide bright rainforest clearing in daylight, cinematic"
+    ],
+    "photo_query": "Trigona stingless bee"
+  },
+  {
+    "id": "sea-spider",
+    "title": "The animal whose guts are in its legs 🦵 #shorts",
+    "description": "Sea spiders have almost no body, so their organs live inside their limbs. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "ocean",
+      "arthropod",
+      "antarctic",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's an animal with its stomach inside its legs? The sea spider has a body so small there's no room for organs, so its gut branches out into every limb, and so does part of its reproductive system. It has no lungs and no gills at all, absorbing oxygen straight through its skin. It feeds by pushing a proboscis into soft-bodied prey and sucking them empty. In the cold Antarctic water they grow enormous, some spanning more than two feet across the legs.",
+    "captions": [
+      "An animal with guts inside its legs.",
+      "The sea spider has almost no body.",
+      "It breathes through its skin alone.",
+      "It sucks prey empty with a proboscis.",
+      "Antarctic ones span over two feet."
+    ],
+    "image_prompts": [
+      "bright underwater macro of a pale sea spider on the seabed, vivid",
+      "close-up of a pycnogonid's long thin legs, sharp",
+      "sea spider on bright coral rubble in clear water, crisp",
+      "macro of a sea spider's proboscis, well-lit",
+      "wide bright clear cold ocean floor, cinematic"
+    ],
+    "photo_query": "sea spider pycnogonid"
+  },
+  {
+    "id": "blue-dragon-nudibranch",
+    "title": "The sea slug that steals stingers 🐉 #shorts",
+    "description": "The blue dragon eats venomous jellyfish and concentrates their weapons into its own body. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "ocean",
+      "slug",
+      "venom",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a sea slug that eats venom and keeps it? The blue dragon is barely an inch long, and it floats upside down on the ocean surface, buoyed by a bubble of air it swallowed. It hunts stinging siphonophores far larger than itself, eating the tentacles and somehow not firing them. The stinging cells are moved intact into the tips of its own blue fingers, packed together far more densely than in the original animal. Picking one up off a beach can sting worse than the jellyfish it ate.",
+    "captions": [
+      "A sea slug that steals other animals' venom.",
+      "The blue dragon floats on a swallowed bubble.",
+      "It eats stinging tentacles without firing them.",
+      "It stores the stingers in its own fingers.",
+      "Its sting is worse than the original."
+    ],
+    "image_prompts": [
+      "bright macro of a blue dragon nudibranch on sunlit water, vivid blue",
+      "close-up of Glaucus atlanticus finger-like cerata, sharp",
+      "the blue slug floating on bright turquoise sea surface, crisp",
+      "macro of a blue sea slug on wet pale sand, well-lit",
+      "wide bright sunlit ocean surface and sky, cinematic"
+    ],
+    "photo_query": "Glaucus atlanticus blue dragon"
+  },
+  {
+    "id": "coconut-crab",
+    "title": "The crab that grips like a lion's bite 🦀 #shorts",
+    "description": "The coconut crab is the largest land arthropod, and it can climb trees and kill birds. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "crab",
+      "island",
+      "strength",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know the biggest land invertebrate can crush with the force of a lion's jaw? The coconut crab spans over three feet across the legs and weighs up to nine pounds. Measurements of its claw put the pinching force in the thousands of newtons, comparable to the bite of a large predator. It climbs trees, cracks open coconuts, and has been filmed killing and eating a seabird. Strangest of all, it breathes air and drowns if held underwater, despite being a crab.",
+    "captions": [
+      "The largest land invertebrate on Earth.",
+      "The coconut crab spans three feet.",
+      "Its pinch rivals a lion's bite force.",
+      "It climbs trees and kills seabirds.",
+      "And it drowns in water."
+    ],
+    "image_prompts": [
+      "bright daylight photo of a huge coconut crab on sand, vivid detail",
+      "close-up of a coconut crab's massive claw, sharp",
+      "coconut crab climbing a sunlit palm trunk, crisp",
+      "macro of the crab's textured shell and eyes, well-lit",
+      "wide bright tropical island beach with palms, cinematic"
+    ],
+    "photo_query": "coconut crab"
+  },
+  {
+    "id": "boomslang",
+    "title": "The snake that made a scientist write his own autopsy ✍️ #shorts",
+    "description": "The boomslang's venom stops blood clotting, and one bite produced a famous death diary. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "snake",
+      "venom",
+      "africa",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know a scientist once documented his own death from a snakebite, hour by hour? In nineteen fifty-seven the herpetologist Karl Schmidt was bitten by a young boomslang and believed the dose was too small to matter. Boomslang venom prevents blood from clotting, and it works slowly, so he went home and kept notes. Over the next day he recorded his nausea, his fever, and the bleeding from his gums and eyes. He died the following afternoon. His diary is still cited in medical literature.",
+    "captions": [
+      "A scientist wrote notes as he died.",
+      "The boomslang's venom stops clotting.",
+      "It works slowly, so he thought he was fine.",
+      "He recorded the bleeding hour by hour.",
+      "He died the next afternoon."
+    ],
+    "image_prompts": [
+      "bright photo of a green boomslang in a sunlit tree, vivid detail",
+      "close-up of a boomslang's huge round eye, sharp",
+      "the snake coiled on bright green foliage, crisp",
+      "macro of green snake scales in sunlight, well-lit",
+      "wide sunlit African bushveld with acacia trees, cinematic"
+    ],
+    "photo_query": "boomslang snake"
+  },
+  {
+    "id": "russells-viper",
+    "title": "The snake that destroys a gland you need to live 🐍 #shorts",
+    "description": "Survivors of Russell's viper bites can lose the function of their pituitary gland forever. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "snake",
+      "venom",
+      "asia",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a snake whose survivors are never the same again? Russell's viper is among the biggest killers of people in South Asia, hiding in farmland where crops are harvested by hand. Its venom shreds blood vessels and stops clotting, but there's a stranger effect. The bleeding can destroy the pituitary gland at the base of the brain. Patients who survive the bite may lose the hormones that control growth, energy and fertility, sometimes years later, from a bite everyone thought they'd walked away from.",
+    "captions": [
+      "A snake that changes survivors forever.",
+      "Russell's viper hides in farmland.",
+      "Its venom shreds blood vessels.",
+      "The bleeding can destroy the pituitary gland.",
+      "Survivors can lose hormones for life."
+    ],
+    "image_prompts": [
+      "bright photo of a Russell's viper coiled in daylight, vivid pattern",
+      "close-up of the viper's chain-patterned scales, sharp",
+      "a viper in sunlit dry grass and stubble, crisp",
+      "macro of a snake's vertical pupil and nostril, well-lit",
+      "wide bright South Asian farmland at harvest, cinematic"
+    ],
+    "photo_query": "Russell's viper"
+  },
+  {
+    "id": "tentacled-snake",
+    "title": "The snake that tricks fish into its mouth 🎣 #shorts",
+    "description": "The tentacled snake fakes an attack so the fish escapes straight into its jaws. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "snake",
+      "predator",
+      "water",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a snake that uses a fish's own reflexes against it? The tentacled snake hangs in the water in a J shape, with two small feelers on its snout that detect water movement. When a fish comes near, the snake twitches the side of its body, not its head. The fish's escape reflex fires automatically, flinging it away from the sound, and straight toward the waiting jaws. The snake strikes at where the fish is going to be. It's one of the fastest strikes ever filmed.",
+    "captions": [
+      "A snake that uses reflexes as a weapon.",
+      "The tentacled snake waits in a J shape.",
+      "It twitches its body, not its head.",
+      "The fish's escape reflex fires the wrong way.",
+      "It swims straight into the jaws."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a tentacled snake in clear water, vivid",
+      "close-up of the two tentacles on the snake's snout, sharp",
+      "the snake hanging in a J shape in sunlit water, crisp",
+      "small silver fish in bright clear shallow water",
+      "wide bright sunlit freshwater scene with plants, cinematic"
+    ],
+    "photo_query": "tentacled snake Erpeton"
+  },
+  {
+    "id": "barreleye-fish",
+    "title": "The fish with a see-through head 🔍 #shorts",
+    "description": "The barreleye's skull is transparent, and its real eyes stare upward inside it. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "fish",
+      "deepsea",
+      "bizarre",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a fish you can see straight into? The barreleye has a dome of transparent tissue over the top of its skull, filled with clear fluid, and floating inside it are two enormous green eyes. Those eyes point almost straight up, scanning for the silhouettes of prey drifting overhead in the last of the light. What look like eyes on the front of its face are actually its nostrils. It can rotate those inner eyes forward to watch its own mouth as it feeds.",
+    "captions": [
+      "A fish you can see inside.",
+      "The barreleye's skull is transparent.",
+      "Two green eyes float in clear fluid.",
+      "They point straight up, hunting silhouettes.",
+      "The 'eyes' on its face are nostrils."
+    ],
+    "image_prompts": [
+      "bright photo of a barreleye fish with transparent head, vivid detail",
+      "close-up of a fish's green tubular eyes inside a clear dome, sharp",
+      "a small deep sea fish against a bright clean background",
+      "macro of translucent fish tissue, well-lit",
+      "wide bright open ocean water column, cinematic"
+    ],
+    "photo_query": "barreleye fish Macropinna"
+  },
+  {
+    "id": "stargazer-fish",
+    "title": "The fish buried in the sand that shocks you ⚡ #shorts",
+    "description": "The stargazer hides under the seabed with venomous spines and electric organs. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "fish",
+      "venom",
+      "electric",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a fish that buries itself in the sand and waits for you to step on it? The stargazer digs in until only its eyes and upward-facing mouth are exposed, staring at the sky. Some species have a worm-shaped lure inside the mouth that they wiggle to draw fish in. Behind the eyes sit two venomous spines. And in several species, muscles that once moved the eyes have been converted into electric organs, capable of delivering a shock to anything that gets too close.",
+    "captions": [
+      "A fish that hides under the sand.",
+      "Only its eyes and mouth stick out.",
+      "Some wave a worm-shaped lure inside.",
+      "Two venomous spines sit behind the eyes.",
+      "Its eye muscles became electric organs."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a stargazer fish buried in sand, vivid",
+      "close-up of the stargazer's upward-facing mouth and eyes, sharp",
+      "the fish's face emerging from bright pale seabed sand, crisp",
+      "macro of a fish's dorsal spines, well-lit",
+      "wide bright sunlit sandy seafloor in clear water, cinematic"
+    ],
+    "photo_query": "stargazer fish"
+  },
+  {
+    "id": "sleeper-cichlid",
+    "title": "The fish that plays dead to hunt 💀 #shorts",
+    "description": "This cichlid lies on the lake floor pretending to be a rotting corpse. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "fish",
+      "lake",
+      "ambush",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a fish that fakes its own death to catch a meal? In Lake Malawi, the sleeper cichlid drops onto its side on the sandy bottom and lies completely still. Its blotchy brown and white pattern looks like the discoloured skin of a fish that's been dead for days. Scavengers and small fish come in to pick at the body. The moment they're close enough, the corpse explodes upward and swallows them. Fishermen on the lake named it after a creature that ambushes sleepers.",
+    "captions": [
+      "A fish that fakes its own death.",
+      "It drops on its side in the sand.",
+      "Its blotches look like rotting skin.",
+      "Scavengers come to pick at the body.",
+      "Then the corpse lunges and swallows them."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a blotched Malawi cichlid, vivid detail",
+      "close-up of a cichlid lying on bright pale lake sand, sharp",
+      "colourful cichlids in clear sunlit water, crisp",
+      "macro of a fish's mottled brown and white pattern, well-lit",
+      "wide bright sunlit sandy lake floor, cinematic"
+    ],
+    "photo_query": "Nimbochromis livingstonii cichlid"
+  },
+  {
+    "id": "sea-angel",
+    "title": "The angel that eats with hooks from its head 😇 #shorts",
+    "description": "The sea angel looks angelic until it opens its head and grabs you. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "ocean",
+      "slug",
+      "predator",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's an animal called a sea angel that hunts with hooks hidden in its head? Clione limacina is a translucent sea slug that swims by flapping two wing-like flaps, drifting through cold seas. It eats only one thing, a snail called the sea butterfly. When it finds one, its head splits open and six grasping cones shoot out, gripping the shell. Rows of tiny hooks then drag the soft body out through the opening, and the angel feeds slowly, for hours.",
+    "captions": [
+      "An animal called the sea angel.",
+      "It flaps two wings through cold water.",
+      "It eats only one prey: the sea butterfly.",
+      "Its head opens and six cones shoot out.",
+      "Hooks drag the body out of the shell."
+    ],
+    "image_prompts": [
+      "bright macro of a translucent sea angel Clione in clear water, vivid",
+      "close-up of the sea angel's wing-like flaps, sharp",
+      "a small transparent sea slug backlit in bright water, crisp",
+      "macro of a tiny sea butterfly shell in clear water, well-lit",
+      "wide bright sunlit cold ocean water column, cinematic"
+    ],
+    "photo_query": "Clione limacina sea angel"
+  },
+  {
+    "id": "pacu",
+    "title": "The fish with human teeth 🦷 #shorts",
+    "description": "The pacu has flat square molars that look unsettlingly like a person's. #shorts #animals #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "fish",
+      "amazon",
+      "teeth",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know there's a fish with a mouth full of human-looking teeth? The pacu is a close relative of the piranha, but instead of blades it grew flat square molars, in rows, that look uncannily like a person's. It uses them to crush nuts and seeds that fall into the rivers of the Amazon, and it can grow past three feet long and eighty pounds. The tabloid stories about pacu attacking swimmers are almost entirely myth. The teeth, however, are completely real.",
+    "captions": [
+      "A fish with human-looking teeth.",
+      "The pacu is a piranha relative.",
+      "Its molars are flat and square.",
+      "It uses them to crush nuts and seeds.",
+      "The attack stories are myth. The teeth aren't."
+    ],
+    "image_prompts": [
+      "bright close-up of a pacu fish's teeth and jaw, vivid detail",
+      "photo of a large pacu fish held in daylight, sharp",
+      "macro of flat square fish molars, well-lit",
+      "a pacu swimming in bright clear river water, crisp",
+      "wide sunlit Amazon river with green banks, cinematic"
+    ],
+    "photo_query": "pacu fish teeth"
   }
 ]
