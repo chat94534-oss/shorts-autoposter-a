@@ -1,1 +1,1808 @@
-[]
+[
+  {
+    "id": "leafcutter-ant",
+    "title": "The ant that farms its own food underground #shorts",
+    "description": "Leafcutter ants don't eat leaves at all. They chew them into pulp to grow a fungus garden that feeds the entire colony. #shorts #nature #facts #didyouknow #ants",
+    "tags": [
+      "leafcutterant",
+      "ants",
+      "insects",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "farming"
+    ],
+    "script": "Did you know an ant species has been farming for fifty million years, long before humans figured it out? Leafcutter ants march for miles carrying pieces of leaf many times their own body weight, but they never eat a single bite of it. Instead, worker ants chew the leaf fragments into a pulp inside underground chambers, feeding a specific fungus that grows nowhere else on Earth. The fungus breaks down the plant matter the ants can't digest, and the colony survives entirely on it, tending the garden, weeding out invaders, and even fertilizing it with their own waste.",
+    "captions": [
+      "An ant species has farmed for fifty million years.",
+      "They carry leaves many times their body weight.",
+      "They never eat the leaves themselves.",
+      "The leaves feed an underground fungus garden.",
+      "The colony survives entirely on that fungus."
+    ],
+    "image_prompts": [
+      "bright photo of leafcutter ants carrying leaf fragments in a line, vivid",
+      "close-up of an ant slicing a leaf with its mandibles, sharp detail",
+      "underground fungus garden chamber, well-lit macro",
+      "macro of ants tending fungus strands, cinematic lighting",
+      "wide bright shot of a rainforest floor with an ant trail"
+    ]
+  },
+  {
+    "id": "driver-ant",
+    "title": "The ant colony that swallows everything in its path #shorts",
+    "description": "Driver ant colonies march in swarms of millions, overwhelming and dismembering anything too slow to escape. #shorts #nature #facts #didyouknow #ants",
+    "tags": [
+      "driverant",
+      "ants",
+      "insects",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "swarm"
+    ],
+    "script": "Did you know a single ant colony can contain over twenty million members and move as one living carpet? Driver ants have no permanent nest, instead marching in vast raiding columns across the African forest floor, swarming over anything that can't get out of the way in time. Soldiers with oversized jaws form living walls to protect the column while workers overwhelm prey many times their size, cutting it apart piece by piece and carrying it back to the colony. Villages in their path have historically had to evacuate until the swarm moves on.",
+    "captions": [
+      "A colony can hold twenty million members.",
+      "They march as one living carpet.",
+      "Soldiers form living walls to guard the column.",
+      "Prey too slow gets overwhelmed and dismembered.",
+      "Villages have had to evacuate their path."
+    ],
+    "image_prompts": [
+      "bright photo of a massive driver ant swarm on forest floor, vivid",
+      "close-up of soldier ants with oversized jaws, sharp detail",
+      "a living bridge of ants crossing a gap, well-lit",
+      "macro of ants dismembering prey, cinematic lighting",
+      "wide bright shot of an African forest floor at sunrise"
+    ]
+  },
+  {
+    "id": "giant-anteater",
+    "title": "The tongue that can flick 150 times a minute #shorts",
+    "description": "The giant anteater has no teeth at all, just a two-foot sticky tongue that destroys an entire termite mound in minutes. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "anteater",
+      "mammals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife",
+      "insects"
+    ],
+    "script": "Did you know an animal can flick its tongue over a hundred and fifty times a minute without ever stopping to chew? The giant anteater has no teeth in its mouth at all, relying instead on a tongue nearly two feet long, coated in sticky saliva, that darts in and out of termite mounds it tears open with foot-long claws. In a single day it can consume up to thirty thousand insects, but it never lingers at one mound too long, moving on before the colony's soldiers mount a chemical counterattack.",
+    "captions": [
+      "Its tongue flicks over 150 times a minute.",
+      "It has no teeth in its mouth at all.",
+      "Claws tear open hardened termite mounds.",
+      "It eats up to thirty thousand insects a day.",
+      "It moves on before soldiers counterattack."
+    ],
+    "image_prompts": [
+      "bright photo of a giant anteater with long snout in grassland, vivid",
+      "close-up of its claws tearing into a termite mound, sharp detail",
+      "its tongue extended toward insects, well-lit macro",
+      "a giant anteater walking across open savanna, cinematic light",
+      "wide bright shot of a sunlit termite mound field"
+    ]
+  },
+  {
+    "id": "warthog",
+    "title": "The animal that backs into its own home #shorts",
+    "description": "Warthogs sleep in abandoned aardvark burrows and reverse in backward every time, tusks facing the entrance. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "warthog",
+      "mammals",
+      "africa",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know an animal backs into its own bedroom every single night, just in case? Warthogs don't dig their own burrows, instead moving into ones abandoned by aardvarks, but they always reverse in tail first, curved tusks facing outward toward the entrance. It means any predator that follows them in meets a wall of sharp ivory instead of a soft, defenseless back. Piglets go in first so the mother can guard the doorway last, turning a borrowed hole in the ground into a fully armed last stand.",
+    "captions": [
+      "It backs into its burrow every night.",
+      "It doesn't dig the burrow itself.",
+      "Tusks always face the entrance.",
+      "Predators meet ivory instead of a soft back.",
+      "Piglets enter first, mother guards last."
+    ],
+    "image_prompts": [
+      "bright photo of a warthog with curved tusks in savanna, vivid",
+      "close-up of its tusks and bristled face, sharp detail",
+      "a warthog backing into a burrow entrance, well-lit",
+      "warthog piglets near a burrow opening, cinematic lighting",
+      "wide bright shot of a sunlit African savanna"
+    ]
+  },
+  {
+    "id": "wildebeest-crossing",
+    "title": "The river crossing that kills thousands every year #shorts",
+    "description": "During the Great Migration, wildebeest funnel into crocodile-infested rivers by the millions, and thousands never make it across. #shorts #nature #facts #didyouknow #wildlife",
+    "photo_query": "wildebeest river crossing migration",
+    "tags": [
+      "wildebeest",
+      "migration",
+      "africa",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know over a million animals throw themselves into the same crocodile-filled river every single year, and there's no way around it? During the Great Migration, wildebeest herds reach the Mara River and panic under the pressure of the herd behind them, plunging in at the same crossing points year after year. Steep banks trap the weakest in the current, drowning them before crocodiles even reach them, while others are pulled under mid-swim. Roughly six thousand wildebeest die at these crossings annually, and their bodies end up feeding the entire river ecosystem for months.",
+    "captions": [
+      "Over a million animals cross the same river.",
+      "Herd pressure forces them into the water.",
+      "Steep banks trap the weakest in the current.",
+      "Crocodiles wait at the same points every year.",
+      "About six thousand die at the crossings annually."
+    ],
+    "image_prompts": [
+      "bright photo of wildebeest herd plunging into a river, vivid",
+      "close-up of a crocodile waiting in murky water, sharp detail",
+      "wildebeest struggling up a steep muddy riverbank, well-lit",
+      "chaotic river crossing scene with dust and spray, cinematic",
+      "wide bright shot of a river valley full of wildebeest"
+    ]
+  },
+  {
+    "id": "nile-crocodile",
+    "title": "The ambush predator that hasn't changed in 200 million years #shorts",
+    "description": "The Nile crocodile can hold its breath for over an hour and clamps down with more bite force than any living animal. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "crocodile",
+      "africa",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife",
+      "predator"
+    ],
+    "script": "Did you know an animal alive today bites down harder than any other creature on the planet, living or extinct as far as we can measure? The Nile crocodile lies motionless at the water's edge for hours, eyes barely above the surface, before exploding forward in a burst that closes its jaws with over five thousand pounds of force. Once it has a hold, it drags prey underwater and spins violently in what's called a death roll, disorienting and drowning it in seconds. It can survive on a single large meal for close to a year.",
+    "captions": [
+      "It bites harder than any living animal.",
+      "It waits motionless for hours before striking.",
+      "Its jaws close with over five thousand pounds of force.",
+      "A death roll drowns prey in seconds.",
+      "One large meal can last it nearly a year."
+    ],
+    "image_prompts": [
+      "bright photo of a Nile crocodile lurking at water's edge, vivid",
+      "close-up of its eyes just above the waterline, sharp detail",
+      "a crocodile mid-strike bursting from water, well-lit dramatic",
+      "its jaws clamped down, cinematic lighting",
+      "wide bright shot of a sunlit African riverbank"
+    ]
+  },
+  {
+    "id": "king-baboon-spider",
+    "title": "The spider that digs a trapdoor and waits #shorts",
+    "description": "The king baboon spider builds a silk-lined burrow with a hidden trapdoor and can wait months for prey to walk by. #shorts #nature #facts #didyouknow #spiders",
+    "tags": [
+      "spider",
+      "tarantula",
+      "africa",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "arachnid"
+    ],
+    "script": "Did you know a spider can dig a burrow over a foot deep and then wait inside it for months without moving? The king baboon spider, one of Africa's largest tarantulas, lines its underground tunnel with silk and seals the entrance with a nearly invisible trapdoor made of soil and web. It rests with its front legs against the door, feeling for vibrations through the ground, and the instant prey walks close enough, it bursts out, grabs its meal, and vanishes back underground before the victim even understands what happened.",
+    "captions": [
+      "It digs a burrow over a foot deep.",
+      "It waits inside for months without moving.",
+      "A trapdoor of silk and soil hides the entrance.",
+      "It feels for vibrations through the ground.",
+      "It vanishes underground before prey understands."
+    ],
+    "image_prompts": [
+      "bright photo of a large hairy tarantula near a burrow, vivid",
+      "close-up of its trapdoor burrow entrance, sharp detail",
+      "the spider bursting out to grab prey, well-lit dramatic",
+      "macro of its front legs sensing vibrations, cinematic lighting",
+      "wide bright shot of a sunlit African grassland"
+    ]
+  },
+  {
+    "id": "giant-desert-centipede",
+    "title": "The centipede that can kill prey twice its size #shorts",
+    "description": "The giant desert centipede injects venom through modified front legs strong enough to subdue lizards and small mammals. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "centipede",
+      "desert",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife",
+      "venom"
+    ],
+    "script": "Did you know a centipede can grow longer than a human hand and take down prey many times its own size? The giant desert centipede doesn't bite with its mouth at all, instead using modified front legs called forcipules that curve underneath its head like fangs, injecting venom powerful enough to paralyze lizards, mice, and even small snakes. It hunts almost entirely at night, moving fast on dozens of legs across open sand, and once venom hits, the fight is usually over in seconds, the prey's nervous system shutting down before it can even struggle free.",
+    "captions": [
+      "It can grow longer than a human hand.",
+      "It bites with modified front legs, not its mouth.",
+      "Venom can paralyze lizards and small mammals.",
+      "It hunts almost entirely at night.",
+      "The fight is usually over in seconds."
+    ],
+    "image_prompts": [
+      "bright photo of a large centipede on desert sand, vivid",
+      "close-up of its front venom claws, sharp detail",
+      "the centipede attacking a lizard, well-lit dramatic",
+      "macro of its many legs in motion, cinematic lighting",
+      "wide bright shot of a moonlit desert floor"
+    ]
+  },
+  {
+    "id": "mudskipper",
+    "title": "The fish that abandoned the water #shorts",
+    "description": "Mudskippers can breathe through their skin, walk on land using their fins, and even climb trees to escape predators. #shorts #nature #facts #didyouknow #fish",
+    "tags": [
+      "mudskipper",
+      "fish",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know a fish exists that spends most of its life out of the water entirely? The mudskipper breathes partly through its skin and the lining of its mouth, letting it survive for hours on exposed mudflats as long as it stays damp. It drags itself across the mud using muscular fins like tiny arms, hops several body lengths in a single leap to escape predators, and some species even climb up onto mangrove roots. If it stays underwater too long without surfacing, it can actually drown, a fish suffocating in the water it evolved to leave behind.",
+    "captions": [
+      "A fish that lives mostly out of water.",
+      "It breathes through its skin and mouth lining.",
+      "It drags itself across mud with its fins.",
+      "It can leap and even climb trees.",
+      "Stay underwater too long, and it can drown."
+    ],
+    "image_prompts": [
+      "bright photo of a mudskipper fish on wet mudflat, vivid",
+      "close-up of its bulging eyes and fins, sharp detail",
+      "a mudskipper leaping across mud, well-lit action shot",
+      "one perched on a mangrove root, cinematic lighting",
+      "wide bright shot of a sunlit tropical mudflat"
+    ]
+  },
+  {
+    "id": "giant-pangolin",
+    "title": "The mammal covered head to tail in armor #shorts",
+    "description": "The giant pangolin is the only mammal covered entirely in scales, and it can seal itself into an armored ball no predator can open. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "pangolin",
+      "mammals",
+      "africa",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know there's a mammal that looks more like a walking pinecone than anything with fur? The giant pangolin is covered head to tail in overlapping keratin scales, the same material as human fingernails, making it the only mammal on Earth built entirely in armor. When threatened, it curls into a tight ball so complete that even a lion struggles to pry it open, and it can lash its sharp-edged tail hard enough to injure an attacker that gets too close. It also has no teeth, using an incredibly long sticky tongue to vacuum up ants and termites instead.",
+    "captions": [
+      "It's covered head to tail in hard scales.",
+      "It's the only mammal fully covered in armor.",
+      "It curls into a ball predators can't open.",
+      "Its tail can lash out and injure attackers.",
+      "It has no teeth at all."
+    ],
+    "image_prompts": [
+      "bright photo of a scaled pangolin walking at night, vivid",
+      "close-up of its overlapping keratin scales, sharp detail",
+      "a pangolin curled into a tight defensive ball, well-lit",
+      "its long tongue reaching into a termite mound, cinematic light",
+      "wide bright shot of an African savanna at dusk"
+    ]
+  },
+  {
+    "id": "aardwolf",
+    "title": "The hyena relative that eats 300,000 bugs a night #shorts",
+    "description": "The aardwolf is a hyena that abandoned meat entirely, using a sticky tongue to lap up hundreds of thousands of termites every night. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "aardwolf",
+      "hyena",
+      "africa",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know a member of the hyena family gave up hunting almost entirely and lives on insects instead? The aardwolf looks like a small striped hyena but has weak jaws and tiny peg-like teeth, useless for tearing meat. Instead it walks slowly across the savanna at night, sweeping its long sticky tongue across the ground to lap up harvester termites one at a time, sometimes consuming over three hundred thousand in a single night. It avoids the aggressive soldier termites entirely, timing its feeding to when the workers are exposed and undefended.",
+    "captions": [
+      "A hyena relative that mostly eats insects.",
+      "Its jaws and teeth are too weak for meat.",
+      "It laps up termites with a sticky tongue.",
+      "It can eat over 300,000 in one night.",
+      "It avoids the aggressive soldier termites."
+    ],
+    "image_prompts": [
+      "bright photo of a striped aardwolf on savanna at dusk, vivid",
+      "close-up of its small head and tongue near ground, sharp detail",
+      "an aardwolf walking slowly across grassland, well-lit",
+      "macro of termites scattered on dry earth, cinematic lighting",
+      "wide bright shot of an African savanna at twilight"
+    ]
+  },
+  {
+    "id": "maned-wolf",
+    "title": "The wolf that isn't a wolf and hunts alone on stilts #shorts",
+    "description": "The maned wolf isn't closely related to wolves at all, standing on stilt-like legs and marking territory with urine that smells like cannabis. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "manedwolf",
+      "southamerica",
+      "mammals",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know an animal called a wolf isn't closely related to any wolf alive today? The maned wolf of South America is the last surviving member of its own genus, built with absurdly long, stilt-like legs that let it see over tall grassland while hunting alone at night. It eats almost half plant matter, especially a tomato-like fruit, and its urine contains a compound so similar to cannabis that police dogs have reportedly reacted to zoo enclosures. Despite the name, it can't even interbreed with true wolves.",
+    "captions": [
+      "It's called a wolf but isn't closely related to any.",
+      "It's the last of its entire genus.",
+      "Stilt-like legs help it see over tall grass.",
+      "Almost half its diet is plant matter.",
+      "Its urine chemically resembles cannabis."
+    ],
+    "image_prompts": [
+      "bright photo of a red-coated long-legged canid in grassland, vivid",
+      "close-up of its unusually long legs, sharp detail",
+      "it hunting alone at dusk in tall grass, well-lit",
+      "it eating a tomato-like fruit, cinematic lighting",
+      "wide bright shot of a South American savanna at sunset"
+    ]
+  },
+  {
+    "id": "fossa",
+    "title": "The predator that looks like a cat but isn't one #shorts",
+    "description": "The fossa is Madagascar's top predator, closer to a mongoose than a cat, and can rotate its ankles to run headfirst down trees. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "fossa",
+      "madagascar",
+      "predator",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know the top predator on an entire island isn't a cat, despite looking almost exactly like one? The fossa of Madagascar is actually more closely related to the mongoose, but evolved a catlike body to fill the role of an apex predator on an island with no big cats at all. Its ankles can rotate nearly backward, letting it descend trees headfirst at full speed while chasing lemurs through the canopy. Mating can last up to three hours at a time, and a female may mate with multiple males from the same tree in a single day.",
+    "captions": [
+      "It's Madagascar's top predator, but not a cat.",
+      "It's actually closer to a mongoose.",
+      "Its ankles rotate to run down trees headfirst.",
+      "It chases lemurs at full speed through the canopy.",
+      "Mating sessions can last up to three hours."
+    ],
+    "image_prompts": [
+      "bright photo of a slender catlike fossa on a tree branch, vivid",
+      "close-up of its reddish fur and sharp claws, sharp detail",
+      "a fossa descending a tree headfirst, well-lit action shot",
+      "it chasing a lemur through canopy, cinematic lighting",
+      "wide bright shot of a sunlit Madagascar rainforest"
+    ]
+  },
+  {
+    "id": "babirusa",
+    "title": "The pig whose tusks can grow into its own skull #shorts",
+    "description": "Male babirusa tusks curve upward through the snout and, if never worn down, can grow in a circle straight into the animal's own skull. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "babirusa",
+      "pig",
+      "indonesia",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know an animal's own tusks can eventually kill it by growing straight back into its skull? The male babirusa, a wild pig native to Indonesia, grows upper tusks that pierce upward through the top of its snout instead of the sides of its mouth, curving back toward its own face. In the wild, they're usually worn down through fighting and rubbing against trees, but in rare cases where they aren't, the tusks keep curling until they pierce the animal's own forehead. Locals call them deer-pigs for the way the curved tusks resemble antlers.",
+    "captions": [
+      "Its own tusks can eventually kill it.",
+      "Tusks pierce upward through the top of the snout.",
+      "They curve back toward the animal's own face.",
+      "Without wear, they can pierce its own skull.",
+      "Locals call them deer-pigs for their antler-like tusks."
+    ],
+    "image_prompts": [
+      "bright photo of a babirusa with curved upward tusks, vivid",
+      "close-up of its tusks curling toward its face, sharp detail",
+      "a babirusa in tropical forest undergrowth, well-lit",
+      "macro of tusk texture and curvature, cinematic lighting",
+      "wide bright shot of a sunlit Indonesian rainforest"
+    ]
+  },
+  {
+    "id": "proboscis-monkey",
+    "title": "The monkey with a nose so big it needs a warning #shorts",
+    "description": "Male proboscis monkeys have noses so large they can flop over their mouths, and the size directly signals dominance to females. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "proboscismonkey",
+      "borneo",
+      "primates",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know the size of an animal's nose can decide who gets to lead the group? Male proboscis monkeys of Borneo grow noses so large they can hang down past their chin and flop over their mouth while eating, and the bigger the nose, the louder the honking call it produces to intimidate rivals and attract females. Females actually prefer males with larger noses, making it a direct target of sexual selection. The monkeys are also strong swimmers with partially webbed feet, regularly crossing rivers where crocodiles wait for exactly this kind of opportunity.",
+    "captions": [
+      "Nose size can decide who leads the group.",
+      "Male noses can flop over their own mouth.",
+      "Bigger noses make louder, more intimidating calls.",
+      "Females prefer males with larger noses.",
+      "They're strong swimmers crossing crocodile-filled rivers."
+    ],
+    "image_prompts": [
+      "bright photo of a proboscis monkey with a huge nose, vivid",
+      "close-up of its oversized nose in detail, sharp focus",
+      "a group of proboscis monkeys in trees, well-lit",
+      "one swimming across a river, cinematic action lighting",
+      "wide bright shot of a sunlit Borneo river forest"
+    ]
+  },
+  {
+    "id": "emperor-scorpion",
+    "title": "The scorpion that glows under a black light #shorts",
+    "description": "Emperor scorpions glow bright blue-green under UV light, a trait scientists still can't fully explain the purpose of. #shorts #nature #facts #didyouknow #arachnid",
+    "tags": [
+      "scorpion",
+      "arachnid",
+      "africa",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know an animal's entire body can glow under a black light, and nobody is completely sure why? The emperor scorpion, one of the largest scorpion species on Earth, has a hard exoskeleton that fluoresces a vivid blue-green under ultraviolet light, a trait shared across nearly every scorpion species alive. Researchers have found fossilized scorpions over one hundred million years old that still glow the same way. Leading theories suggest it helps them detect UV light itself, essentially turning their whole body into a light sensor to know when to retreat underground before sunrise.",
+    "captions": [
+      "Its entire body glows under a black light.",
+      "Scientists still aren't sure exactly why.",
+      "Nearly every scorpion species shares this trait.",
+      "Fossil scorpions over 100 million years old still glow.",
+      "It may work as a full-body light sensor."
+    ],
+    "image_prompts": [
+      "bright photo of a large dark scorpion on sand, vivid",
+      "close-up glowing blue-green under UV light, sharp detail",
+      "a scorpion under normal daylight for contrast, well-lit",
+      "macro of its exoskeleton texture, cinematic lighting",
+      "wide shot of a desert night scene with glowing scorpions"
+    ]
+  },
+  {
+    "id": "six-eyed-sand-spider",
+    "title": "The spider that buries itself and waits to strike #shorts",
+    "description": "The six-eyed sand spider hides completely buried in sand for days, ambushing prey with venom that can cause tissue death. #shorts #nature #facts #didyouknow #spiders",
+    "tags": [
+      "spider",
+      "sandspider",
+      "africa",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "arachnid"
+    ],
+    "script": "Did you know a spider can disappear completely under a thin layer of sand and remain invisible for days at a time? The six-eyed sand spider of southern Africa buries itself just beneath the surface, using bristled legs to fling sand over its body until only its eyes remain uncovered, waiting motionless for prey to wander close. Its venom is powerful enough to cause serious tissue damage in animals far larger than itself, but because it lives in remote desert regions and rarely encounters humans, confirmed human bites remain extremely rare in medical records.",
+    "captions": [
+      "It disappears completely under a thin layer of sand.",
+      "It waits buried and motionless for days.",
+      "Only its eyes stay uncovered.",
+      "Its venom can cause serious tissue damage.",
+      "Confirmed human bites remain extremely rare."
+    ],
+    "image_prompts": [
+      "bright photo of a flat pale spider on desert sand, vivid",
+      "close-up of it burying itself under sand, sharp detail",
+      "only its eyes visible above the sand, well-lit macro",
+      "a sand spider emerging to strike, cinematic lighting",
+      "wide bright shot of a sunlit desert dune"
+    ]
+  },
+  {
+    "id": "brown-recluse-spider",
+    "title": "The bite you might not feel until hours later #shorts",
+    "description": "A brown recluse bite often causes no immediate pain, and the tissue damage can take days to fully reveal itself. #shorts #nature #facts #didyouknow #spiders",
+    "tags": [
+      "brownrecluse",
+      "spider",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "arachnid",
+      "venom"
+    ],
+    "script": "Did you know some spider bites don't hurt at all when they happen, and the real damage shows up days later? The brown recluse hides in dark, undisturbed places like closets and shoes, and its venom contains an enzyme that breaks down cell membranes rather than causing instant pain. Victims often don't realize they've been bitten until a red patch of skin starts to blister, then spreads and dies over the following days, sometimes requiring surgical removal of the dead tissue. The spider itself is shy and only bites when trapped against skin.",
+    "captions": [
+      "Some bites cause no pain at all when they happen.",
+      "The real damage shows up days later.",
+      "It hides in closets and shoes.",
+      "Venom breaks down cell membranes slowly.",
+      "Dead tissue can require surgical removal."
+    ],
+    "image_prompts": [
+      "bright macro photo of a small brown spider, vivid detail",
+      "close-up of its distinctive violin marking, sharp focus",
+      "a spider hiding inside a dark shoe, well-lit",
+      "macro of its legs and body texture, cinematic lighting",
+      "wide bright shot of a sunlit storage closet interior"
+    ]
+  },
+  {
+    "id": "bark-scorpion",
+    "title": "The scorpion that can climb straight up glass #shorts",
+    "description": "The Arizona bark scorpion is the most venomous scorpion in North America and can climb walls, trees, and even ceilings. #shorts #nature #facts #didyouknow #arachnid",
+    "tags": [
+      "barkscorpion",
+      "scorpion",
+      "desert",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "venom"
+    ],
+    "script": "Did you know a scorpion can climb straight up a smooth wall and hang upside down on a ceiling above your bed? The Arizona bark scorpion is the most venomous scorpion in North America, and unlike most scorpion species, it can cling to vertical surfaces and even climb into trees and attics. Its sting causes intense pain, numbness, and in rare cases breathing difficulty, especially dangerous for small children. It often hides in shoes, folded towels, or under bark during the day, only becoming active once the desert heat fades after sunset.",
+    "captions": [
+      "It can climb straight up a smooth wall.",
+      "It's the most venomous scorpion in North America.",
+      "It can hang upside down on ceilings.",
+      "Its sting can cause numbness and breathing trouble.",
+      "It becomes active after the desert heat fades."
+    ],
+    "image_prompts": [
+      "bright photo of a pale scorpion clinging to bark, vivid",
+      "close-up of it climbing a vertical wall surface, sharp detail",
+      "a scorpion hiding under bark during daylight, well-lit",
+      "macro of its raised stinger, cinematic lighting",
+      "wide bright shot of a desert landscape at dusk"
+    ]
+  },
+  {
+    "id": "saddleback-caterpillar",
+    "title": "The caterpillar covered in poison-tipped spines #shorts",
+    "description": "The saddleback caterpillar's spines deliver a sting compared to a bee, and its bright colors are a deliberate warning. #shorts #nature #facts #didyouknow #insects",
+    "tags": [
+      "caterpillar",
+      "insects",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "venom",
+      "wildlife"
+    ],
+    "script": "Did you know a caterpillar can put you in more pain than a wasp sting just from brushing against a leaf? The saddleback caterpillar carries rows of fleshy spines packed with venom glands, and its vivid green saddle marking with a brown center isn't camouflage at all, it's an advertisement warning predators to stay away. Brushing against it breaks the hollow spines and injects venom that causes burning pain, swelling, and sometimes a rash lasting for days. Despite the pain, the sting itself is rarely dangerous, and the caterpillar eventually becomes a fairly unremarkable brown moth.",
+    "captions": [
+      "It can hurt more than a wasp sting.",
+      "Rows of spines are packed with venom glands.",
+      "Its bright colors are a warning, not camouflage.",
+      "Contact causes burning pain and swelling.",
+      "It later becomes an unremarkable brown moth."
+    ],
+    "image_prompts": [
+      "bright macro photo of a green spiny caterpillar on a leaf, vivid",
+      "close-up of its venomous spines, sharp detail",
+      "the caterpillar's saddle marking pattern, well-lit macro",
+      "it resting on green foliage, cinematic lighting",
+      "wide bright shot of a sunlit garden leaf cluster"
+    ]
+  },
+  {
+    "id": "io-moth-caterpillar",
+    "title": "The fuzzy caterpillar you should never touch #shorts",
+    "description": "The io moth caterpillar looks soft and harmless, but its bristles are hollow venom needles that cause instant burning pain. #shorts #nature #facts #didyouknow #insects",
+    "tags": [
+      "iomoth",
+      "caterpillar",
+      "insects",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "venom"
+    ],
+    "script": "Did you know the softest-looking caterpillar in the forest can also be one of the most painful to touch? The io moth caterpillar is bright green and covered in dense tufts of spines that look almost fuzzy and inviting from a distance. Each spine is actually a hollow needle connected to a venom gland, and the lightest brush against skin snaps them off and injects venom that causes an immediate, intense burning sensation. The pain can spread and last for hours, all from an insect that, once grown, becomes a large harmless moth with owl-like eye markings on its wings.",
+    "captions": [
+      "The softest-looking caterpillar can be the most painful.",
+      "Its spines look fuzzy but are hollow venom needles.",
+      "The lightest touch snaps them off.",
+      "It injects venom that burns instantly.",
+      "It later becomes a harmless owl-eyed moth."
+    ],
+    "image_prompts": [
+      "bright macro photo of a green spiky caterpillar, vivid detail",
+      "close-up of its venomous spine tufts, sharp focus",
+      "the caterpillar on a leaf in daylight, well-lit",
+      "macro of individual hollow spines, cinematic lighting",
+      "wide bright shot of a sunlit forest understory"
+    ]
+  },
+  {
+    "id": "atlas-moth",
+    "title": "The moth born without a working mouth #shorts",
+    "description": "Atlas moths are among the largest moths on Earth but are born without functional mouths and can never eat again. #shorts #nature #facts #didyouknow #insects",
+    "tags": [
+      "atlasmoth",
+      "moth",
+      "insects",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know one of the largest flying insects on the planet is born already starving to death? The atlas moth can have a wingspan close to a foot across, rivaling small birds, but as an adult it has no functional mouthparts at all. It survives purely on fat reserves stored during its caterpillar stage, meaning every flight it takes spends down a fuel tank that will never refill. Adults typically live only one to two weeks, using that brief window solely to find a mate before their bodies simply run out of energy.",
+    "captions": [
+      "One of the largest flying insects starves from birth.",
+      "Its wingspan can rival a small bird's.",
+      "Adults have no functional mouthparts.",
+      "It survives only on stored fat reserves.",
+      "It lives just one to two weeks total."
+    ],
+    "image_prompts": [
+      "bright photo of a giant patterned atlas moth, vivid detail",
+      "close-up of its wing eyespot markings, sharp focus",
+      "the moth resting on tree bark, well-lit",
+      "its wingspan compared to a hand, cinematic lighting",
+      "wide bright shot of a sunlit tropical forest clearing"
+    ]
+  },
+  {
+    "id": "deaths-head-hawkmoth",
+    "title": "The moth that breaks into beehives and squeaks #shorts",
+    "description": "The death's-head hawkmoth mimics bee pheromones to raid hives for honey, and can squeak loudly enough to stun guard bees. #shorts #nature #facts #didyouknow #insects",
+    "photo_query": "death's head hawkmoth",
+    "tags": [
+      "hawkmoth",
+      "moth",
+      "insects",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know a moth can walk straight into a beehive full of thousands of guards and steal honey without being torn apart? The death's-head hawkmoth carries a skull-shaped pattern on its back and produces chemical scents that mimic the colony's own pheromones, letting it slip past guard bees undetected. If confronted anyway, it forces air through its throat to produce a loud squeak that appears to startle and disorient attacking bees just long enough to escape. Its thick, tough exoskeleton also helps it survive stings that would otherwise be fatal to most insects its size.",
+    "captions": [
+      "A moth can raid a hive full of guard bees.",
+      "It mimics the colony's own chemical scent.",
+      "It squeaks loudly when confronted.",
+      "The squeak startles and disorients attacking bees.",
+      "A tough exoskeleton helps it survive stings."
+    ],
+    "image_prompts": [
+      "bright photo of a moth with skull-pattern markings, vivid",
+      "close-up of the skull marking on its thorax, sharp detail",
+      "the moth inside a beehive among bees, well-lit",
+      "macro of its proboscis and face, cinematic lighting",
+      "wide bright shot of a sunlit apiary with hives"
+    ]
+  },
+  {
+    "id": "giant-water-scorpion",
+    "title": "The insect that breathes through a built-in snorkel #shorts",
+    "description": "The water scorpion isn't a scorpion at all, it's an insect that hunts underwater and breathes through a long tail-tube snorkel. #shorts #nature #facts #didyouknow #insects",
+    "tags": [
+      "waterscorpion",
+      "insects",
+      "pond",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know an insect can live entirely underwater without ever developing gills? The water scorpion isn't related to true scorpions at all, it's actually a true bug that hunts in ponds and slow streams, gripping prey with sharp front legs shaped like a praying mantis's. Instead of gills, it has a long thin tube extending from its rear end that it pokes above the surface like a snorkel, breathing air while staying almost completely still and camouflaged among underwater plants, waiting for tadpoles and small fish to swim within reach.",
+    "captions": [
+      "An insect that lives underwater without gills.",
+      "It isn't related to true scorpions at all.",
+      "Front legs grip prey like a praying mantis.",
+      "A tail tube works as a breathing snorkel.",
+      "It waits camouflaged among underwater plants."
+    ],
+    "image_prompts": [
+      "bright macro photo of a water scorpion insect underwater, vivid",
+      "close-up of its tail breathing tube at the surface, sharp detail",
+      "it gripping prey with front legs, well-lit",
+      "macro of its long thin body shape, cinematic lighting",
+      "wide bright shot of a sunlit pond with plants"
+    ]
+  },
+  {
+    "id": "fishing-spider",
+    "title": "The spider that walks on water to hunt fish #shorts",
+    "description": "The fishing spider uses surface tension to walk on water and can dive underwater to catch small fish and tadpoles. #shorts #nature #facts #didyouknow #spiders",
+    "tags": [
+      "fishingspider",
+      "spider",
+      "pond",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know a spider can walk across the surface of a pond as easily as walking across dry ground? The fishing spider uses water-repellent hairs on its legs to exploit surface tension, gliding across ponds and streams while detecting vibrations from struggling prey. It doesn't just stay on top either, diving fully underwater for several minutes at a time to ambush tadpoles and small fish, using an air bubble trapped in its hairs to keep breathing below the surface. Its bite delivers venom strong enough to subdue prey many times its own size.",
+    "captions": [
+      "It walks across water like solid ground.",
+      "Water-repellent hairs exploit surface tension.",
+      "It dives fully underwater to hunt.",
+      "A trapped air bubble lets it breathe below.",
+      "Its venom subdues prey far larger than itself."
+    ],
+    "image_prompts": [
+      "bright photo of a large spider standing on water surface, vivid",
+      "close-up of its legs on the water's surface tension, sharp detail",
+      "the spider diving underwater after prey, well-lit action shot",
+      "it gripping a small fish, cinematic lighting",
+      "wide bright shot of a sunlit still pond"
+    ]
+  },
+  {
+    "id": "diving-bell-spider",
+    "title": "The only spider that lives its entire life underwater #shorts",
+    "description": "The diving bell spider builds an air-filled silk dome underwater and spends nearly its whole life breathing inside it. #shorts #nature #facts #didyouknow #spiders",
+    "tags": [
+      "divingbellspider",
+      "spider",
+      "pond",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know there's a spider that never has to leave the water at all, because it builds its own personal air tank underwater? The diving bell spider spins a dome-shaped web between underwater plants and fills it with air it carries down from the surface trapped on hairs covering its abdomen, trip after trip, until the bubble is large enough to live inside. It eats, molts, mates, and lays eggs entirely within this underwater air pocket, only surfacing occasionally to refresh the oxygen supply, making it the only spider species known to spend almost its entire life submerged.",
+    "captions": [
+      "It never has to leave the water at all.",
+      "It builds a personal air tank underwater.",
+      "Air is carried down trapped on its hairs.",
+      "It eats, molts, and mates inside the bubble.",
+      "It's the only spider to live almost entirely submerged."
+    ],
+    "image_prompts": [
+      "bright photo of a spider inside an underwater air bubble dome, vivid",
+      "close-up of air trapped on its abdomen hairs, sharp detail",
+      "the silk dome web underwater among plants, well-lit",
+      "the spider surfacing briefly for air, cinematic lighting",
+      "wide bright shot of a sunlit freshwater pond underwater scene"
+    ]
+  },
+  {
+    "id": "dumbo-octopus",
+    "title": "The octopus that lives deeper than almost anything else #shorts",
+    "description": "The dumbo octopus lives up to 13,000 feet down and flaps ear-like fins to swim through crushing deep-sea pressure. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "dumbooctopus",
+      "deepsea",
+      "octopus",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "ocean"
+    ],
+    "script": "Did you know an octopus lives so deep in the ocean that sunlight has never once touched it? The dumbo octopus survives at depths of up to thirteen thousand feet, deeper than almost any other octopus species, in a zone of near-freezing water and crushing pressure that would collapse a submarine. It's named for the two fin-like flaps above its eyes that resemble elephant ears, which it flaps gently to hover and glide above the seafloor. Unlike shallow-water octopuses, it swallows prey whole rather than tearing it apart, since there's little advantage to fighting in total darkness.",
+    "captions": [
+      "It lives so deep sunlight never reaches it.",
+      "It survives at depths up to thirteen thousand feet.",
+      "Ear-like fins let it hover above the seafloor.",
+      "The pressure there would collapse a submarine.",
+      "It swallows prey whole in the total darkness."
+    ],
+    "image_prompts": [
+      "bright photo of a small octopus with ear-like fins, vivid",
+      "close-up of its fin flaps above its eyes, sharp detail",
+      "it hovering above the deep seafloor, well-lit for camera",
+      "macro of its translucent skin texture, cinematic lighting",
+      "wide bright shot of a deep ocean floor scene, lit"
+    ]
+  },
+  {
+    "id": "vampire-crab",
+    "title": "The crab with glowing purple eyes and no ocean #shorts",
+    "description": "Vampire crabs spend their entire adult lives on land and never need to enter open ocean water at all. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "vampirecrab",
+      "crab",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife",
+      "tropical"
+    ],
+    "script": "Did you know a crab exists that can spend its entire adult life without ever touching the ocean? Vampire crabs, named for their striking purple-yellow shells and deep eye markings, live in humid tropical forests and only need small pools of fresh or brackish water to survive, a rare trait among crab species that almost always depend on the sea. They breathe using modified gill chambers that stay moist rather than fully submerged, letting them roam leaf litter far from any coastline. Their eggs hatch directly into tiny crabs, skipping the ocean-dependent larval stage most crab species require.",
+    "captions": [
+      "A crab that never needs to touch the ocean.",
+      "It lives its whole adult life on land.",
+      "Modified gills stay moist instead of submerged.",
+      "It only needs small pools of fresh water.",
+      "Its eggs skip the ocean larval stage entirely."
+    ],
+    "image_prompts": [
+      "bright macro photo of a purple crab with yellow claws, vivid",
+      "close-up of its distinctive eye markings, sharp detail",
+      "it walking across damp forest leaf litter, well-lit",
+      "it near a small freshwater pool, cinematic lighting",
+      "wide bright shot of a sunlit tropical forest floor"
+    ]
+  },
+  {
+    "id": "coconut-octopus",
+    "title": "The octopus that carries its own portable armor #shorts",
+    "description": "The coconut octopus collects shells and coconut halves to carry around as mobile shelter, one of the few known tool-users in the ocean. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "coconutoctopus",
+      "octopus",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know an octopus can pack up its own emergency shelter and carry it wherever it goes? The coconut octopus collects halves of coconut shells or large clam shells from the seafloor and stacks them together, tucking its soft body inside and hauling the load along using an awkward two-legged walk across the sand. When a predator approaches, it simply clamps the shells shut around itself like a portable bunker. This behavior is considered one of the clearest examples of tool use in an invertebrate, planning ahead for danger it hasn't even encountered yet.",
+    "captions": [
+      "It packs up its own emergency shelter.",
+      "It collects coconut halves and large shells.",
+      "It walks awkwardly on two arms carrying the load.",
+      "Predators approaching get met with clamped shells.",
+      "It's one of the clearest tool users among invertebrates."
+    ],
+    "image_prompts": [
+      "bright underwater photo of an octopus carrying shell halves, vivid",
+      "close-up of it tucked inside stacked shells, sharp detail",
+      "it walking across sand on two arms, well-lit",
+      "it closing the shells shut around itself, cinematic lighting",
+      "wide bright shot of a sunlit sandy seafloor"
+    ]
+  },
+  {
+    "id": "wunderpus-octopus",
+    "title": "The octopus with a fingerprint pattern no two share #shorts",
+    "description": "Every wunderpus octopus has a completely unique white-and-brown pattern, making individuals identifiable like human fingerprints. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "wunderpus",
+      "octopus",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know an octopus can be identified by researchers the exact same way police identify a person? The wunderpus octopus has a striking pattern of white markings over a reddish-brown body, and unlike most camouflaging octopus species, this pattern stays fixed and unique to each individual for life, functioning almost like a fingerprint. It hunts during the day by extending its long thin arms deep into crevices and holes in the sand, probing for hidden fish and crustaceans it can't see, relying entirely on touch to find prey buried out of sight.",
+    "captions": [
+      "An octopus identifiable like a human fingerprint.",
+      "Its white-brown pattern stays fixed for life.",
+      "Most octopuses use patterns for camouflage instead.",
+      "It hunts during the day, unlike most octopuses.",
+      "It probes hidden crevices entirely by touch."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a striped white-brown octopus, vivid",
+      "close-up of its unique fingerprint-like pattern, sharp detail",
+      "it probing arms into sand crevices, well-lit",
+      "it extended across open sandy seafloor, cinematic lighting",
+      "wide bright shot of a sunlit tropical reef sand flat"
+    ]
+  },
+  {
+    "id": "sea-hare",
+    "title": "The sea slug that sprays purple ink and toxic slime #shorts",
+    "description": "Sea hares release clouds of purple ink and a separate toxic secretion, a defense so effective few predators bother them. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "seahare",
+      "seaslug",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know a slow-moving sea slug can defend itself with two completely different chemical weapons at once? The sea hare, a large soft-bodied mollusk found in shallow coastal waters, releases a cloud of deep purple ink when threatened, made from pigments absorbed directly from the algae it eats. At the same time, separate glands secrete a bitter, sometimes toxic substance that fouls the mouths of fish and crabs that try to bite it. Some species store enough toxin from their diet that a single individual could theoretically be dangerous if eaten by a human.",
+    "captions": [
+      "A slow slug with two chemical weapons at once.",
+      "It releases a cloud of deep purple ink.",
+      "The ink pigment comes straight from its algae diet.",
+      "Separate glands secrete a foul, toxic substance.",
+      "Some individuals store enough toxin to be dangerous."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a large sea slug on rocks, vivid",
+      "close-up releasing purple ink cloud, sharp detail",
+      "it crawling across a coral reef, well-lit",
+      "macro of its soft mottled skin texture, cinematic lighting",
+      "wide bright shot of a sunlit shallow tide pool"
+    ]
+  },
+  {
+    "id": "giant-siphonophore",
+    "title": "The longest animal on Earth isn't a whale #shorts",
+    "description": "Giant siphonophores can stretch over 150 feet long, made of thousands of clones working as one single organism. #shorts #nature #facts #didyouknow #ocean",
+    "photo_query": "siphonophore deep sea colonial organism",
+    "tags": [
+      "siphonophore",
+      "deepsea",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know the longest animal ever recorded on Earth isn't a blue whale at all? Giant siphonophores, deep-sea relatives of jellyfish, have been measured stretching over one hundred and fifty feet long, longer than the largest whale that has ever existed. But it isn't really a single animal in the normal sense, it's a colony of thousands of genetically identical clones, each specialized for a different job like feeding, stinging, or reproduction, all fused together and functioning as one coordinated organism drifting through the deep ocean's darkness.",
+    "captions": [
+      "The longest animal on Earth isn't a whale.",
+      "It can stretch over one hundred fifty feet.",
+      "That's longer than any whale that has existed.",
+      "It's really thousands of clones fused together.",
+      "Each clone specializes in a different job."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a long translucent siphonophore, vivid",
+      "close-up of its stinging tentacle segments, sharp detail",
+      "it drifting through deep blue water, well-lit for camera",
+      "macro of its glowing colonial structure, cinematic lighting",
+      "wide bright shot of a vast open deep ocean scene"
+    ]
+  },
+  {
+    "id": "moon-jellyfish",
+    "title": "The jellyfish that's 95 percent water #shorts",
+    "description": "Moon jellyfish are made almost entirely of water, with no brain, no heart, and no blood, yet they've survived for 500 million years. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "moonjellyfish",
+      "jellyfish",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know an animal can be over ninety-five percent water and still have outlived the dinosaurs by hundreds of millions of years? The moon jellyfish has no brain, no heart, and no blood, relying instead on a simple nerve net to sense light and detect the direction of gravity. It pulses its translucent bell to drift through the water, filtering microscopic plankton with a fine mucus layer across its surface. Fossil evidence suggests jellyfish like it have existed for over five hundred million years, making them older than trees, sharks, and nearly every other animal lineage alive today.",
+    "captions": [
+      "An animal that's over ninety-five percent water.",
+      "It has no brain, no heart, no blood.",
+      "It senses light and gravity with a simple nerve net.",
+      "It filters plankton with a mucus layer.",
+      "Jellyfish like it predate trees and sharks."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a translucent moon jellyfish, vivid",
+      "close-up of its four horseshoe-shaped organs, sharp detail",
+      "several drifting together in sunlit water, well-lit",
+      "macro of its pulsing bell edge, cinematic lighting",
+      "wide bright shot of a sunlit open ocean surface"
+    ]
+  },
+  {
+    "id": "giant-pacific-sea-nettle",
+    "title": "The jellyfish that trails 15 feet of stinging tentacles #shorts",
+    "description": "The Pacific sea nettle drags tentacles up to 15 feet long, capable of stinging prey long before the jellyfish itself arrives. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "seanettle",
+      "jellyfish",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know a jellyfish can sting something fifteen feet away without ever moving its main body an inch closer? The Pacific sea nettle trails long, spiraling oral arms and tentacles that can stretch up to fifteen feet behind its golden-brown bell, each lined with thousands of stinging cells called nematocysts. Small fish and plankton that brush against these trailing tentacles are paralyzed almost instantly and slowly reeled in toward the bell to be digested. Despite the painful sting, sea otters and ocean sunfish eat them regularly, apparently unbothered by venom that would leave a human in serious pain.",
+    "captions": [
+      "It can sting something fifteen feet away.",
+      "Tentacles trail up to fifteen feet behind it.",
+      "Thousands of stinging cells line each tentacle.",
+      "Prey gets paralyzed almost instantly on contact.",
+      "Sea otters eat them without apparent trouble."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a golden jellyfish with long tentacles, vivid",
+      "close-up of its trailing stinging tentacles, sharp detail",
+      "it drifting through sunlit blue water, well-lit",
+      "macro of its bell pattern, cinematic lighting",
+      "wide bright shot of a sunlit open ocean scene"
+    ]
+  },
+  {
+    "id": "seven-arm-octopus",
+    "title": "The giant octopus that hides an extra arm #shorts",
+    "description": "The seven-arm octopus actually has eight arms, but keeps one coiled and hidden, making it appear to have only seven. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "sevenarmoctopus",
+      "octopus",
+      "deepsea",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "ocean"
+    ],
+    "script": "Did you know one of the largest octopus species on Earth is named for an arm it doesn't actually lack? The seven-arm octopus, among the biggest octopus species alive with a total length that can exceed ten feet, actually has all eight arms like any other octopus. In males, one specialized arm used for reproduction stays coiled up in a pouch beneath the right eye rather than extended, making it easy for early scientists examining specimens to miscount and assume it simply had seven. It lives in deep, cold waters worldwide and is rarely seen alive by humans.",
+    "captions": [
+      "One of the biggest octopus species has a hidden arm.",
+      "It actually has all eight arms, not seven.",
+      "One arm stays coiled in a pouch beneath its eye.",
+      "Early scientists simply miscounted the arms.",
+      "It lives in deep, cold waters worldwide."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a massive deep-sea octopus, vivid",
+      "close-up of its coiled hidden arm, sharp detail",
+      "it drifting in deep dark water, well-lit for camera",
+      "macro of its mottled reddish skin, cinematic lighting",
+      "wide bright shot of a deep ocean floor scene, lit"
+    ]
+  },
+  {
+    "id": "giant-squid",
+    "title": "The eye the size of a dinner plate #shorts",
+    "description": "Giant squid have the largest eyes of any animal on Earth, evolved specifically to detect the faint glow of hunting sperm whales. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "giantsquid",
+      "squid",
+      "deepsea",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "ocean"
+    ],
+    "script": "Did you know an animal's eye can grow to the size of a dinner plate just to detect a single predator coming? The giant squid has the largest eyes of any creature on Earth, up to eleven inches across, evolved specifically to spot the faint bioluminescent flashes stirred up by hunting sperm whales approaching through total darkness. For decades it was known only from carcasses that washed ashore and scars on whale skin, and it wasn't filmed alive in its natural habitat until 2012. Its arms are lined with hundreds of serrated, tooth-ringed suckers strong enough to leave permanent scars on whale flesh.",
+    "captions": [
+      "Its eye can grow to the size of a dinner plate.",
+      "It has the largest eyes of any animal alive.",
+      "It evolved to detect approaching sperm whales.",
+      "It wasn't filmed alive until 2012.",
+      "Its suckers leave permanent scars on whale skin."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a giant squid eye close-up, vivid",
+      "its massive tentacles with serrated suckers, sharp detail",
+      "the squid drifting in deep blue water, well-lit for camera",
+      "macro of sucker ring teeth, cinematic lighting",
+      "wide bright shot of a vast deep ocean scene, lit"
+    ]
+  },
+  {
+    "id": "bobtail-squid",
+    "title": "The squid that farms glowing bacteria in its own body #shorts",
+    "description": "The bobtail squid hosts a colony of light-producing bacteria inside its body that it uses to erase its own shadow at night. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "bobtailsquid",
+      "squid",
+      "bioluminescence",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "ocean"
+    ],
+    "script": "Did you know an animal can grow its own living flashlight and use it to become invisible? The bobtail squid hunts at night near the surface, where moonlight from above would normally cast a telltale shadow onto the seafloor, alerting predators lurking below. To counter this, it hosts a colony of bioluminescent bacteria in a special light organ on its underside, glowing downward at a matched intensity to erase its silhouette entirely, a trick called counter-illumination. Every morning it expels most of the bacteria and regrows a fresh batch each night to keep the glow perfectly calibrated.",
+    "captions": [
+      "It grows its own living flashlight.",
+      "Moonlight would normally cast a telltale shadow.",
+      "Glowing bacteria erase its silhouette from below.",
+      "This trick is called counter-illumination.",
+      "It regrows a fresh batch of bacteria every night."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a small glowing squid, vivid",
+      "close-up of its light organ glowing softly, sharp detail",
+      "it hovering near the moonlit surface, well-lit",
+      "macro of its round body shape, cinematic lighting",
+      "wide bright shot of a sunlit shallow reef at dusk"
+    ]
+  },
+  {
+    "id": "firefly-squid",
+    "title": "The squid that turns entire beaches blue #shorts",
+    "description": "Firefly squid light up in synchronized waves so bright that beaches where they spawn glow electric blue at night. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "fireflysquid",
+      "squid",
+      "bioluminescence",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "ocean"
+    ],
+    "script": "Did you know millions of tiny animals can light up an entire coastline bright blue all at once? Firefly squid, each barely three inches long, carry light-producing organs across their bodies and arm tips, and during their spring spawning season in Japan's Toyama Bay, they rise to the surface in the millions. When disturbed by waves or predators, they flash in synchronized pulses of electric blue light, turning stretches of ocean and beach into a glowing spectacle so striking it draws tourists from around the world every single year to witness it firsthand.",
+    "captions": [
+      "Millions of animals can light up a coastline at once.",
+      "Each squid is barely three inches long.",
+      "They rise to the surface in the millions.",
+      "Disturbance triggers synchronized blue flashing.",
+      "Tourists travel worldwide to witness the glow."
+    ],
+    "image_prompts": [
+      "bright underwater photo of tiny glowing blue squid, vivid",
+      "close-up of glowing light organs on its body, sharp detail",
+      "thousands glowing together in shallow water, well-lit",
+      "a beach glowing electric blue at night, cinematic lighting",
+      "wide bright shot of a coastal bay at dusk with glow"
+    ]
+  },
+  {
+    "id": "giant-oarfish",
+    "title": "The longest bony fish ever recorded #shorts",
+    "description": "The giant oarfish can grow over 30 feet long and was likely the real origin of ancient sea serpent legends. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "oarfish",
+      "deepsea",
+      "fish",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "ocean"
+    ],
+    "script": "Did you know the longest bony fish ever measured was probably the original inspiration for sea serpent legends? The giant oarfish can grow over thirty feet long, with a silvery ribbon-like body, a bright red crest running along its head, and long trailing fins that ripple as it swims vertically through open water. It lives at extreme depths and is almost never seen alive, usually only discovered when sick or dying individuals wash ashore. In Japanese folklore it's called the messenger from the sea god's palace, believed to surface right before major earthquakes.",
+    "captions": [
+      "Probably the real origin of sea serpent legends.",
+      "It can grow over thirty feet long.",
+      "It swims vertically through open water.",
+      "It's almost never seen alive.",
+      "Folklore says it surfaces before earthquakes."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a long silver ribbon fish, vivid",
+      "close-up of its red crest along its head, sharp detail",
+      "it swimming vertically in open water, well-lit",
+      "its full length stretched out, cinematic lighting",
+      "wide bright shot of a deep blue open ocean scene"
+    ]
+  },
+  {
+    "id": "black-seadevil",
+    "title": "The anglerfish where the male fuses into the female #shorts",
+    "description": "Male black seadevils fuse permanently into a female's body, losing their organs and becoming a living sperm supply for life. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "anglerfish",
+      "deepsea",
+      "seadevil",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "ocean"
+    ],
+    "script": "Did you know a male animal can permanently fuse into a female's body and lose almost everything that makes it an individual? In the black seadevil, a deep-sea anglerfish, males are a fraction of the female's size and bite onto her body upon finding one in the vast darkness. Their tissues gradually fuse together, sharing a bloodstream, and the male's eyes, fins, and internal organs atrophy until nothing remains but a pair of gonads producing sperm on demand. A single female can carry several fused males at once, guaranteeing she never has to find a mate again.",
+    "captions": [
+      "A male can permanently fuse into a female's body.",
+      "He's a fraction of her size when he attaches.",
+      "Their tissues merge and share one bloodstream.",
+      "His organs atrophy until only sperm production remains.",
+      "One female can carry several fused males at once."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a deep-sea anglerfish with lure, vivid",
+      "close-up of its glowing bioluminescent lure, sharp detail",
+      "a fused male attached to a larger female, well-lit",
+      "macro of its sharp translucent teeth, cinematic lighting",
+      "wide bright shot of a deep dark ocean scene, lit"
+    ]
+  },
+  {
+    "id": "hatchetfish",
+    "title": "The fish with a body made almost entirely of mirrors #shorts",
+    "description": "Deep-sea hatchetfish have silvery, mirror-like skin that reflects surrounding light to make them nearly invisible from any angle. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "hatchetfish",
+      "deepsea",
+      "fish",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "ocean"
+    ],
+    "script": "Did you know a fish can hide in open water without any rocks or coral to disappear behind? The deep-sea hatchetfish has thin, silvery scales arranged like tiny mirrors across its flattened, blade-shaped body, reflecting the exact color and intensity of light around it so it blends seamlessly into the water from every angle. It also uses light-producing organs along its belly to cancel out its own shadow when viewed from below, the same counter-illumination trick used by other deep-sea species. Combined, these adaptations make it one of the hardest animals in the ocean to actually spot.",
+    "captions": [
+      "A fish that hides with no rocks to hide behind.",
+      "Mirror-like scales reflect the surrounding light.",
+      "It blends in from nearly every angle.",
+      "Light organs cancel its shadow from below.",
+      "It's one of the hardest ocean animals to spot."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a silver flattened hatchetfish, vivid",
+      "close-up of its mirror-like scales, sharp detail",
+      "it drifting in mid-water, well-lit for camera",
+      "macro of its belly light organs, cinematic lighting",
+      "wide bright shot of an open deep ocean water column"
+    ]
+  },
+  {
+    "id": "lanternfish",
+    "title": "The most numerous fish on the planet you've never heard of #shorts",
+    "description": "Lanternfish make up the majority of all deep-sea fish biomass on Earth and migrate vertically thousands of feet every single night. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "lanternfish",
+      "deepsea",
+      "fish",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "ocean"
+    ],
+    "script": "Did you know the most common fish on Earth is one almost nobody outside marine biology has ever heard of? Lanternfish make up an estimated majority of all deep-sea fish biomass on the planet, existing in staggering numbers across every ocean. Every night, massive swarms rise from depths of over three thousand feet up toward the surface to feed under cover of darkness, then sink back down before sunrise in what's called the largest migration on Earth by total biomass moved. Their bodies are lined with light-producing organs used to communicate and confuse predators in the dark.",
+    "captions": [
+      "The most common fish on Earth, almost unheard of.",
+      "It makes up most of all deep-sea fish biomass.",
+      "Massive swarms rise thousands of feet every night.",
+      "This is the largest migration on Earth by biomass.",
+      "Light organs help them communicate in the dark."
+    ],
+    "image_prompts": [
+      "bright underwater photo of small silvery lanternfish, vivid",
+      "close-up of light organs along its body, sharp detail",
+      "a massive swarm rising through water, well-lit",
+      "it in open dark water, cinematic lighting",
+      "wide bright shot of a deep ocean water column, lit"
+    ]
+  },
+  {
+    "id": "sea-louse",
+    "title": "The parasite that eats a fish's tongue and replaces it #shorts",
+    "description": "A relative of the sea louse enters through a fish's gills, devours its tongue, then attaches itself and functions as a replacement. #shorts #nature #facts #didyouknow #ocean",
+    "photo_query": "tongue-eating isopod fish parasite",
+    "tags": [
+      "sealouse",
+      "parasite",
+      "fish",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know a parasite can eat an animal's tongue and then simply become the new one? A relative of the common sea louse enters through a fish's gills as a juvenile, then clamps onto the base of its tongue and drains blood from it until the tongue withers away and drops off entirely. Rather than leaving, the parasite attaches itself to the remaining tongue muscle in exactly the same spot, and the fish continues using it to press food against its teeth as if nothing had changed, unknowingly feeding its own replacement organ for the rest of its life.",
+    "captions": [
+      "A parasite eats a tongue and becomes the new one.",
+      "It enters through the fish's gills as a juvenile.",
+      "It drains blood until the tongue withers off.",
+      "It attaches in the exact same spot.",
+      "The fish uses it like a normal tongue for life."
+    ],
+    "image_prompts": [
+      "bright macro photo of a fish mouth open showing a parasite, vivid",
+      "close-up of the parasite attached where a tongue was, sharp detail",
+      "the fish swimming normally underwater, well-lit",
+      "macro of the parasite's segmented body, cinematic lighting",
+      "wide bright shot of a sunlit coral reef scene"
+    ]
+  },
+  {
+    "id": "whale-lice",
+    "title": "The parasite a whale can never fully scrub off #shorts",
+    "description": "Whale lice live permanently embedded in the skin folds of whales, and different whale species host entirely different lice species. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "whalelice",
+      "parasite",
+      "whale",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow"
+    ],
+    "script": "Did you know an animal the size of a bus can carry hundreds of thousands of parasites it can never fully wash away? Whale lice aren't true lice or even insects, they're small crustaceans with hook-like claws that let them cling permanently inside the skin folds, scars, and barnacle clusters of whales, particularly slow-moving species like right whales and gray whales. Unlike most ocean parasites, they can't swim at all, spending their entire lives on a single host and only transferring during rare direct whale-to-whale contact. Different whale species even host their own separate species of lice.",
+    "captions": [
+      "A whale can carry hundreds of thousands of parasites.",
+      "They aren't true lice, but small crustaceans.",
+      "Hooked claws let them cling inside skin folds.",
+      "They can't swim at all, ever.",
+      "Different whale species host entirely different lice."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a whale's skin with light patches, vivid",
+      "close-up macro of tiny crustaceans on whale skin, sharp detail",
+      "a whale surfacing with visible skin texture, well-lit",
+      "macro of the lice's hooked claws, cinematic lighting",
+      "wide bright shot of a whale in open sunlit ocean"
+    ]
+  },
+  {
+    "id": "african-lungfish",
+    "title": "The fish that survives years buried in dried mud #shorts",
+    "description": "The African lungfish can survive years of drought by burrowing into mud and slowing its metabolism to a near standstill. #shorts #nature #facts #didyouknow #fish",
+    "tags": [
+      "lungfish",
+      "africa",
+      "fish",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know a fish can survive completely out of water, buried in dried mud, for years at a time? When its swamp habitat dries up during drought, the African lungfish burrows down and secretes a mucus cocoon around its body that hardens into a protective casing, leaving only a small breathing tube open to the surface. Its metabolism slows to a near standstill, and it breathes air directly through a primitive lung instead of gills. When rains finally return, it can reawaken and swim off within hours, having essentially paused its own life for years.",
+    "captions": [
+      "A fish can survive buried in dried mud for years.",
+      "It burrows down as its swamp habitat dries up.",
+      "A hardened mucus cocoon protects its body.",
+      "It breathes air through a primitive lung.",
+      "Rain can wake it up again within hours."
+    ],
+    "image_prompts": [
+      "bright photo of a lungfish in a cracked dry mudflat, vivid",
+      "close-up of its mucus cocoon casing, sharp detail",
+      "the fish swimming after rain returns, well-lit",
+      "macro of its breathing tube in dried mud, cinematic lighting",
+      "wide bright shot of a sunlit African wetland"
+    ]
+  },
+  {
+    "id": "hellbender-salamander",
+    "title": "The giant salamander that breathes entirely through its skin #shorts",
+    "description": "The hellbender salamander has no gills or working lungs as an adult, absorbing all its oxygen directly through folds of loose skin. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "hellbender",
+      "salamander",
+      "amphibian",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know a two-foot-long animal can breathe entirely through its skin without lungs or gills doing any real work? The hellbender, North America's largest salamander, has loose, wrinkled folds of skin along its sides that dramatically increase its surface area, allowing it to absorb nearly all the oxygen it needs directly from cold, fast-flowing streams. It requires exceptionally clean, oxygen-rich water to survive, making it extremely sensitive to pollution, and its population has crashed across much of its range as a direct result of declining water quality in the rivers it depends on.",
+    "captions": [
+      "A two-foot animal breathes entirely through its skin.",
+      "Loose skin folds increase its surface area.",
+      "It absorbs oxygen straight from cold streams.",
+      "It needs exceptionally clean, oxygen-rich water.",
+      "Pollution has crashed its populations across its range."
+    ],
+    "image_prompts": [
+      "bright photo of a large wrinkled brown salamander underwater, vivid",
+      "close-up of its loose skin folds, sharp detail",
+      "it resting on a rocky streambed, well-lit",
+      "macro of its flattened head and small eyes, cinematic lighting",
+      "wide bright shot of a clear rocky mountain stream"
+    ]
+  },
+  {
+    "id": "japanese-giant-salamander",
+    "title": "The amphibian that can live over 80 years #shorts",
+    "description": "The Japanese giant salamander can grow nearly five feet long and live for more than 80 years hidden in mountain rivers. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "giantsalamander",
+      "japan",
+      "amphibian",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know an amphibian can live longer than most humans while hiding under a single rock its entire life? The Japanese giant salamander can grow nearly five feet long, making it one of the largest amphibians on Earth, and individuals are known to live over eighty years in the wild. It hides motionless under submerged rocks in cold mountain streams by day, relying almost entirely on smell and vibration to detect prey in the dark since its eyesight is extremely poor. Local legend calls it the giant pepper fish, for a peppery scent it releases when disturbed.",
+    "captions": [
+      "An amphibian that can outlive most humans.",
+      "It can grow nearly five feet long.",
+      "Individuals are known to live over eighty years.",
+      "It hides under rocks, relying on smell and vibration.",
+      "It releases a peppery scent when disturbed."
+    ],
+    "image_prompts": [
+      "bright photo of a massive mottled brown salamander, vivid",
+      "close-up of its wide flat head, sharp detail",
+      "it resting under a submerged rock, well-lit",
+      "it moving along a rocky riverbed, cinematic lighting",
+      "wide bright shot of a clear Japanese mountain stream"
+    ]
+  },
+  {
+    "id": "fire-salamander",
+    "title": "The salamander that can shoot poison from a distance #shorts",
+    "description": "The fire salamander can spray toxic venom several feet through the air from glands behind its eyes when threatened. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "firesalamander",
+      "salamander",
+      "amphibian",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know an amphibian can launch poison through the air at a threat without ever needing to touch it? The fire salamander stores toxic alkaloid compounds in large glands located just behind its eyes, and when seriously threatened, it can contract muscles around these glands to spray a fine jet of venom up to several feet toward an attacker's face. The toxin causes muscle convulsions and can seriously harm small predators, while its bold black and yellow pattern serves as a constant warning sign, telling potential threats exactly what they're risking before they ever get close.",
+    "captions": [
+      "It can launch poison through the air at threats.",
+      "Toxic glands sit just behind its eyes.",
+      "It sprays venom several feet toward an attacker's face.",
+      "The toxin causes serious muscle convulsions.",
+      "Its black and yellow pattern warns predators first."
+    ],
+    "image_prompts": [
+      "bright photo of a black and yellow salamander on forest floor, vivid",
+      "close-up of the venom glands behind its eyes, sharp detail",
+      "it spraying toxin in defense, well-lit dramatic",
+      "macro of its vivid warning pattern, cinematic lighting",
+      "wide bright shot of a sunlit European forest floor"
+    ]
+  },
+  {
+    "id": "poison-dart-frog",
+    "title": "The frog too poisonous to touch with bare skin #shorts",
+    "description": "Some poison dart frogs carry enough toxin in their skin to kill several adult humans, absorbed entirely from their wild diet of insects. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "poisondartfrog",
+      "frog",
+      "amphibian",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know a frog small enough to sit on a fingertip can carry enough poison to kill several grown adults? The golden poison dart frog secretes a toxin called batrachotoxin through its skin, powerful enough that indigenous hunters in Colombia have historically used it to tip blowgun darts for hunting. Remarkably, the frog doesn't actually produce the toxin itself, it absorbs it from specific toxic insects in its wild diet, which means frogs raised in captivity on a different diet gradually lose their toxicity entirely, becoming completely harmless to touch within a few generations.",
+    "captions": [
+      "A tiny frog can carry enough poison to kill several adults.",
+      "Its skin secretes a toxin called batrachotoxin.",
+      "Hunters have used it to tip blowgun darts.",
+      "The frog doesn't even produce the toxin itself.",
+      "Captive frogs lose their toxicity within generations."
+    ],
+    "image_prompts": [
+      "bright macro photo of a vivid golden frog on a leaf, vivid",
+      "close-up of its smooth toxic skin texture, sharp detail",
+      "it perched on wet rainforest foliage, well-lit",
+      "macro of its bright warning coloration, cinematic lighting",
+      "wide bright shot of a sunlit tropical rainforest floor"
+    ]
+  },
+  {
+    "id": "rosy-wolf-snail",
+    "title": "The snail that was released to fix a mistake and made it worse #shorts",
+    "description": "The rosy wolf snail was introduced to hunt invasive snails but instead drove native Pacific island snail species to extinction. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "wolfsnail",
+      "invasivespecies",
+      "predator",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know a single predatory snail helped wipe out dozens of other species across an entire chain of islands? The rosy wolf snail is a fast-moving carnivore that hunts other snails by following their slime trails at speeds that seem almost impossible for something without legs. It was deliberately introduced to Pacific islands to control an invasive pest snail, but instead of sticking to its intended target, it aggressively hunted down native tree snail species that had evolved with no natural predators, driving dozens of unique island species to extinction within just a few decades.",
+    "captions": [
+      "One predatory snail helped wipe out dozens of species.",
+      "It hunts other snails by following slime trails.",
+      "It moves fast for something without legs.",
+      "It was introduced to control a different pest snail.",
+      "It drove native island species extinct within decades."
+    ],
+    "image_prompts": [
+      "bright macro photo of a pinkish predatory snail, vivid",
+      "close-up of it following a slime trail, sharp detail",
+      "it attacking a smaller snail, well-lit dramatic",
+      "macro of its elongated shell shape, cinematic lighting",
+      "wide bright shot of a sunlit tropical island forest floor"
+    ]
+  },
+  {
+    "id": "eagle-ray",
+    "title": "The ray that can leap fully out of the ocean #shorts",
+    "description": "Spotted eagle rays can launch entirely out of the water in dramatic leaps, sometimes clearing several feet of air at once. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "eagleray",
+      "ray",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know an animal built to glide underwater can also launch itself completely airborne without warning? The spotted eagle ray, despite its wide flattened body built for gliding gracefully through open water, can propel itself entirely out of the ocean in sudden leaps, sometimes clearing several feet of air before crashing back down. Scientists believe the behavior may help shake off parasites, startle predators, or simply serves as a form of communication between individuals. It also carries a venomous barbed spine near the base of its tail, used purely in self-defense as a last resort.",
+    "captions": [
+      "An underwater glider that can launch fully airborne.",
+      "It can leap several feet clear of the water.",
+      "It may help shake off parasites or startle predators.",
+      "It might also serve as communication between rays.",
+      "A venomous barbed spine is its last line of defense."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a spotted eagle ray gliding, vivid",
+      "close-up of its wing-like pectoral fins, sharp detail",
+      "it leaping fully out of the ocean, well-lit action shot",
+      "its spotted pattern from above, cinematic lighting",
+      "wide bright shot of a sunlit tropical ocean surface"
+    ]
+  },
+  {
+    "id": "giant-freshwater-stingray",
+    "title": "The stingray hiding in rivers, not oceans #shorts",
+    "description": "The giant freshwater stingray can weigh over 1,300 pounds and lives buried in river sediment where it's nearly invisible to waders. #shorts #nature #facts #didyouknow #wildlife",
+    "tags": [
+      "freshwaterstingray",
+      "stingray",
+      "river",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know one of the largest freshwater fish on Earth can be lying directly beneath your feet in a muddy river and you'd never know it? The giant freshwater stingray can weigh over thirteen hundred pounds and grow wider than a car door, yet it spends most of its time buried in soft river sediment with only its eyes exposed, making it almost completely invisible to waders. Its tail carries a barbed spine capable of delivering an extremely painful, sometimes lethal sting, and because the ray is so well camouflaged, most injuries happen when someone accidentally steps directly on top of one.",
+    "captions": [
+      "One of the largest freshwater fish could be under your feet.",
+      "It can weigh over thirteen hundred pounds.",
+      "It buries itself in river sediment, nearly invisible.",
+      "Its barbed tail spine can deliver a lethal sting.",
+      "Most injuries happen from stepping directly on one."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a massive stingray in river water, vivid",
+      "close-up of its eyes peeking from sediment, sharp detail",
+      "it gliding across a muddy riverbed, well-lit",
+      "macro of its barbed tail spine, cinematic lighting",
+      "wide bright shot of a sunlit tropical river"
+    ]
+  },
+  {
+    "id": "basking-shark",
+    "title": "The second largest fish on Earth eats almost nothing but plankton #shorts",
+    "description": "Basking sharks can grow over 30 feet long but survive entirely on microscopic plankton filtered through a massive open mouth. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "baskingshark",
+      "shark",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know the second largest fish in the entire ocean survives almost entirely on creatures too small to see with the naked eye? The basking shark can grow over thirty feet long, second only to the whale shark, yet it feeds by swimming slowly with its enormous mouth held wide open, filtering up to two thousand tons of water an hour through comb-like gill rakers to strain out microscopic plankton. Despite its intimidating size, it's completely harmless to humans, and it can filter enough water in a single hour to fill an Olympic swimming pool almost entirely.",
+    "captions": [
+      "The second largest fish survives on nearly invisible prey.",
+      "It can grow over thirty feet long.",
+      "It filters up to two thousand tons of water an hour.",
+      "Gill rakers strain out microscopic plankton.",
+      "It's completely harmless to humans despite its size."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a massive shark with open mouth, vivid",
+      "close-up of its gill rakers filtering water, sharp detail",
+      "it swimming slowly near the surface, well-lit",
+      "its huge silhouette from below, cinematic lighting",
+      "wide bright shot of a sunlit open ocean surface"
+    ]
+  },
+  {
+    "id": "whale-shark",
+    "title": "The biggest fish in the ocean has a mouth full of tiny teeth #shorts",
+    "description": "The whale shark, the largest fish alive, has thousands of tiny teeth it never actually uses to chew a single bite. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "whaleshark",
+      "shark",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know the largest fish in the entire ocean has thousands of teeth it has essentially no use for? The whale shark can grow over forty feet long, yet its mouth is lined with several thousand tiny, vestigial teeth that play almost no role in feeding at all. Instead, it swims with its mouth open and filters plankton, fish eggs, and small fish through specialized filter pads, sieving huge volumes of seawater as it moves. Its skin can be over four inches thick in places, and its distinctive spot pattern is as unique to each individual as a fingerprint.",
+    "captions": [
+      "The biggest fish in the ocean has useless teeth.",
+      "It has several thousand tiny vestigial teeth.",
+      "It filters food instead of chewing anything.",
+      "Its skin can be over four inches thick.",
+      "Its spot pattern is unique like a fingerprint."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a massive spotted whale shark, vivid",
+      "close-up of its wide filtering mouth, sharp detail",
+      "it gliding past a diver for scale, well-lit",
+      "macro of its unique spot pattern, cinematic lighting",
+      "wide bright shot of a sunlit tropical open ocean"
+    ]
+  },
+  {
+    "id": "hammerhead-shark",
+    "title": "The shark that can see almost 360 degrees around it #shorts",
+    "description": "The hammerhead shark's wide, flattened head gives it near-360-degree vision and built-in electroreceptors spread across its whole snout. #shorts #nature #facts #didyouknow #ocean",
+    "tags": [
+      "hammerhead",
+      "shark",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "script": "Did you know a shark's oddly shaped head actually gives it almost complete vision around its entire body? The hammerhead shark's wide, flattened head, called a cephalofoil, places its eyes far apart on each side, giving it a nearly three hundred sixty degree field of view with almost no blind spots, unlike most sharks that can't see directly in front of their own snout. That same wide head is also packed with electroreceptor organs that detect the faint electrical signals of prey buried under sand, letting it locate stingrays hidden completely out of sight before ever seeing them.",
+    "captions": [
+      "Its head gives it almost complete vision around itself.",
+      "Its eyes sit far apart on a flattened head.",
+      "It has almost no blind spots at all.",
+      "Its head is packed with electroreceptor organs.",
+      "It can locate prey buried completely out of sight."
+    ],
+    "image_prompts": [
+      "bright underwater photo of a hammerhead shark from front, vivid",
+      "close-up of its wide flattened head shape, sharp detail",
+      "it swimming over sandy seafloor, well-lit",
+      "macro of its eye placement on the head, cinematic lighting",
+      "wide bright shot of a sunlit open ocean scene"
+    ]
+  },
+  {
+    "id": "spanish-ribbed-newt",
+    "title": "The salamander that stabs attackers with its own ribs #shorts",
+    "description": "When threatened, the Spanish ribbed newt forces its ribs through its own skin to form rows of poison-tipped spikes, then heals without infection. #shorts #animals #nature #facts #didyouknow #amphibians",
+    "tags": [
+      "newt",
+      "salamander",
+      "amphibians",
+      "animals",
+      "nature",
+      "facts",
+      "shorts",
+      "wildlife"
+    ],
+    "script": "Did you know one salamander fights back by pushing its own ribs through its skin? When something grabs the Spanish ribbed newt, it swings its ribs forward and rotates them until the sharp tips punch straight through its body wall, poking out in a row along each flank. At the same instant, glands in that skin flood the area with poison, so anything biting down gets a mouthful of venom-tipped bone. The newt isn't harmed. It has no permanent holes; the ribs pierce fresh tissue every time, and the wounds close over without infection, ready for the next attack.",
+    "captions": [
+      "This newt attacks with its own ribs.",
+      "Grabbed, it swings its ribs forward.",
+      "The sharp tips punch through its skin.",
+      "Skin glands coat the spikes in poison.",
+      "Its wounds heal, ready for next time."
+    ],
+    "image_prompts": [
+      "bright macro photo of a dark mottled newt on wet green moss, vivid detail",
+      "close-up of the newt's knobbly flank with rows of orange bumps, sharp focus",
+      "a Spanish ribbed newt walking along a sunlit shallow pond bottom, well-lit",
+      "extreme macro of pale rib tips tenting the skin along the newt's side, cinematic lighting",
+      "wide bright shot of a sunlit Iberian wetland with clear still water"
+    ]
+  },
+  {
+    "id": "kea",
+    "title": "The parrot that eats the fat off living sheep #shorts",
+    "description": "New Zealand's kea, a mountain parrot, learned to land on live sheep and dig through skin to eat the fat beneath, and was hunted for a bounty for nearly a century. #shorts #animals #nature #facts #didyouknow #birds",
+    "tags": [
+      "kea",
+      "parrot",
+      "birds",
+      "newzealand",
+      "nature",
+      "facts",
+      "shorts",
+      "wildlife"
+    ],
+    "script": "Did you know a parrot learned to eat living sheep? The kea, a large alpine parrot from New Zealand's mountains, is playful, clever, and relentlessly curious, famous for shredding car wipers and backpacks. But high-country farmers noticed sheep turning up with deep wounds on their backs. Keas were landing on the animals and digging through the wool and skin with their hooked beaks to feed on the fat along the spine, and some sheep later died of infection or shock. The behaviour was real enough that a bounty was placed on keas for nearly a century.",
+    "captions": [
+      "A parrot that feeds on living sheep.",
+      "The kea is a curious alpine bird.",
+      "It lands on a sheep's back.",
+      "Its hooked beak digs through wool and skin.",
+      "A bounty was placed on keas for decades."
+    ],
+    "image_prompts": [
+      "bright photo of a large olive-green parrot on a rock, snowy peaks behind, vivid",
+      "close-up of a kea's curved hooked beak and orange underwing, sharp detail",
+      "a kea perched on a fence post in a sunlit mountain pasture, well-lit",
+      "a kea walking across an alpine meadow toward grazing sheep, cinematic lighting",
+      "wide bright shot of sunlit New Zealand high-country mountains and tussock"
+    ]
+  },
+  {
+    "id": "white-nose-syndrome",
+    "title": "The fungus that wakes hibernating bats until they starve #shorts",
+    "description": "White-nose syndrome is a cold-loving fungus that rouses hibernating bats over and over until they burn through their fat and die; it has killed millions in North America. #shorts #animals #nature #facts #didyouknow #bats",
+    "tags": [
+      "bats",
+      "fungus",
+      "whitenosesyndrome",
+      "nature",
+      "facts",
+      "shorts",
+      "didyouknow",
+      "wildlife"
+    ],
+    "photo_query": "little brown bat",
+    "script": "Did you know a fungus has quietly killed millions of bats in their sleep? White-nose syndrome is caused by a cold-loving fungus that grows on hibernating bats, dusting their muzzles and wings with white fuzz. The irritation jolts them awake again and again through the winter, and each waking burns precious fat. Starving and confused, they fly out into freezing air to look for insects that aren't there. Since it reached North America in 2006, the disease has wiped out more than ninety percent of some bat populations, emptying caves that once held tens of thousands.",
+    "captions": [
+      "A fungus kills bats in their sleep.",
+      "White fuzz grows on their faces and wings.",
+      "It wakes them over and over all winter.",
+      "Each waking burns fat they can't spare.",
+      "Some bat colonies have collapsed by ninety percent."
+    ],
+    "image_prompts": [
+      "bright photo of little brown bats roosting on a cave ceiling, vivid detail",
+      "close-up of a single bat's face and folded wings, sharp focus, well-lit",
+      "a cave passage lit by a warm lantern with bats overhead, cinematic",
+      "a lone bat flying through a snowy winter forest at dusk, bright clear light",
+      "wide bright shot of a limestone cave entrance in a sunlit forest"
+    ]
+  },
+  {
+    "id": "chytrid-fungus",
+    "title": "The fungus blamed for wiping out 90 species of frogs #shorts",
+    "description": "The chytrid fungus thickens amphibian skin until it can't balance the body's salts and the heart stops; it has hit 500 species and caused the worst recorded disease-driven biodiversity loss. #shorts #animals #nature #facts #didyouknow #frogs",
+    "tags": [
+      "frogs",
+      "amphibians",
+      "fungus",
+      "chytrid",
+      "nature",
+      "facts",
+      "shorts",
+      "wildlife"
+    ],
+    "photo_query": "rainforest tree frog",
+    "script": "Did you know a single fungus may have driven ninety species of frogs to extinction? The chytrid fungus attacks the one thing amphibians can't do without: their skin. Frogs breathe and drink through it, and this fungus thickens the outer layer until the skin can no longer move salts in and out of the body. With its electrolytes scrambled, the animal's heart simply stops. Spread around the world by trade and travel, chytrid has hit at least five hundred amphibian species and is blamed for the worst disease-driven loss of biodiversity ever recorded.",
+    "captions": [
+      "One fungus may have erased ninety frog species.",
+      "It attacks the skin frogs breathe through.",
+      "The skin thickens and stops moving salts.",
+      "The frog's heart stops.",
+      "It has struck five hundred amphibian species."
+    ],
+    "image_prompts": [
+      "bright photo of a vivid red-eyed tree frog on a wet leaf, sharp detail",
+      "close-up of a frog's translucent skin and throat, well-lit macro",
+      "a small frog sitting in a sunlit rainforest stream, vivid color",
+      "a cluster of frogs on mossy rocks by clear water, cinematic lighting",
+      "wide bright shot of a sunlit tropical cloud forest with mist"
+    ]
+  },
+  {
+    "id": "tumbu-fly",
+    "title": "The fly that uses your laundry to plant maggots in your skin #shorts",
+    "description": "The African tumbu fly lays eggs on drying clothes; when the fabric touches skin the larvae burrow in and grow for weeks inside boil-like lumps. Ironing kills the eggs. #shorts #animals #nature #facts #didyouknow #insects",
+    "tags": [
+      "tumbufly",
+      "insects",
+      "parasite",
+      "myiasis",
+      "nature",
+      "facts",
+      "shorts",
+      "wildlife"
+    ],
+    "script": "Did you know your laundry can plant maggots under your skin? The tumbu fly of sub-Saharan Africa lays its eggs on damp soil and on wet clothes hung out to dry. When that fabric touches skin, the tiny larvae burrow in painlessly and settle under the surface, each raising a red boil with a small breathing hole in the centre. For the next week or two they feed and grow while you carry them, until the grown maggots wriggle back out and drop to the soil. Ironing every seam kills the eggs before they hatch.",
+    "captions": [
+      "Your drying laundry can carry fly eggs.",
+      "The larvae burrow into skin on contact.",
+      "Each one raises a boil with a breathing hole.",
+      "They grow under your skin for two weeks.",
+      "Ironing every seam kills the eggs."
+    ],
+    "image_prompts": [
+      "bright close-up photo of laundry drying on a line in strong sunlight, vivid",
+      "macro of a single fly resting on a green leaf, sharp detail",
+      "a sunlit rural African yard with clothes on a washing line, well-lit",
+      "extreme macro of human skin texture in warm daylight, cinematic",
+      "wide bright shot of a sunlit savanna village under a blue sky"
+    ]
+  }
+]
