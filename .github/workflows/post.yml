@@ -47,6 +47,7 @@ jobs:
         env:
           X264_PRESET: ultrafast
           PYTHONIOENCODING: utf-8
+          REDACT_LOGS: "1"
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
           if [ "${{ github.event.inputs.fill_day }}" = "false" ]; then
