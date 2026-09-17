@@ -1,36 +1,5 @@
 [
   {
-    "id": "snake-fungal-disease",
-    "title": "A fungus is eating the faces of wild snakes #shorts",
-    "description": "A soil fungus raises crusty scabs on snakes' heads, makes them bask in the open, and gets them killed; whole populations have crashed. #shorts #nature #facts #didyouknow #reptiles",
-    "photo_query": "eastern rat snake basking",
-    "tags": [
-      "snakefungaldisease",
-      "snakes",
-      "fungus",
-      "reptiles",
-      "wildlife",
-      "nature",
-      "facts",
-      "shorts"
-    ],
-    "script": "Did you know a fungus is eating the faces of wild snakes? Snake fungal disease comes from a soil fungus that infects the skin, raising crusty, swollen scabs around the eyes, nose, and mouth. Infected snakes shed constantly, stop feeding, and sometimes sit out in the open basking when they should be hidden, which gets them caught and killed. It has hit rattlesnakes, water snakes, and rat snakes across North America and has now turned up in Europe. Some local populations have dropped sharply.",
-    "captions": [
-      "A soil fungus infects the skin of wild snakes.",
-      "It raises crusty scabs around the eyes and mouth.",
-      "Sick snakes shed constantly and stop eating.",
-      "They bask in the open and get killed.",
-      "Some populations have crashed."
-    ],
-    "image_prompts": [
-      "bright close-up of a healthy rat snake's head and scales, vivid",
-      "macro of textured snake skin in sunlight, sharp detail",
-      "a snake coiled on a sunlit log at a forest edge, well-lit",
-      "a wetland with basking logs in warm light, cinematic",
-      "wide bright shot of an Appalachian forest clearing"
-    ]
-  },
-  {
     "id": "varroa-mite",
     "title": "The pinhead-sized mite that is wiping out honeybees #shorts",
     "description": "Varroa mites breed on sealed bee larvae, feed on the fat organ bees need for winter, and spread a virus that deforms their wings. #shorts #nature #facts #didyouknow #insects",
