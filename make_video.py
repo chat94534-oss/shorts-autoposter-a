@@ -55,15 +55,17 @@ PUBLISH_SLOTS = [(10, 30), (13, 30), (16, 30), (19, 30)]  # 10:30a,1:30p,4:30p,7
 CAPTION_BAND = 300  # px reserved at the bottom for the caption over real photos
 
 VOICE = "en-US-AvaNeural"  # female narrator (warm, natural "Conversation" voice)
-VOICE_RATE = "-8%"   # slightly slower -> measured documentary cadence
+VOICE_RATE = "+4%"   # brisker -> shorter video; retention is length-bound
 VOICE_PITCH = "-3Hz"  # slightly lower -> more natural/ominous
 TOPIC_MODEL = "openai-fast"  # Pollinations free text model for idea generation
-STYLE = (", cinematic nature-documentary photography, dramatic rim lighting, "
+STYLE = (", dramatic close-up wildlife photography, tight framing on the subject, "
+         "high contrast, deep shadows, punchy saturated color, sharp crisp detail, "
          "vivid color, bright clear well-lit subject, teal and deep blue tones, "
          "no purple, no magenta, no pink, highly detailed, ominous mood, "
          "vertical 9:16 composition")
 W, H, FPS = 1080, 1920, 30
-XFADE = 0.5  # seconds of cross-dissolve between scenes
+SRC_W, SRC_H = 1440, 2560  # render larger than output so panning stays sharp
+XFADE = 0.25  # short dissolve; long ones ghost when two shots look alike
 PRESET = os.environ.get("X264_PRESET", "medium")  # CI sets veryfast to save minutes
 SUB_FONT = "Arial" if os.name == "nt" else "Liberation Sans"
 NUM_IMAGES = 8  # target scenes per video; bank prompts are expanded to reach this
@@ -350,7 +352,7 @@ def fetch_image(prompt, out_path, seed, tries=4):
     for attempt in range(1, tries + 1):
         # new seed each retry: a bad prompt+seed combo 500s deterministically
         url = (f"https://image.pollinations.ai/prompt/{enc}"
-               f"?width={W}&height={H}&nologo=true&model=flux"
+               f"?width={SRC_W}&height={SRC_H}&nologo=true&model=flux"
                f"&seed={seed + (attempt - 1) * 7919}")
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -495,7 +497,7 @@ def kenburns_clip(img, out, dur, idx):
 
     vf = (
         f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
-        f"scale=5400:9600,"
+        f"scale=2160:3840:flags=lanczos,"
         f"zoompan=z='{z}':d={frames}:x='{xexpr}':y='{yexpr}':s={W}x{H}:fps={FPS},"
         f"scale={big_w}:{big_h},"
         f"rotate='{rot}':ow={big_w}:oh={big_h}:c=black@0,"
@@ -611,10 +613,10 @@ def _finish(run_dir, audio_dur, atmos, bed):
     fc = (
         f"[1:v]scale={W}:{H},format=yuv420p,setsar=1[atm];"
         f"[0:v]setsar=1[bg];"
-        f"[bg][atm]blend=all_mode=screen:all_opacity=0.28[lit];"
-        f"[lit]hue=s=0.55,eq=brightness=0.03,"
+        f"[bg][atm]blend=all_mode=screen:all_opacity=0.10[lit];"
+        f"[lit]eq=contrast=1.32:saturation=1.45:brightness=-0.02,"
         f"colorchannelmixer=rr=0.82:gg=1.02:bb=1.0:br=-0.08:bg=0.06,"
-        f"noise=alls=4:allf=t,vignette=angle=PI/5[graded];"
+        f"noise=alls=2:allf=t,unsharp=5:5:0.7,vignette=angle=PI/6[graded];"
         f"[graded]subtitles=captions.srt:force_style='{SUB_STYLE}'[subbed];"
         f"[subbed]fade=t=in:st=0:d=0.4,fade=t=out:st={fade_out:.2f}:d=0.5[v];"
         f"[3:a]volume=0.18[bed];"
@@ -843,8 +845,7 @@ def produce_one(topics, state, args, publish_at):
 
     # 4) upload (scheduled if publish_at given, else per --privacy)
     if args.no_upload:
-        log("--no-upload set; skipping upload.")
-        shutil.rmtree(run_dir, ignore_errors=True)
+        log(f"--no-upload set; skipping upload. Files kept in {run_dir}")
         return
     if publish_at:
         log(f"Uploading (scheduled for {publish_at})...")
