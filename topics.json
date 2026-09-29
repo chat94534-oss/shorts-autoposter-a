@@ -14,7 +14,7 @@
       "facts",
       "shorts"
     ],
-    "script": "Did you know a virus can kill a young elephant within a single day of the first sign something's wrong? Elephant endotheliotropic herpesvirus lies dormant in many healthy adult elephants but can turn deadly in calves between one and eight years old. Once symptoms begin, lethargy, a swollen tongue, or a shuffling gait, the virus is already causing severe internal bleeding, and the calf can go into fatal circulatory collapse within twenty-four to forty-eight hours. Even in zoos with immediate access to antiviral treatment, many calves don't survive long enough for it to work.",
+    "script": "Did you know a virus can kill a young elephant within a day of the first symptom? Elephant endotheliotropic herpesvirus hides dormant in healthy adults but turns deadly in calves one to eight years old. Once lethargy, a swollen tongue, or a shuffling gait appears, severe internal bleeding has already begun, and the calf can collapse fatally within twenty-four to forty-eight hours. Even zoos with antiviral treatment often can't save the calf in time.",
     "captions": [
       "This herpesvirus lies dormant in many adult elephants.",
       "It can turn deadly in young calves.",
@@ -45,7 +45,7 @@
       "facts",
       "shorts"
     ],
-    "script": "Did you know an invasive pond weed has been quietly causing bald eagles to lose control of their own bodies mid-flight? A cyanobacteria that grows on invasive hydrilla plants produces a neurotoxin that coots eat while grazing the weed. Eagles that hunt those weakened coots absorb the toxin too, and it eats away at the myelin coating on their nerves, the insulation that lets brain signals travel properly. Affected eagles lose coordination, can't fly straight, and often crash or drown, a condition researchers only identified after unexplained eagle deaths piled up at reservoirs choked with the plant.",
+    "script": "Did you know an invasive pond weed makes bald eagles lose control of their bodies mid-flight? Cyanobacteria on invasive hydrilla produce a neurotoxin that coots eat while grazing the weed. Eagles hunting those weakened coots absorb the toxin too, damaging the myelin coating that lets brain signals travel properly. Affected eagles lose coordination, can't fly straight, and often crash or drown, a mystery solved only after eagle deaths piled up at choked reservoirs.",
     "captions": [
       "An invasive water plant carries a hidden neurotoxin.",
       "Coots absorb it while grazing the weed.",
@@ -76,7 +76,7 @@
       "facts",
       "shorts"
     ],
-    "script": "Did you know a virus is covering sea turtles' eyes in tumors until they can no longer see? Fibropapillomatosis, driven by a herpesvirus and linked to polluted coastal waters, causes cauliflower-shaped growths to sprout on a turtle's skin, eyes, and mouth. Left unchecked, tumors around the eyes can grow large enough to block vision entirely, leaving a turtle unable to find food or spot predators. Growths on the flippers and neck can become heavy and restrictive enough that swimming itself becomes exhausting, and severely affected turtles are often found stranded, starving despite living in the ocean.",
+    "script": "Did you know a virus covers sea turtles' eyes in tumors until they can no longer see? Fibropapillomatosis, a herpesvirus linked to polluted coastal waters, sprouts cauliflower-shaped growths on a turtle's skin, eyes, and mouth. Left unchecked, eye tumors grow large enough to block vision, leaving a turtle unable to find food or spot predators. Growths on the flippers can turn heavy enough that swimming becomes exhausting, and affected turtles are found stranded, starving.",
     "captions": [
       "A virus causes tumors on sea turtles' skin and eyes.",
       "It's linked to polluted coastal waters.",
@@ -985,6 +985,853 @@
       "tadpoles crowding a shrinking muddy pool, well-lit",
       "cracked dry mud around a drying waterhole, cinematic",
       "wide bright shot of an African savanna pool in dry season"
+    ]
+  },
+  {
+    "id": "narwhal-ice-entrapment",
+    "title": "The ice trap that can suffocate an entire pod of narwhals #shorts",
+    "description": "Shifting Arctic sea ice can seal narwhal pods behind a single shrinking breathing hole until the whole group suffocates. #shorts #nature #facts #didyouknow #arctic",
+    "photo_query": "narwhal arctic ice",
+    "tags": [
+      "narwhal",
+      "seaice",
+      "savssat",
+      "arctic",
+      "whales",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know shifting sea ice can seal hundreds of narwhals inside a bay with one shrinking hole to breathe through? When wind and cold snap the ice shut, trapped pods crowd around that single opening, gasping in turns as it closes. Weaker whales get shoved under and drown before surfacing again. Hunters call the event a savssat, and without a storm to break the ice open, the entire pod suffocates within days.",
+    "captions": [
+      "Sea ice suddenly seals a narwhal pod inside a bay.",
+      "One shrinking hole is their only way to breathe.",
+      "Dozens of whales crowd in to take turns surfacing.",
+      "Weaker whales get shoved under and drown.",
+      "Without a storm to break the ice, the pod dies together."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a narwhal tusk breaking through a small opening in sea ice, high contrast, strong lighting",
+      "close-up of narwhal heads crowded together gasping at a shrinking ice hole, cinematic",
+      "tight close-up of ice slowly closing over dark water, sharp detail",
+      "close-up of a narwhal being pushed under murky water by others, dramatic lighting",
+      "tight close-up of frozen still water with no breathing hole left, stark contrast"
+    ]
+  },
+  {
+    "id": "saiga-antelope-mass-die-off",
+    "title": "The bacteria that killed 200,000 antelope in three weeks #shorts",
+    "description": "A harmless bacterium in saiga antelope turned lethal overnight, wiping out most of the species' population from internal bleeding. #shorts #nature #facts #didyouknow",
+    "photo_query": "saiga antelope",
+    "tags": [
+      "saiga",
+      "antelope",
+      "massdieoff",
+      "bacteria",
+      "nature",
+      "facts",
+      "wildlife",
+      "shorts"
+    ],
+    "script": "Did you know a bacterium living harmlessly in an antelope's nose once wiped out most of the species in under three weeks? In 2015, unusual heat and humidity let Pasteurella bacteria in saiga antelope surge into their bloodstream. Herds collapsed together, foaming and hemorrhaging internally as toxins shredded their organs from within. Over two hundred thousand saiga died, more than half the entire world population, in a single synchronized die-off that stunned scientists.",
+    "captions": [
+      "A harmless bacterium lives quietly in the saiga's nose.",
+      "Sudden heat and humidity let it surge into the bloodstream.",
+      "Whole herds collapse together within hours.",
+      "Toxins cause internal bleeding and organ failure.",
+      "Over two hundred thousand antelope die in three weeks."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a saiga antelope's unusual bulbous nose, high contrast, strong lighting",
+      "close-up of a saiga antelope collapsed in dry grassland, cinematic lighting",
+      "tight close-up of a herd lying motionless on the steppe, harsh sunlight",
+      "close-up of an antelope's face showing distress, sharp detail",
+      "wide dramatic shot of scattered carcasses across open steppe, stark light"
+    ]
+  },
+  {
+    "id": "manatee-red-tide-poisoning",
+    "title": "The toxic algae bloom that suffocates manatees from the inside #shorts",
+    "description": "Red tide algae release a brain toxin that seizes manatees mid-swim, drowning them in shallow water they normally graze safely. #shorts #nature #facts #didyouknow",
+    "photo_query": "manatee florida",
+    "tags": [
+      "manatee",
+      "redtide",
+      "algae",
+      "toxin",
+      "florida",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know an algae bloom can make a manatee seize and drown in water only a few feet deep? Red tide algae release brevetoxin, which manatees absorb by eating toxin-coated seagrass along Florida's coast. The poison attacks their nervous system, triggering muscle tremors and seizures that leave them unable to lift their head above the surface. Rescuers often find manatees stranded in the shallows, poisoned by the very water they spend their lives grazing.",
+    "captions": [
+      "A toxic algae bloom coats seagrass along the coast.",
+      "Manatees graze the grass, absorbing the poison.",
+      "The toxin attacks their nervous system.",
+      "Seizures leave them unable to lift their head.",
+      "They drown in water only a few feet deep."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a manatee's face at the water surface, high contrast lighting",
+      "close-up of algae-coated seagrass underwater, vivid green tint",
+      "tight close-up of a manatee's body trembling underwater, cinematic",
+      "close-up of a manatee struggling near the surface, dramatic light",
+      "tight close-up of a stranded manatee in shallow water, stark contrast"
+    ]
+  },
+  {
+    "id": "kangaroo-lumpy-jaw-disease",
+    "title": "The infection that slowly starves kangaroos to death #shorts",
+    "description": "A bacterial infection called lumpy jaw eats away a kangaroo's jawbone until it can no longer chew, leading to slow starvation. #shorts #nature #facts #didyouknow",
+    "photo_query": "kangaroo",
+    "tags": [
+      "kangaroo",
+      "lumpyjaw",
+      "infection",
+      "wildlife",
+      "australia",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know an infection can slowly dissolve a kangaroo's jawbone until it can no longer eat at all? Lumpy jaw disease begins when bacteria enter a small mouth wound from sharp, dry grass. The infection spreads through the jawbone, causing swollen abscesses that loosen teeth and rot the bone itself. Unable to chew properly, affected kangaroos gradually weaken and starve over weeks, even while standing in fields full of food.",
+    "captions": [
+      "A small mouth wound lets bacteria into a kangaroo's jaw.",
+      "The infection spreads through the jawbone itself.",
+      "Abscesses swell and loosen the animal's teeth.",
+      "Bone rots away, and chewing becomes impossible.",
+      "The kangaroo slowly starves, surrounded by food it can't eat."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a kangaroo's swollen jaw, high contrast, strong lighting",
+      "close-up of a kangaroo's mouth and teeth, sharp detail",
+      "tight close-up of a kangaroo grazing in dry grass, cinematic light",
+      "close-up of a thin, weakened kangaroo standing still, dramatic lighting",
+      "tight close-up of a kangaroo's gaunt face in golden light, stark contrast"
+    ]
+  },
+  {
+    "id": "wombat-sarcoptic-mange",
+    "title": "The mites eating wombats alive from the outside in #shorts",
+    "description": "Sarcoptic mange mites burrow into a wombat's skin, crusting its eyes shut and driving it to starve out in daylight. #shorts #nature #facts #didyouknow",
+    "photo_query": "wombat",
+    "tags": [
+      "wombat",
+      "mange",
+      "mites",
+      "australia",
+      "wildlife",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know tiny mites can crust a wombat's eyes shut until it starves in broad daylight? Sarcoptic mange mites burrow beneath a wombat's skin, laying eggs and triggering thick, cracked crusts across its face and body. The crusting blinds the wombat and stops it from eating properly, forcing it out of its burrow during the day in a desperate, disoriented search for food. Left untreated, the infestation kills nearly every wombat it infects.",
+    "captions": [
+      "Tiny mites burrow beneath a wombat's skin.",
+      "Thick crusts form across its face and body.",
+      "The crusting blinds the wombat completely.",
+      "It stumbles out in daylight, desperate for food.",
+      "Untreated, the mites kill almost every wombat they infect."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a wombat's crusted, mange-scarred face, high contrast lighting",
+      "close-up of thick crusted skin on a wombat's leg, sharp detail",
+      "tight close-up of a disoriented wombat stumbling in daylight, cinematic",
+      "close-up of a wombat's blinded, crusted eyes, dramatic lighting",
+      "tight close-up of a weakened wombat outside its burrow, stark contrast"
+    ]
+  },
+  {
+    "id": "giraffe-skin-disease",
+    "title": "The disease turning giraffe legs into cracked gray bark #shorts",
+    "description": "A mysterious skin disease crusts giraffe legs with thick gray lesions, sometimes crippling the animal's ability to walk or run. #shorts #nature #facts #didyouknow",
+    "photo_query": "giraffe legs",
+    "tags": [
+      "giraffe",
+      "skindisease",
+      "wildlife",
+      "africa",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a disease can turn a giraffe's legs into thick, cracked gray bark? Giraffe skin disease covers the lower legs in crusted, wrinkled lesions that scientists still can't fully explain, though parasites are suspected. As the crusts thicken, the skin can crack open and bleed, and severely affected giraffes limp or struggle to run. In a species that survives by outrunning lions, a crippled leg can turn a giraffe into easy prey.",
+    "captions": [
+      "A mysterious disease targets a giraffe's lower legs.",
+      "Thick gray lesions crust and wrinkle the skin.",
+      "The crusts can crack open and bleed.",
+      "Walking and running both become painful.",
+      "A crippled leg makes a giraffe easy prey for lions."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a giraffe's cracked, gray-crusted lower leg, high contrast lighting",
+      "close-up of crusted lesions on giraffe skin, sharp detail",
+      "tight close-up of a giraffe limping across dry savanna, cinematic light",
+      "close-up of a giraffe's leg mid-stride showing damaged skin, dramatic lighting",
+      "tight close-up of a giraffe standing weak and still, stark contrast"
+    ]
+  },
+  {
+    "id": "fisher-vs-porcupine",
+    "title": "The predator that hunts porcupines by biting their face #shorts",
+    "description": "Fishers are one of the only predators that can kill a porcupine, using dozens of rapid bites to the unprotected face until it bleeds out. #shorts #nature #facts #didyouknow",
+    "photo_query": "fisher animal",
+    "tags": [
+      "fisher",
+      "porcupine",
+      "predator",
+      "wildlife",
+      "forest",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a forest predator kills porcupines by biting their face until they bleed out? Fishers are among the few animals fast enough to get past a porcupine's quills, which cover its whole body except the face. A fisher circles and lunges, landing dozens of rapid bites on the porcupine's exposed nose and eyes. It can't retaliate fast enough, and blood loss and shock eventually bring it down.",
+    "captions": [
+      "A porcupine's quills cover its entire body but one spot.",
+      "The fisher targets its exposed, unprotected face.",
+      "It circles fast, landing bite after bite.",
+      "The porcupine can't turn quickly enough to retaliate.",
+      "Blood loss and shock finally bring it down."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a fisher's snarling face, high contrast, strong lighting",
+      "close-up of porcupine quills bristling on its back, sharp detail",
+      "tight close-up of a fisher lunging toward a porcupine's face, cinematic",
+      "close-up of a porcupine's bleeding, exposed nose, dramatic lighting",
+      "tight close-up of a fisher standing over a fallen porcupine, stark contrast"
+    ]
+  },
+  {
+    "id": "mongoose-cobra-immunity",
+    "title": "The animal whose body ignores cobra venom completely #shorts",
+    "description": "Mongooses have mutated nerve receptors that block cobra venom, letting them fight and kill snakes that could drop a human in minutes. #shorts #nature #facts #didyouknow",
+    "photo_query": "mongoose cobra",
+    "tags": [
+      "mongoose",
+      "cobra",
+      "venom",
+      "predator",
+      "nature",
+      "facts",
+      "wildlife",
+      "shorts"
+    ],
+    "script": "Did you know one predator's body simply ignores venom that can kill a human within the hour? Mongooses carry a mutated nerve receptor that stops cobra neurotoxin from locking on, so a bite that would paralyze most animals barely slows them. Using speed and a thick coat to dodge repeated strikes, a mongoose wears a cobra down through relentless attacks. Eventually the snake tires enough for a killing bite to the skull.",
+    "captions": [
+      "Cobra venom can kill most animals within the hour.",
+      "A mongoose's nerve receptors simply block it.",
+      "It dodges repeated strikes using pure speed.",
+      "The relentless attack wears the cobra down.",
+      "A final bite to the skull ends the fight."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a mongoose baring its teeth, high contrast lighting",
+      "close-up of a cobra's hood flared and striking, cinematic light",
+      "tight close-up of a mongoose dodging mid-lunge, sharp detail",
+      "close-up of a mongoose gripping a snake near the head, dramatic lighting",
+      "tight close-up of an exhausted cobra losing the fight, stark contrast"
+    ]
+  },
+  {
+    "id": "right-whale-chronic-entanglement",
+    "title": "The fishing rope that can take years to kill a whale #shorts",
+    "description": "Right whales dragging fishing rope can suffer for years as the line cuts deeper with every movement, slowly starving and bleeding them out. #shorts #nature #facts #didyouknow",
+    "photo_query": "right whale",
+    "tags": [
+      "rightwhale",
+      "entanglement",
+      "fishingrope",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a whale can drag fishing rope behind it for years before the injury kills it? Right whales get entangled in vertical lines connecting traps to surface buoys, and the rope can wrap around a flipper, tail, or jaw. Every stroke cuts the line deeper into blubber and muscle, causing chronic wounds that never heal and make feeding harder. Weakened and in constant pain, entangled whales often die slowly of infection or starvation.",
+    "captions": [
+      "A whale swims into a vertical fishing line.",
+      "Rope wraps around a flipper, tail, or jaw.",
+      "Every stroke cuts the line deeper into its body.",
+      "The wound never heals and feeding grows harder.",
+      "Infection or starvation can take years to finish the job."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of rope cutting into a whale's tail, high contrast lighting",
+      "close-up of a whale's scarred flipper trailing line, cinematic",
+      "tight close-up of a whale surfacing with rope wrapped around its jaw, sharp detail",
+      "close-up of an infected wound on thick whale skin, dramatic lighting",
+      "tight close-up of an exhausted whale barely breaking the surface, stark contrast"
+    ]
+  },
+  {
+    "id": "horseshoe-crab-blood-harvest",
+    "title": "The ancient creature bled every year to save human lives #shorts",
+    "description": "Horseshoe crab blood is harvested to test medical safety, and roughly a third of the crabs bled each year don't survive the process. #shorts #nature #facts #didyouknow",
+    "photo_query": "horseshoe crab",
+    "tags": [
+      "horseshoecrab",
+      "bloodharvest",
+      "medicine",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know an animal older than dinosaurs gets bled by the hundreds of thousands every year for its blue blood? Horseshoe crab blood clots instantly around bacterial toxins, making it essential for testing vaccine and IV drug safety. Crabs are caught, strapped down, and drained of up to a third of their blood before release back into the ocean. Studies suggest ten to thirty percent never recover, dying from the stress or blood loss.",
+    "captions": [
+      "Horseshoe crabs are older than the dinosaurs.",
+      "Their blue blood detects deadly bacteria instantly.",
+      "Hundreds of thousands are caught and drained yearly.",
+      "Up to a third of their blood is taken at once.",
+      "Many never recover from the stress and blood loss."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a horseshoe crab's shell and eyes, high contrast lighting",
+      "close-up of blue horseshoe crab blood being drawn, cinematic lighting",
+      "tight close-up of horseshoe crabs strapped in a lab rack, sharp detail",
+      "close-up of a crab's underside and legs, dramatic lighting",
+      "tight close-up of a horseshoe crab being released into shallow surf, stark contrast"
+    ]
+  },
+  {
+    "id": "honey-fungus-armillaria",
+    "title": "The single fungus quietly killing a forest for 2,000 years #shorts",
+    "description": "One honey fungus in Oregon has spread underground for thousands of years, slowly strangling trees across three and a half square miles. #shorts #nature #facts #didyouknow",
+    "photo_query": "forest fungus roots",
+    "tags": [
+      "fungus",
+      "armillaria",
+      "forest",
+      "nature",
+      "facts",
+      "ecology",
+      "shorts"
+    ],
+    "script": "Did you know a single organism has quietly killed trees across three and a half square miles for thousands of years? Armillaria honey fungus spreads underground as thick black cords that infiltrate tree roots and choke off water and nutrients. Infected trees can take years to die while the fungus keeps expanding beneath the soil, unseen. One individual in Oregon is estimated to be over two thousand years old and still spreading today.",
+    "captions": [
+      "A single fungus lives spread beneath a whole forest.",
+      "Thick black cords infiltrate tree roots underground.",
+      "They choke off each tree's water and nutrients.",
+      "Infected trees can take years to slowly die.",
+      "This one fungus is over two thousand years old and still growing."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of black fungal cords on a tree root, high contrast lighting",
+      "close-up of honey-colored mushrooms at a tree base, cinematic light",
+      "tight close-up of a dying tree trunk with fungal growth, sharp detail",
+      "close-up of exposed roots laced with dark fungal threads, dramatic lighting",
+      "wide dramatic shot of a forest with scattered dead trees, stark contrast"
+    ]
+  },
+  {
+    "id": "barn-owl-sibling-starvation",
+    "title": "Why the youngest barn owl chick often never gets fed #shorts",
+    "description": "Barn owls hatch chicks days apart, and in lean years the smallest sibling is starved and even eaten so its stronger nest mates survive. #shorts #nature #facts #didyouknow",
+    "photo_query": "barn owl chicks nest",
+    "tags": [
+      "barnowl",
+      "siblicide",
+      "birds",
+      "nature",
+      "facts",
+      "wildlife",
+      "shorts"
+    ],
+    "script": "Did you know the last barn owl chick to hatch is sometimes sacrificed so its siblings survive? Barn owls lay eggs days apart, so chicks hatch at staggered sizes instead of all at once. When prey is scarce, parents keep feeding the larger, louder chicks first, and the smallest simply starves in the nest. In the worst years, weakened siblings are eaten by their nest mates, turning the smallest chick into a final meal.",
+    "captions": [
+      "Barn owl eggs hatch days apart, not all at once.",
+      "This creates chicks of very different sizes.",
+      "When food is scarce, the biggest chicks eat first.",
+      "The smallest, weakest chick often starves.",
+      "In hard years, it may be eaten by its own siblings."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of barn owl chicks of different sizes in a nest, high contrast lighting",
+      "close-up of the smallest, weakest owl chick, cinematic lighting",
+      "tight close-up of a parent owl feeding only the largest chick, sharp detail",
+      "close-up of a starving owl chick pressed into the nest corner, dramatic lighting",
+      "tight close-up of an empty spot in the nest at dawn, stark contrast"
+    ]
+  },
+  {
+    "id": "black-eagle-cainism",
+    "title": "The eagle chick that kills its own sibling within days #shorts",
+    "description": "Verreaux's eagles lay two eggs, but the first chick to hatch almost always kills the second within days, while the parents simply watch. #shorts #nature #facts #didyouknow",
+    "photo_query": "eagle nest chicks",
+    "tags": [
+      "eagle",
+      "cainism",
+      "siblicide",
+      "birds",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know an eagle chick usually kills its own sibling within days of hatching, while its parents watch? Verreaux's eagles lay two eggs that hatch days apart, giving the firstborn a head start in size and strength. Almost as soon as the second egg hatches, the older chick attacks its sibling, pecking it relentlessly until it dies from injury or starvation. Scientists call it cainism, and in nearly every nest, only one chick survives.",
+    "captions": [
+      "An eagle pair lays two eggs, days apart.",
+      "The first chick hatches bigger and stronger.",
+      "It attacks its newly hatched sibling almost immediately.",
+      "Relentless pecking kills the smaller chick within days.",
+      "The parents watch and do nothing to stop it."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of two eagle chicks of different sizes in a nest, high contrast lighting",
+      "close-up of the larger chick pecking at its sibling, cinematic lighting",
+      "tight close-up of a wounded smaller eagle chick, sharp detail",
+      "close-up of a parent eagle watching from the nest edge, dramatic lighting",
+      "tight close-up of a single surviving eagle chick alone in the nest, stark contrast"
+    ]
+  },
+  {
+    "id": "snowshoe-hare-stress-death",
+    "title": "The hares that die from fear even after escaping #shorts",
+    "description": "Snowshoe hares can die from stress hormones alone after a close predator chase, their hearts giving out even without a single injury. #shorts #nature #facts #didyouknow",
+    "photo_query": "snowshoe hare",
+    "tags": [
+      "snowshoehare",
+      "stress",
+      "predator",
+      "wildlife",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a hare can die from pure fear, hours after escaping a predator? Snowshoe hares living under constant threat from lynx flood their bodies with stress hormones during every chase, even ones they win. Researchers found chronically stressed hares often can't reproduce, and some hearts simply give out from the strain, with no wound on the body. In heavy predation years, fear alone can kill nearly as effectively as an attack.",
+    "captions": [
+      "A hare escapes a lynx attack completely uninjured.",
+      "But its body has flooded with stress hormones.",
+      "Chronic stress can stop hares from reproducing.",
+      "Some hearts simply give out from the strain.",
+      "Fear alone can kill almost as often as the predator does."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a snowshoe hare's wide, alert eye, high contrast lighting",
+      "close-up of a lynx mid-chase through snow, cinematic light",
+      "tight close-up of a hare frozen still, heart racing, sharp detail",
+      "close-up of a hare's chest heaving after a chase, dramatic lighting",
+      "tight close-up of a hare collapsed motionless in snow, stark contrast"
+    ]
+  },
+  {
+    "id": "upside-down-jellyfish-cassiosome",
+    "title": "The jellyfish that can sting you without ever touching you #shorts",
+    "description": "Upside-down jellyfish release tiny stinging balls of mucus into open water, letting them sting swimmers who never even brush the jellyfish itself. #shorts #nature #facts #didyouknow",
+    "photo_query": "jellyfish mucus",
+    "tags": [
+      "jellyfish",
+      "cassiosome",
+      "sting",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a jellyfish can sting you without you ever touching it? Upside-down jellyfish rest on the seafloor and release drifting clouds of mucus packed with microscopic stinging structures called cassiosomes. These tiny stinging balls float freely through the water on their own, capable of killing prey or irritating human skin far from the jellyfish itself. Swimmers in infested lagoons sometimes surface with painful welts and never spot a single jellyfish nearby.",
+    "captions": [
+      "An upside-down jellyfish rests quietly on the seafloor.",
+      "It releases mucus packed with microscopic stingers.",
+      "These tiny stinging balls drift freely through the water.",
+      "They can sting prey or skin on their own.",
+      "Swimmers get welts without ever touching a jellyfish."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of an upside-down jellyfish on a sandy seafloor, high contrast lighting",
+      "close-up of cloudy mucus drifting through clear water, cinematic light",
+      "tight close-up of microscopic stinging particles suspended in water, sharp detail",
+      "close-up of a welt forming on human skin underwater, dramatic lighting",
+      "tight close-up of calm lagoon water with no visible jellyfish, stark contrast"
+    ]
+  },
+  {
+    "id": "three-toed-sloth-moth-symbiosis",
+    "title": "Why moths live their entire life cycle inside a sloth's fur #shorts",
+    "description": "Moths lay eggs in sloth dung, then fly back to live and breed inside the sloth's fur, fertilizing algae the sloth eats for camouflage. #shorts #nature #facts #didyouknow",
+    "photo_query": "sloth fur",
+    "tags": [
+      "sloth",
+      "moth",
+      "symbiosis",
+      "rainforest",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a moth can spend its life cycle living inside the fur of one sloth? Once a week, a sloth makes a risky climb to the forest floor just to defecate, and moths in its fur lay eggs directly in the dung. The larvae hatch, mature, and fly back up to find a sloth to call home. Their presence encourages algae to grow in the fur, which the sloth eats for camouflage.",
+    "captions": [
+      "A sloth makes one risky trip to the ground each week.",
+      "It's only to defecate at the base of its tree.",
+      "Moths living in its fur lay eggs in the dung.",
+      "Larvae hatch and fly back up to find a new sloth.",
+      "Their presence helps grow the algae a sloth eats and hides in."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of moths nestled in thick sloth fur, high contrast lighting",
+      "close-up of a sloth slowly descending a tree trunk, cinematic light",
+      "tight close-up of moth eggs on forest floor dung, sharp detail",
+      "close-up of algae growing visibly in green-tinted sloth fur, dramatic lighting",
+      "tight close-up of a sloth's calm face partly covered in algae-green fur, stark contrast"
+    ]
+  },
+  {
+    "id": "puff-adder-camouflage-bite",
+    "title": "The snake responsible for more bites than any other in Africa #shorts",
+    "description": "Puff adders rely on camouflage instead of fleeing, so most victims step directly on one before its fast strike and necrotic venom take hold. #shorts #nature #facts #didyouknow",
+    "photo_query": "puff adder snake",
+    "tags": [
+      "puffadder",
+      "snakebite",
+      "venom",
+      "africa",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know one snake causes more bites than any other in Africa simply by refusing to move? Puff adders rely entirely on camouflage, staying still even as footsteps approach, so most victims step directly on one without ever seeing it. The strike is explosively fast, and its venom destroys tissue at the bite site, causing swelling, blistering, and spreading necrosis. Without fast treatment, the dying flesh can spread far enough to require amputation.",
+    "captions": [
+      "A puff adder relies on stillness, not speed, to hide.",
+      "Most victims step on one without ever seeing it.",
+      "Its strike is explosively fast once triggered.",
+      "The venom destroys tissue right at the bite site.",
+      "Spreading necrosis can require amputation without fast treatment."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a puff adder camouflaged in leaf litter, high contrast lighting",
+      "close-up of a human foot about to step near a hidden snake, cinematic tension",
+      "tight close-up of a puff adder mid-strike, sharp detail",
+      "close-up of swollen, blistered skin around a bite wound, dramatic lighting",
+      "tight close-up of a bandaged limb in a clinic, stark contrast"
+    ]
+  },
+  {
+    "id": "coral-snake-delayed-paralysis",
+    "title": "The snakebite that can feel fine for hours before it kills #shorts",
+    "description": "Coral snake venom can take hours to cause symptoms, letting victims feel normal right up until sudden respiratory paralysis sets in. #shorts #nature #facts #didyouknow",
+    "photo_query": "coral snake",
+    "tags": [
+      "coralsnake",
+      "venom",
+      "paralysis",
+      "reptile",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a snakebite can leave you feeling fine for hours before it suddenly stops your breathing? Coral snake venom is a powerful neurotoxin, but unlike many snakebites, symptoms can be delayed up to twelve hours. Victims sometimes go home believing they escaped unharmed, unaware the toxin is slowly blocking nerve signals to their muscles. Without antivenom, breathing muscles can fail suddenly, causing fatal respiratory paralysis with almost no warning.",
+    "captions": [
+      "A coral snake's venom is a powerful neurotoxin.",
+      "Symptoms can take up to twelve hours to appear.",
+      "Victims often feel fine and think they're unharmed.",
+      "The toxin is quietly blocking nerve signals the whole time.",
+      "Breathing muscles can suddenly fail with almost no warning."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a coral snake's banded pattern, high contrast lighting",
+      "close-up of a small bite wound on skin, cinematic lighting",
+      "tight close-up of a person resting, unaware anything is wrong, dramatic light",
+      "close-up of a hand trembling slightly, sharp detail",
+      "tight close-up of an oxygen mask on a hospital patient, stark contrast"
+    ]
+  },
+  {
+    "id": "wolbachia-male-killing-bacteria",
+    "title": "The bacteria quietly controlling half of all insect species #shorts",
+    "description": "Wolbachia bacteria infect most insect species and manipulate reproduction, sometimes killing every infected male before it even hatches. #shorts #nature #facts #didyouknow",
+    "photo_query": "insect eggs macro",
+    "tags": [
+      "wolbachia",
+      "bacteria",
+      "insects",
+      "reproduction",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a single bacterium quietly controls reproduction in more than half of all insect species? Wolbachia lives inside insect cells and spreads only through eggs, so it has evolved ways to favor females over males. In some species it simply kills every infected male embryo before hatching, boosting female carriers in the next generation. In others, it turns genetic males into functioning females, reshaping entire populations without a fight.",
+    "captions": [
+      "A single bacterium infects most insect species on Earth.",
+      "It spreads only through eggs, never through males.",
+      "So it evolved ways to eliminate males before they hatch.",
+      "In some species, infected male embryos are simply killed.",
+      "In others, it turns genetic males into functioning females."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of insect eggs on a leaf, high contrast lighting",
+      "close-up of a microscopic bacteria illustration inside a cell, cinematic style",
+      "tight close-up of a hatching insect larva, sharp detail",
+      "close-up of an insect wing catching light, dramatic lighting",
+      "tight close-up of a swarm of the same insect species, stark contrast"
+    ]
+  },
+  {
+    "id": "frigatebird-cannot-land-on-water",
+    "title": "The seabird that will drown if it ever lands on the ocean #shorts",
+    "description": "Frigatebirds have feathers that aren't waterproof, so landing on the ocean can leave them too waterlogged to take off and at risk of drowning. #shorts #nature #facts #didyouknow",
+    "photo_query": "frigatebird flying",
+    "tags": [
+      "frigatebird",
+      "seabird",
+      "kleptoparasitism",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a seabird can drown simply by landing on the ocean it flies over its whole life? Frigatebird feathers lack the waterproofing most seabirds rely on, so touching waves soaks them fast. Waterlogged and too heavy to take off again, a grounded frigatebird can be stranded on the surface until it drowns or is taken by a predator. To survive, frigatebirds steal food from other birds mid-air instead of diving for it themselves.",
+    "captions": [
+      "A frigatebird spends its whole life flying over open ocean.",
+      "But its feathers aren't actually waterproof.",
+      "Landing on waves soaks it fast.",
+      "Waterlogged, it can become too heavy to take off.",
+      "So it steals food from other birds instead of ever landing."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a frigatebird's inflated red throat pouch, high contrast lighting",
+      "close-up of a frigatebird gliding just above ocean waves, cinematic light",
+      "tight close-up of wet, waterlogged feathers, sharp detail",
+      "close-up of a frigatebird struggling on the water's surface, dramatic lighting",
+      "tight close-up of a frigatebird snatching food from another bird mid-air, stark contrast"
+    ]
+  },
+  {
+    "id": "tarsier-fixed-eyes",
+    "title": "The primate that must turn its whole head just to look sideways #shorts",
+    "description": "Tarsiers have eyes so large they can't move them at all, forcing the animal to rotate its head nearly 180 degrees just to look around. #shorts #nature #facts #didyouknow",
+    "photo_query": "tarsier eyes",
+    "tags": [
+      "tarsier",
+      "primate",
+      "eyes",
+      "nocturnal",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a primate's eyes are so large it physically can't move them at all? Each tarsier eyeball is bigger than its own brain, leaving no room in the socket for muscles to shift side to side. To look anywhere but ahead, a tarsier must rotate its head nearly one hundred eighty degrees, almost like an owl. This fixed, unblinking stare helps it spot prey in darkness, but leaves it unable to glance sideways.",
+    "captions": [
+      "A tarsier's eyes are bigger than its own brain.",
+      "There's no room left in the socket for eye muscles.",
+      "So the eyes can't move side to side at all.",
+      "To look around, it must rotate its whole head.",
+      "It can turn nearly one hundred eighty degrees, like an owl."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a tarsier's enormous fixed eyes, high contrast lighting",
+      "close-up of a tarsier's head rotated sideways on a branch, cinematic light",
+      "tight close-up of a tarsier gripping a branch at night, sharp detail",
+      "close-up of a tarsier's tiny hands and long fingers, dramatic lighting",
+      "tight close-up of a tarsier staring directly into the camera, stark contrast"
+    ]
+  },
+  {
+    "id": "japanese-spider-crab-molt-cannibalism",
+    "title": "The moment a giant crab is completely defenseless to its own kind #shorts",
+    "description": "Japanese spider crabs must shed their shell to grow, leaving them soft and defenseless for hours while other crabs may attack and eat them. #shorts #nature #facts #didyouknow",
+    "photo_query": "japanese spider crab",
+    "tags": [
+      "spidercrab",
+      "molting",
+      "cannibalism",
+      "ocean",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know the largest arthropod on Earth becomes completely defenseless several times in its life? Japanese spider crabs must shed their hard shell entirely to grow, emerging with a body as soft as wet paper underneath. During this molt, they can't fight or flee effectively, leaving them vulnerable to predators and other spider crabs nearby. Cannibalism on freshly molted crabs isn't uncommon, as their own kind take advantage before the new shell hardens.",
+    "captions": [
+      "The largest arthropod on Earth must molt to grow.",
+      "It sheds its entire hard shell at once.",
+      "Underneath, its new body is soft as wet paper.",
+      "For hours, it can barely fight or flee at all.",
+      "Other spider crabs sometimes attack and eat it before it hardens."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a spider crab's long spindly legs, high contrast lighting",
+      "close-up of a crab emerging from its old shell, cinematic lighting",
+      "tight close-up of soft, pale new shell underneath, sharp detail",
+      "close-up of another crab approaching a molting crab, dramatic lighting",
+      "tight close-up of a hardened new shell catching light, stark contrast"
+    ]
+  },
+  {
+    "id": "sea-lion-domoic-acid-poisoning",
+    "title": "The toxin turning sea lions aggressive on beaches #shorts",
+    "description": "A neurotoxin from algae blooms builds up in sea lions' brains, causing seizures and sudden aggression that strands them on public beaches. #shorts #nature #facts #didyouknow",
+    "photo_query": "sea lion beach",
+    "tags": [
+      "sealion",
+      "domoicacid",
+      "algae",
+      "toxin",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a toxin from ordinary algae can rewire a sea lion's brain into dangerous aggression? Domoic acid builds up in small fish that sea lions eat during certain algae blooms, then crosses into their brain tissue. The toxin damages the hippocampus, triggering seizures, disorientation, and sudden aggression toward anything nearby, including people. Poisoned sea lions are increasingly found stranded and convulsing on public beaches, trapped in a body turning against them.",
+    "captions": [
+      "An algae bloom releases a toxin called domoic acid.",
+      "Small fish absorb it, and sea lions eat the fish.",
+      "The toxin crosses into the sea lion's brain.",
+      "It damages memory centers, causing seizures and confusion.",
+      "Poisoned sea lions can turn suddenly aggressive on public beaches."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a sea lion's face mid-seizure, high contrast lighting",
+      "close-up of algae bloom coloring ocean water green, cinematic light",
+      "tight close-up of a sea lion stranded on sand, sharp detail",
+      "close-up of a disoriented sea lion baring its teeth, dramatic lighting",
+      "tight close-up of a sea lion convulsing on a public beach, stark contrast"
+    ]
+  },
+  {
+    "id": "vaquita-gillnet-extinction",
+    "title": "The porpoise with fewer than ten left on Earth #shorts",
+    "description": "Vaquita porpoises keep drowning in illegal gillnets meant for another fish, and fewer than ten individuals are believed to remain alive. #shorts #nature #facts #didyouknow",
+    "photo_query": "vaquita porpoise",
+    "tags": [
+      "vaquita",
+      "porpoise",
+      "extinction",
+      "gillnet",
+      "ocean",
+      "nature",
+      "shorts"
+    ],
+    "script": "Did you know the world's smallest porpoise is down to fewer than ten individuals left alive on Earth? Vaquitas live only in Mexico's Gulf of California, where illegal gillnets set for a different, valuable fish trap and drown them by accident. Unable to hold their breath forever, entangled vaquitas suffocate underwater within minutes of getting caught. Despite conservation efforts, the species keeps shrinking each year, edging toward the first cetacean extinction caused entirely by humans.",
+    "captions": [
+      "The vaquita is the world's smallest porpoise.",
+      "It lives only in one small stretch of Mexican water.",
+      "Illegal gillnets set for another fish trap them by accident.",
+      "Unable to surface, entangled vaquitas drown within minutes.",
+      "Fewer than ten are believed to remain alive today."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a vaquita porpoise's dark eye markings, high contrast lighting",
+      "close-up of a gillnet stretched underwater, cinematic lighting",
+      "tight close-up of a porpoise tangled in net lines, sharp detail",
+      "close-up of murky green ocean water with a net silhouette, dramatic lighting",
+      "tight close-up of empty water where a vaquita once surfaced, stark contrast"
+    ]
+  },
+  {
+    "id": "blister-beetle-cantharidin-poisoning",
+    "title": "The tiny beetle that can kill a horse hidden in hay #shorts",
+    "description": "Blister beetles contain a toxin so potent that a few crushed into hay can kill a horse, while touching one can blister human skin instantly. #shorts #nature #facts #didyouknow",
+    "photo_query": "blister beetle",
+    "tags": [
+      "blisterbeetle",
+      "cantharidin",
+      "toxin",
+      "livestock",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a beetle small enough to miss in a bale of hay can be lethal enough to kill a horse? Blister beetles carry cantharidin, a toxin so caustic it blisters skin on contact within minutes. When beetles get baled into alfalfa hay and crushed, horses eating the hay can absorb enough toxin to destroy their digestive tract and kidneys. A handful of crushed beetles hidden in one bale has been enough to kill.",
+    "captions": [
+      "A tiny beetle hides easily inside a bale of hay.",
+      "It carries a toxin called cantharidin.",
+      "On skin, it causes blistering within minutes.",
+      "Crushed into hay, it can poison a horse that eats it.",
+      "A handful of beetles in one bale has been enough to kill."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a blister beetle on a plant stem, high contrast lighting",
+      "close-up of alfalfa hay being baled in a field, cinematic light",
+      "tight close-up of a blistered patch on skin, sharp detail",
+      "close-up of a horse eating from a hay bale, dramatic lighting",
+      "tight close-up of crushed beetle remains in dried hay, stark contrast"
+    ]
+  },
+  {
+    "id": "tenrec-mass-litter-mortality",
+    "title": "The mammal that can give birth to 32 babies at once #shorts",
+    "description": "Common tenrecs have the largest litters of any mammal, but with so many newborns competing for milk, many never survive to weaning. #shorts #nature #facts #didyouknow",
+    "photo_query": "tenrec animal",
+    "tags": [
+      "tenrec",
+      "litter",
+      "mammal",
+      "madagascar",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know one small mammal can birth more babies at once than any other on Earth? Tenrecs can produce litters of up to thirty-two young in a single birth, far more than they have nipples to feed. With dozens of newborns competing for a limited number of teats, the weakest get pushed aside and starve within days. Even in a healthy litter, a tenrec mother usually raises only a fraction of the babies born.",
+    "captions": [
+      "One small mammal can birth up to thirty-two babies at once.",
+      "That's more offspring than she has teats to feed.",
+      "Dozens of newborns compete for a limited number of spots.",
+      "The weakest are pushed aside and often starve.",
+      "Only a fraction of the litter usually survives to weaning."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a tenrec's spiny face, high contrast lighting",
+      "close-up of a cluster of tiny newborn tenrecs, cinematic lighting",
+      "tight close-up of newborns competing to nurse, sharp detail",
+      "close-up of a weak, pushed-aside baby tenrec, dramatic lighting",
+      "tight close-up of a mother tenrec with a few surviving young, stark contrast"
+    ]
+  },
+  {
+    "id": "chestnut-blight-fungus",
+    "title": "The fungus that wiped out four billion trees in 40 years #shorts",
+    "description": "A single imported fungus spread through American chestnut forests, killing an estimated four billion trees and erasing a dominant species. #shorts #nature #facts #didyouknow",
+    "photo_query": "chestnut tree forest",
+    "tags": [
+      "chestnutblight",
+      "fungus",
+      "forest",
+      "extinction",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a single fungus wiped out roughly four billion trees across a continent in under forty years? Chestnut blight arrived on imported nursery stock in the early nineteen hundreds and spread fast through American chestnut forests. The fungus invades bark through tiny wounds, forming cankers that girdle the trunk and cut off water and nutrients. Trees that once made up a quarter of Appalachian forests were reduced to stump sprouts within one lifetime.",
+    "captions": [
+      "A single imported fungus reaches American chestnut forests.",
+      "It spreads rapidly through tiny wounds in the bark.",
+      "Cankers form and girdle the trunk completely.",
+      "Water and nutrients are cut off entirely.",
+      "Four billion trees died within one human lifetime."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a fungal canker on tree bark, high contrast lighting",
+      "close-up of dead chestnut tree trunks in a forest, cinematic lighting",
+      "tight close-up of cracked, girdled bark, sharp detail",
+      "close-up of a stump sprout growing from a dead chestnut, dramatic lighting",
+      "wide dramatic shot of a forest of chestnut skeletons, stark contrast"
+    ]
+  },
+  {
+    "id": "lone-star-tick-alpha-gal-syndrome",
+    "title": "The tick bite that can make you allergic to meat forever #shorts",
+    "description": "A lone star tick bite can trigger alpha-gal syndrome, rewiring the immune system to attack red meat as if it were a dangerous invader. #shorts #nature #facts #didyouknow",
+    "photo_query": "tick on skin",
+    "tags": [
+      "lonestartick",
+      "alphagal",
+      "allergy",
+      "meat",
+      "nature",
+      "facts",
+      "shorts"
+    ],
+    "script": "Did you know a single tick bite can rewrite your immune system to attack meat for life? Lone star tick saliva contains a sugar molecule called alpha-gal that some immune systems mistake for a threat. After being bitten, the body can start producing antibodies that trigger a severe allergic reaction hours after eating red meat. Unlike most food allergies that begin in childhood, this one starts with a single bite and can last a lifetime.",
+    "captions": [
+      "A lone star tick bites, injecting its saliva.",
+      "That saliva contains a sugar molecule called alpha-gal.",
+      "Some immune systems mistake it for a real threat.",
+      "The body starts producing antibodies against red meat.",
+      "A single bite can trigger a lifelong meat allergy."
+    ],
+    "image_prompts": [
+      "dramatic tight close-up of a lone star tick on skin, high contrast lighting",
+      "close-up of a tick bite mark reddening on skin, cinematic light",
+      "tight close-up of a plate of red meat, sharp detail",
+      "close-up of hives breaking out on an arm, dramatic lighting",
+      "tight close-up of an epinephrine injector on a table, stark contrast"
     ]
   }
 ]
