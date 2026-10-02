@@ -1,35 +1,5 @@
 [
   {
-    "id": "electric-catfish",
-    "title": "This catfish can knock a person down with its own electric shock #shorts",
-    "description": "The electric catfish generates jolts up to 350 volts from an organ wrapped around its body, strong enough to stun prey and startle people. #shorts #nature #facts #didyouknow #fish",
-    "photo_query": "electric catfish river",
-    "tags": [
-      "electriccatfish",
-      "malapterurus",
-      "fish",
-      "electricity",
-      "nature",
-      "facts",
-      "shorts"
-    ],
-    "script": "Did you know a catfish can deliver a shock strong enough to knock a grown person down? The electric catfish of African rivers wraps a specialized electric organ around almost its entire body, unlike the electric eel, which keeps its organ along the tail. It fires jolts up to three hundred and fifty volts to stun prey before swallowing them whole, and fishermen who grab one bare-handed get shocked hard enough to stumble backward.",
-    "captions": [
-      "The electric catfish lives in African rivers and lakes.",
-      "Its electric organ wraps around almost its whole body.",
-      "It fires jolts up to 350 volts.",
-      "That's enough to stun prey fish instantly.",
-      "Fishermen who grab one bare-handed get knocked back."
-    ],
-    "image_prompts": [
-      "bright underwater photo of a catfish along a muddy riverbed, vivid",
-      "close-up of the catfish's smooth skin and whiskers, sharp detail",
-      "murky African river water in golden light, well-lit",
-      "a fisherman's net pulled from the water, cinematic",
-      "wide bright shot of a wide tropical river at dusk"
-    ]
-  },
-  {
     "id": "titan-triggerfish",
     "title": "This reef fish attacks divers who swim too close to its nest #shorts",
     "description": "Titan triggerfish guard a cone-shaped nest patch and charge divers who drift above it, with jaws strong enough to bite through fins and fingers. #shorts #nature #facts #didyouknow #ocean",
