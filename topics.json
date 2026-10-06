@@ -968,5 +968,842 @@
       "close-up of hives breaking out on an arm, dramatic lighting",
       "tight close-up of an epinephrine injector on a table, stark contrast"
     ]
+  },
+  {
+    "id": "mountain-pine-beetle-forest-death",
+    "title": "A beetle the size of rice grain killed tens of millions of acres of forest #shorts",
+    "description": "A beetle the size of rice grain killed tens of millions of acres of forest. Scientists call it the largest forest insect outbreak recorded in North America. #shorts #nature #facts #didyouknow",
+    "photo_query": "pine beetle bark",
+    "tags": [
+      "mountain",
+      "pine",
+      "beetle",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A beetle the size of a grain of rice has killed tens of millions of acres of forest. Mountain pine beetles tunnel under the bark and carry a fungus that clogs the tree's water flow. They also release signals that summon thousands more. A healthy pine dies within weeks. Warmer winters stopped killing the beetles off, so entire mountainsides turned red, then gray. Scientists call it the largest forest insect outbreak recorded in North America.",
+    "captions": [
+      "A rice-sized beetle bores into a pine.",
+      "It carries a fungus that clogs the tree.",
+      "Chemical signals call thousands more.",
+      "The pine dies within weeks.",
+      "Whole mountainsides turned red, then gray."
+    ],
+    "image_prompts": [
+      "extreme macro close-up of a pine beetle boring into bark, dramatic lighting",
+      "close-up of blue-stained wood under peeled pine bark, high contrast",
+      "macro of dozens of beetles swarming a resin-oozing tree trunk",
+      "close-up of dying pine needles turning rust red, sharp detail",
+      "tight shot of gray dead pine bark peeling, harsh side light"
+    ]
+  },
+  {
+    "id": "emerald-ash-borer-tree-killer",
+    "title": "A metallic green beetle has killed hundreds of millions of ash trees #shorts",
+    "description": "A metallic green beetle has killed hundreds of millions of ash trees. Cities have spent billions removing dead trees, and the beetle keeps spreading to new states every year. #shorts #nature #facts #didyouknow",
+    "photo_query": "emerald ash borer",
+    "tags": [
+      "emerald",
+      "borer",
+      "tree",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Hundreds of millions of ash trees are dead because of one shiny green beetle. The emerald ash borer arrived from Asia hidden in wood packing. Its larvae chew winding tunnels under the bark and cut off the tree's food supply. Almost every ash it touches dies within a few years, and no forest has stopped it yet. Cities have spent billions removing dead trees, and the beetle keeps spreading to new states every year.",
+    "captions": [
+      "A shiny green beetle arrived from Asia.",
+      "Its larvae chew tunnels under the bark.",
+      "They cut off the tree's food supply.",
+      "Nearly every infested ash dies.",
+      "Hundreds of millions are already gone."
+    ],
+    "image_prompts": [
+      "extreme macro of a metallic emerald green beetle on bark, dramatic light",
+      "close-up of winding larval tunnels under peeled ash bark, high contrast",
+      "macro of a larva curled in its carved gallery, sharp detail",
+      "close-up of a woodpecker-stripped dying ash trunk, harsh light",
+      "tight shot of a bare dead ash crown against gray sky"
+    ]
+  },
+  {
+    "id": "desert-locust-swarm-appetite",
+    "title": "One locust swarm can eat as much food as 35,000 people in a day #shorts",
+    "description": "One locust swarm can eat as much food as 35,000 people in a day. Entire harvests across East Africa and South Asia have been erased in a single afternoon. #shorts #nature #facts #didyouknow",
+    "photo_query": "locust swarm",
+    "tags": [
+      "desert",
+      "locust",
+      "swarm",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "One square kilometer of desert locust swarm eats as much food in a day as thirty-five thousand people. A single swarm can hold tens of billions of insects, each eating its own weight daily. They fly a hundred miles a day, strip every green thing, and leave farmland bare. When rains come, the swarms can multiply twentyfold. Entire harvests across East Africa and South Asia have been erased in a single afternoon.",
+    "captions": [
+      "One square kilometer of swarm.",
+      "It eats what 35,000 people eat daily.",
+      "Each locust devours its own weight.",
+      "They fly a hundred miles a day.",
+      "Fields are left bare in hours."
+    ],
+    "image_prompts": [
+      "extreme close-up of a desert locust face with mandibles, dramatic light",
+      "macro of locusts piled on a half-eaten green stalk, high contrast",
+      "close-up of hundreds of locusts crawling over each other, sharp detail",
+      "tight shot of a stripped bare cornstalk covered in locusts",
+      "close-up of a dense locust cloud against a harsh orange sun"
+    ]
+  },
+  {
+    "id": "passenger-pigeon-extinction",
+    "title": "Billions of passenger pigeons vanished within a few decades #shorts",
+    "description": "Billions of passenger pigeons vanished within a few decades. Scientists now study its DNA, and some even talk about bringing it back. #shorts #nature #facts #didyouknow",
+    "photo_query": "passenger pigeon",
+    "tags": [
+      "passenger",
+      "pigeon",
+      "extinction",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "The passenger pigeon was possibly the most numerous bird on Earth, with flocks that darkened the sky for days. Then hunters began shipping them by the trainload. Within a few decades, billions were gone. In 1914, the last one, a female named Martha, died alone in a Cincinnati zoo. Nobody had seen it coming. Scientists now study its DNA, and some even talk about bringing it back.",
+    "captions": [
+      "Flocks once darkened the sky for days.",
+      "Hunters shipped them by the trainload.",
+      "Billions vanished in a few decades.",
+      "The last one was named Martha.",
+      "She died alone in a zoo in 1914."
+    ],
+    "image_prompts": [
+      "close-up of a passenger pigeon museum specimen, dramatic side light",
+      "tight shot of hundreds of pigeon feathers on dark ground, high contrast",
+      "close-up of an antique wooden crate packed with dead pigeons, sharp detail",
+      "macro of a single glass bird eye, strong highlight",
+      "close-up of a stuffed pigeon alone behind glass, moody lighting"
+    ]
+  },
+  {
+    "id": "lionfish-invasion-reef-collapse",
+    "title": "Lionfish wiped out nearly 80 percent of reef fish in five weeks #shorts",
+    "description": "Lionfish wiped out nearly 80 percent of reef fish in five weeks. Divers now hold lionfish hunting tournaments, but nothing has stopped them spreading. #shorts #nature #facts #didyouknow",
+    "photo_query": "lionfish",
+    "tags": [
+      "lionfish",
+      "invasion",
+      "reef",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A lionfish can eat nearly eighty percent of a reef's small fish in five weeks. Aquarium owners released them into the Atlantic, where they have almost no predators. A female lays about two million eggs a year. They gulp prey whole, even fish half their size, and their venomous spines keep everything else away. Divers now hold lionfish hunting tournaments, but nothing has stopped them spreading.",
+    "captions": [
+      "Aquarium owners released them.",
+      "They have almost no predators here.",
+      "A female lays millions of eggs a year.",
+      "They swallow fish half their size.",
+      "Reefs lost about 80% of small fish."
+    ],
+    "image_prompts": [
+      "extreme close-up of a lionfish face with fanned spines, dramatic light",
+      "macro of venomous lionfish spines, high contrast",
+      "tight shot of a lionfish mouth gulping a small fish",
+      "close-up of lionfish eggs in a clear mucus sac, sharp detail",
+      "close-up of an empty bleached reef with one lionfish, harsh blue light"
+    ]
+  },
+  {
+    "id": "cheetah-cub-mortality",
+    "title": "About 90 percent of cheetah cubs never reach adulthood #shorts",
+    "description": "About 90 percent of cheetah cubs never reach adulthood. Cheetahs have lost most of their historic range, and fewer than seven thousand remain. #shorts #nature #facts #didyouknow",
+    "photo_query": "cheetah cub",
+    "tags": [
+      "cheetah",
+      "mortality",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "About nine out of ten cheetah cubs in the Serengeti die before they grow up. Lions kill them. Hyenas steal the kills their mothers work to catch. The mother hides her cubs in tall grass and moves them every few days, but still only a few survive. Fast as they are, cheetahs cannot outrun all of that. Cheetahs have lost most of their historic range, and fewer than seven thousand remain.",
+    "captions": [
+      "Cheetah cubs hide in tall grass.",
+      "Lions kill them on sight.",
+      "Hyenas steal their mothers' kills.",
+      "Mothers move them every few days.",
+      "Nine of ten still die young."
+    ],
+    "image_prompts": [
+      "close-up of a cheetah cub face in tall grass, dramatic light",
+      "tight shot of a lion's eye staring, high contrast",
+      "close-up of hyena teeth tearing a carcass, sharp detail",
+      "macro of a cub's paw in dust, warm side light",
+      "close-up of a lone cheetah mother's anxious eyes at dusk"
+    ]
+  },
+  {
+    "id": "dolphins-killing-porpoises",
+    "title": "Dolphins kill porpoises and nobody knows why #shorts",
+    "description": "Dolphins kill porpoises and nobody knows why. One theory says it is practice for infanticide, and another says it is simple aggression or competition. #shorts #nature #facts #didyouknow",
+    "photo_query": "bottlenose dolphin",
+    "tags": [
+      "dolphins",
+      "killing",
+      "porpoises",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Bottlenose dolphins kill harbor porpoises and do not eat them. They ram them with their snouts, tossing the bodies and breaking ribs. Scientists have found porpoise corpses with dolphin tooth marks across the world. They have also seen dolphins do this to their own calves. Nobody has fully explained why. One theory says it is practice for infanticide, and another says it is simple aggression or competition.",
+    "captions": [
+      "Dolphins ram porpoises with their snouts.",
+      "They break ribs and toss the bodies.",
+      "They do not even eat them.",
+      "Some have attacked their own calves.",
+      "Scientists still cannot explain it."
+    ],
+    "image_prompts": [
+      "extreme close-up of a bottlenose dolphin rostrum underwater, dramatic light",
+      "macro of dolphin teeth in a smiling mouth, high contrast",
+      "close-up of rake tooth marks on gray skin, sharp detail",
+      "tight shot of a dolphin's eye staring, strong highlight",
+      "close-up of a harbor porpoise lying on wet sand, moody light"
+    ]
+  },
+  {
+    "id": "gombe-chimpanzee-war",
+    "title": "Chimpanzees waged a four-year war that wiped out an entire group #shorts",
+    "description": "Chimpanzees waged a four-year war that wiped out an entire group. Chimpanzees share about ninety-eight percent of our DNA, and their violence looks disturbingly familiar. #shorts #nature #facts #didyouknow",
+    "photo_query": "chimpanzee",
+    "tags": [
+      "gombe",
+      "chimpanzee",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In 1974, a group of chimpanzees in Gombe began hunting down their former neighbors. Over four years, males patrolled the border and killed every male in the rival group, one by one. Researchers called it the first documented chimpanzee war. The winners then took over the land. Jane Goodall said she was horrified. Chimpanzees share about ninety-eight percent of our DNA, and their violence looks disturbingly familiar.",
+    "captions": [
+      "Chimps split into two rival groups.",
+      "Males patrolled the border silently.",
+      "They hunted rivals down one by one.",
+      "Four years later, no rival males remained.",
+      "Jane Goodall was horrified."
+    ],
+    "image_prompts": [
+      "extreme close-up of an angry chimpanzee face, dramatic light",
+      "tight shot of a chimp's clenched knuckles on dirt, high contrast",
+      "close-up of a chimp's eyes staring through leaves, sharp detail",
+      "macro of a chimp's bared teeth, strong shadows",
+      "close-up of an empty jungle trail at dusk, harsh light"
+    ]
+  },
+  {
+    "id": "black-bear-cub-infanticide",
+    "title": "Male black bears hunt and kill other bears' cubs #shorts",
+    "description": "Male black bears hunt and kill other bears' cubs. Researchers have documented it by following radio-collared bears and their cubs for years across North America. #shorts #nature #facts #didyouknow",
+    "photo_query": "black bear",
+    "tags": [
+      "black",
+      "bear",
+      "infanticide",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A male black bear may stalk a mother and kill her cubs. Killing them makes the mother ready to breed again within weeks instead of a year or two, and he is probably the father of the next litter. Mothers fight back and sometimes send their cubs up trees. Males weigh twice as much, so it rarely ends well. Researchers have documented it by following radio-collared bears and their cubs for years across North America.",
+    "captions": [
+      "A male stalks a mother with cubs.",
+      "He kills the cubs on purpose.",
+      "Her body resets to breed again fast.",
+      "He may father the next litter.",
+      "Males outweigh mothers two to one."
+    ],
+    "image_prompts": [
+      "close-up of a black bear face glaring, dramatic light",
+      "tight shot of a bear's claws gripping tree bark, high contrast",
+      "macro of bear cub paw on a mossy log, sharp detail",
+      "close-up of a mother bear's wary eyes, strong highlight",
+      "close-up of a big male bear's teeth, moody forest light"
+    ]
+  },
+  {
+    "id": "moose-winter-tick-bleed-out",
+    "title": "A single moose can carry 75,000 blood-sucking ticks #shorts",
+    "description": "A single moose can carry 75,000 blood-sucking ticks. Warmer autumns let more ticks survive, so the die-offs are getting worse every year. #shorts #nature #facts #didyouknow",
+    "photo_query": "moose winter tick",
+    "tags": [
+      "moose",
+      "winter",
+      "tick",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A single moose can carry seventy-five thousand ticks, and they can bleed a calf to death. Winter ticks feed all season in the same spot. The moose rubs itself raw, and its fur falls out in patches until it looks ghostly white. Starving, frozen and anemic, many calves die in late winter, and in some years almost all do. Warmer autumns let more ticks survive, so the die-offs are getting worse every year.",
+    "captions": [
+      "One moose can carry 75,000 ticks.",
+      "The moose scratches itself raw.",
+      "Its fur falls out in patches.",
+      "Anemic calves freeze and starve.",
+      "In some years almost all die."
+    ],
+    "image_prompts": [
+      "extreme macro of engorged winter ticks on moose fur, dramatic light",
+      "close-up of a moose's bald raw patches of skin, high contrast",
+      "tight shot of a ghost-white moose back in snow, sharp detail",
+      "macro of a swollen tick drinking blood, strong highlight",
+      "close-up of a weak moose calf's eye in the snow, moody light"
+    ]
+  },
+  {
+    "id": "manchineel-tree-poison-apple",
+    "title": "The manchineel tree can blister your skin from rain alone #shorts",
+    "description": "The manchineel tree can blister your skin from rain alone. Guinness World Records lists it among the most dangerous trees on Earth. #shorts #nature #facts #didyouknow",
+    "photo_query": "manchineel tree",
+    "tags": [
+      "manchineel",
+      "tree",
+      "poison",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "The manchineel tree is called the death apple, and standing under it in the rain can blister your skin. Its sap is so caustic that raindrops dripping off the leaves burn. Burning the wood can blind you through smoke. Eating the fruit causes burning in the throat. Tour guides in the Caribbean mark them with red bands. Guinness World Records lists it among the most dangerous trees on Earth.",
+    "captions": [
+      "The manchineel fruit looks like a small apple.",
+      "Its sap is caustic.",
+      "Rain dripping off leaves can burn skin.",
+      "The smoke can even blind.",
+      "Locals mark the trunks with red bands."
+    ],
+    "image_prompts": [
+      "extreme close-up of a green manchineel fruit on a branch, dramatic light",
+      "macro of white milky sap oozing from a cut leaf, high contrast",
+      "tight shot of a red-painted warning band on a tree trunk",
+      "close-up of a blistered skin patch, sharp detail",
+      "close-up of glossy manchineel leaves after rain, harsh light"
+    ]
+  },
+  {
+    "id": "water-hemlock-deadliest-plant",
+    "title": "Water hemlock may be the most violently toxic plant in North America #shorts",
+    "description": "Water hemlock may be the most violently toxic plant in North America. Cattle that graze it can die within hours, and the plant is a leading cause of livestock poisoning. #shorts #nature #facts #didyouknow",
+    "photo_query": "water hemlock",
+    "tags": [
+      "water",
+      "hemlock",
+      "deadliest",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Water hemlock may be the most violently toxic plant in North America. One bite of the root can kill an adult. Its toxin attacks the nervous system, causing severe seizures within an hour. It looks just like wild parsnip and wild carrot, which is why foragers and children have eaten it by mistake. Cattle that graze it can die within hours, and the plant is a leading cause of livestock poisoning.",
+    "captions": [
+      "It looks like wild parsnip.",
+      "One bite of root can kill an adult.",
+      "The toxin attacks the nervous system.",
+      "Seizures begin within an hour.",
+      "Foragers often mistake it for food."
+    ],
+    "image_prompts": [
+      "extreme close-up of white water hemlock flower umbels, dramatic light",
+      "macro of a sliced hemlock root with yellow droplets, high contrast",
+      "tight shot of purple-streaked hemlock stem, sharp detail",
+      "close-up of a hand holding a wild carrot beside hemlock",
+      "close-up of a hemlock stand by a stream, harsh light"
+    ]
+  },
+  {
+    "id": "castor-bean-ricin-seed",
+    "title": "A few castor beans can kill an adult with ricin #shorts",
+    "description": "A few castor beans can kill an adult with ricin. Accidental poisonings are rare, but children and pets have eaten the seeds from garden plants. #shorts #nature #facts #didyouknow",
+    "photo_query": "castor bean",
+    "tags": [
+      "castor",
+      "bean",
+      "ricin",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A few castor beans hold enough ricin to kill an adult. The seeds are glossy and beautifully patterned, and people grow the plant as a garden ornament. Chewing one releases ricin, which shuts down your cells' ability to make protein. There is no antidote. The same seeds are pressed for castor oil. Accidental poisonings are rare, but children and pets have eaten the seeds from garden plants.",
+    "captions": [
+      "Glossy, beautifully patterned seeds.",
+      "Gardeners grow the plant for decoration.",
+      "Chewing one releases ricin.",
+      "Ricin shuts down your cells' protein machinery.",
+      "There is no antidote."
+    ],
+    "image_prompts": [
+      "extreme close-up of mottled castor beans in a palm, dramatic light",
+      "macro of a spiky red castor seed pod, high contrast",
+      "tight shot of a cracked seed showing its pale interior, sharp detail",
+      "close-up of a castor plant's star-shaped leaves, strong highlight",
+      "close-up of a warning label on a seed packet, harsh light"
+    ]
+  },
+  {
+    "id": "giant-hogweed-sap-burns",
+    "title": "Giant hogweed sap and sunlight leave burns that last for years #shorts",
+    "description": "Giant hogweed sap and sunlight leave burns that last for years. It was brought to gardens as an ornamental, and now it is a noxious weed in many countries. #shorts #nature #facts #didyouknow",
+    "photo_query": "giant hogweed",
+    "tags": [
+      "giant",
+      "hogweed",
+      "burns",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Touch giant hogweed and then step into sunlight, and your skin can blister badly. Its sap makes skin extremely sensitive to ultraviolet light. Blisters appear within a day and can leave scars and dark patches for years. If it gets in your eyes, it can cause blindness. The plant grows up to fourteen feet tall. It was brought to gardens as an ornamental, and now it is a noxious weed in many countries.",
+    "captions": [
+      "It grows up to fourteen feet tall.",
+      "Its sap lowers skin's defense against sunlight.",
+      "Blisters appear within a day.",
+      "Scars and dark patches can last years.",
+      "Sap in the eyes can blind you."
+    ],
+    "image_prompts": [
+      "extreme close-up of a giant hogweed white umbel, dramatic light",
+      "macro of purple-blotched hollow stem with bristles, high contrast",
+      "tight shot of a blistered forearm skin, sharp detail",
+      "close-up of sap glistening on a cut stem, strong highlight",
+      "close-up of hogweed towering over a person's hand, harsh light"
+    ]
+  },
+  {
+    "id": "mad-honey-rhododendron",
+    "title": "Some honey made from rhododendron nectar can poison a person #shorts",
+    "description": "Some honey made from rhododendron nectar can poison a person. Cases still turn up in hospitals every year, mostly from visitors who bought it as a souvenir. #shorts #nature #facts #didyouknow",
+    "photo_query": "mad honey",
+    "tags": [
+      "honey",
+      "rhododendron",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In Turkey and Nepal, some honey can make you sick. Bees feeding on rhododendron nectar produce mad honey, which holds a toxin called grayanotoxin. Eating it can drop your heart rate and blood pressure, cause dizziness, and make you faint. Ancient armies are said to have been poisoned by it. Beekeepers sell it for its supposed health benefits. Cases still turn up in hospitals every year, mostly from visitors who bought it as a souvenir.",
+    "captions": [
+      "Bees feed on rhododendron nectar.",
+      "The honey holds a toxin called grayanotoxin.",
+      "It can drop heart rate and blood pressure.",
+      "Ancient armies were reportedly poisoned.",
+      "It is sold as a health remedy today."
+    ],
+    "image_prompts": [
+      "extreme close-up of dark red honey dripping from a spoon, dramatic light",
+      "macro of a bee on a pink rhododendron flower, high contrast",
+      "tight shot of an open honeycomb with dark honey, sharp detail",
+      "close-up of rhododendron buds in mountain mist, strong highlight",
+      "close-up of a glass jar of reddish honey, moody light"
+    ]
+  },
+  {
+    "id": "toxic-algae-dog-deaths",
+    "title": "Toxic algae in a lake can kill a dog within hours #shorts",
+    "description": "Toxic algae in a lake can kill a dog within hours. Humans can also get sick, so officials warn everyone to stay out of the water. #shorts #nature #facts #didyouknow",
+    "photo_query": "blue-green algae bloom",
+    "tags": [
+      "toxic",
+      "algae",
+      "deaths",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A dog can die within hours after swimming in the wrong lake. Blue-green algae blooms contain toxins that damage the liver and nervous system. A dog only has to lap a little water or lick its fur afterward. Symptoms include vomiting, seizures, and collapse. Warming lakes and fertilizer runoff make these blooms more common every summer. Humans can also get sick, so officials warn everyone to stay out of the water.",
+    "captions": [
+      "The lake looks like green paint.",
+      "Blooms produce toxins.",
+      "A dog laps a little water.",
+      "Vomiting and seizures follow within hours.",
+      "Warming lakes make blooms more common."
+    ],
+    "image_prompts": [
+      "extreme close-up of bright green scum on lake water, dramatic light",
+      "macro of algae clumps clinging to a dog's wet fur, high contrast",
+      "tight shot of a dog's wet paw on a muddy shore, sharp detail",
+      "close-up of a warning sign beside a green lake, harsh light",
+      "close-up of swirling neon green bloom, strong highlight"
+    ]
+  },
+  {
+    "id": "permian-great-dying",
+    "title": "The Great Dying wiped out about 90 percent of ocean species #shorts",
+    "description": "The Great Dying wiped out about 90 percent of ocean species. Insects, which are usually survivors, suffered their only mass extinction there as well. #shorts #nature #facts #didyouknow",
+    "photo_query": "trilobite fossil",
+    "tags": [
+      "permian",
+      "great",
+      "dying",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "About two hundred fifty-two million years ago, nearly ninety percent of ocean species died. It was the worst extinction in Earth's history. Massive volcanic eruptions in Siberia poured out carbon dioxide and methane, heating the planet and acidifying the seas. The oceans lost oxygen. It took life roughly ten million years to recover. Insects, which are usually survivors, suffered their only mass extinction there as well.",
+    "captions": [
+      "252 million years ago, volcanoes erupted in Siberia.",
+      "They poured out carbon dioxide and methane.",
+      "The seas heated and turned acidic.",
+      "Around 90% of ocean species died.",
+      "Life took ten million years to recover."
+    ],
+    "image_prompts": [
+      "extreme close-up of a trilobite fossil in dark rock, dramatic light",
+      "macro of cracked black basalt lava, high contrast",
+      "tight shot of a dead coral skeleton fossil, sharp detail",
+      "close-up of glowing lava erupting from a fissure, strong highlight",
+      "close-up of a fossilized shell bed, harsh side light"
+    ]
+  },
+  {
+    "id": "gulf-of-mexico-dead-zone",
+    "title": "A seasonal dead zone kills everything that lives on the seafloor #shorts",
+    "description": "A seasonal dead zone kills everything that lives on the seafloor. Scientists track its size every summer, and it keeps showing up in the same place. #shorts #nature #facts #didyouknow",
+    "photo_query": "dead zone ocean",
+    "tags": [
+      "gulf",
+      "mexico",
+      "dead",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Every summer, a dead zone the size of Connecticut forms in the Gulf of Mexico. Fertilizer from farms washes down the Mississippi and feeds huge algae blooms. When the algae die and rot, they use up all the oxygen in the water. Fish flee, and anything that cannot swim away suffocates on the seafloor. Scientists track its size every summer, and it keeps showing up in the same place.",
+    "captions": [
+      "Farm fertilizer washes down the Mississippi.",
+      "It feeds huge algae blooms.",
+      "The algae die and rot.",
+      "The rot uses up all the oxygen.",
+      "Anything that cannot flee suffocates."
+    ],
+    "image_prompts": [
+      "extreme close-up of murky brown river water mixing with green, dramatic light",
+      "macro of dead fish scales on dark sand, high contrast",
+      "tight shot of a crab gasping at the water surface, sharp detail",
+      "close-up of foamy algae on a shoreline, strong highlight",
+      "close-up of a lifeless seabed with pale shells, harsh light"
+    ]
+  },
+  {
+    "id": "sea-turtle-hatchling-odds",
+    "title": "Only about 1 in 1,000 sea turtle hatchlings survives to adulthood #shorts",
+    "description": "Only about 1 in 1,000 sea turtle hatchlings survives to adulthood. That is why females return to nest, laying over a hundred eggs at a time. #shorts #nature #facts #didyouknow",
+    "photo_query": "sea turtle hatchling",
+    "tags": [
+      "turtle",
+      "hatchling",
+      "odds",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Only about one in a thousand sea turtle hatchlings makes it to adulthood. They hatch at night and scramble toward the sea while crabs and birds snatch them. In the water, fish and sharks wait. Lights from beach hotels can send them the wrong way, and plastic or fishing nets kill many of the survivors. That is why females return to nest, laying over a hundred eggs at a time.",
+    "captions": [
+      "Hatchlings scramble toward the sea at night.",
+      "Crabs and birds snatch them first.",
+      "Fish and sharks wait in the water.",
+      "Hotel lights lure them inland.",
+      "About 1 in 1,000 survives."
+    ],
+    "image_prompts": [
+      "extreme close-up of a sea turtle hatchling face on sand, dramatic light",
+      "macro of tiny flippers digging through wet sand, high contrast",
+      "tight shot of a ghost crab claw gripping a hatchling, sharp detail",
+      "close-up of a hatchling heading toward a bright hotel light",
+      "close-up of a lone turtle in dark surf, strong highlight"
+    ]
+  },
+  {
+    "id": "brown-tree-snake-guam",
+    "title": "One snake species wiped out most of Guam's native forest birds #shorts",
+    "description": "One snake species wiped out most of Guam's native forest birds. The snake even caused power outages hundreds of times by climbing into electrical lines. #shorts #nature #facts #didyouknow",
+    "photo_query": "brown tree snake",
+    "tags": [
+      "brown",
+      "tree",
+      "snake",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "After World War II, a stowaway snake arrived on the island of Guam. With no predators and plenty of birds with no fear of snakes, the brown tree snake multiplied until it wiped out most of the island's native forest birds. Several species are now extinct. The silent forest also led to a boom in spiders. The snake even caused power outages hundreds of times by climbing into electrical lines.",
+    "captions": [
+      "A stowaway snake reached Guam.",
+      "It had no predators.",
+      "Native birds had no fear of snakes.",
+      "Most forest birds were wiped out.",
+      "The forest fell silent."
+    ],
+    "image_prompts": [
+      "extreme close-up of a brown tree snake head, dramatic light",
+      "macro of snake eye with vertical pupil, high contrast",
+      "tight shot of a snake coiled in a nest, sharp detail",
+      "close-up of an empty bird nest in a tree, strong highlight",
+      "close-up of a snake draped over a power line, harsh light"
+    ]
+  },
+  {
+    "id": "elephant-musth-rage",
+    "title": "A bull elephant in musth has testosterone up to 60 times normal #shorts",
+    "description": "A bull elephant in musth has testosterone up to 60 times normal. The behavior can last for weeks, and wild bulls in musth are best avoided at any distance. #shorts #nature #facts #didyouknow",
+    "photo_query": "elephant musth",
+    "tags": [
+      "elephant",
+      "musth",
+      "rage",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Once a year, bull elephants enter musth, and their testosterone can reach sixty times normal levels. Fluid streams from glands on the sides of the face, and they become wildly aggressive. Musth bulls have killed rhinos and attacked people and other elephants. Keepers chain captive males until it passes. The behavior can last for weeks, and wild bulls in musth are best avoided at any distance.",
+    "captions": [
+      "Fluid streams down the elephant's face.",
+      "Testosterone rises up to 60 times.",
+      "The bull becomes wildly aggressive.",
+      "Musth bulls have killed rhinos.",
+      "Keepers chain captive males."
+    ],
+    "image_prompts": [
+      "extreme close-up of an elephant's temporal gland dripping fluid, dramatic light",
+      "macro of a bull elephant's eye, high contrast",
+      "tight shot of ivory tusks scraped with dirt, sharp detail",
+      "close-up of a heavy chain on a thick leg, strong highlight",
+      "close-up of elephant ears flared in dust, harsh light"
+    ]
+  },
+  {
+    "id": "bamboo-flowering-rat-plague",
+    "title": "When bamboo flowers, rats multiply and famine follows #shorts",
+    "description": "When bamboo flowers, rats multiply and famine follows. Officials now plan ahead for the next flowering, but the bamboo keeps its own schedule. #shorts #nature #facts #didyouknow",
+    "photo_query": "bamboo flowers",
+    "tags": [
+      "bamboo",
+      "flowering",
+      "plague",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Every fifty years or so, the bamboo forests in northeast India flower all at once. The seeds feed an explosion of rats, which then eat farmers' crops. In 1958 and again in 2007, the rats caused famine in Mizoram. Locals call it mautam, meaning bamboo death. The next flowering is due around 2050. Officials now plan ahead for the next flowering, but the bamboo keeps its own schedule.",
+    "captions": [
+      "Bamboo flowers once every 50 years.",
+      "Rats feast on the seeds.",
+      "Their numbers explode.",
+      "Then they eat the farmers' crops.",
+      "Locals call it the bamboo death."
+    ],
+    "image_prompts": [
+      "extreme close-up of a flowering bamboo stalk, dramatic light",
+      "macro of bamboo seeds in a palm, high contrast",
+      "tight shot of a rat gnawing a rice stalk, sharp detail",
+      "close-up of dozens of rats swarming on dirt, strong highlight",
+      "close-up of an empty ruined rice field, harsh light"
+    ]
+  },
+  {
+    "id": "h5n1-elephant-seal-pups",
+    "title": "Bird flu killed about 17,000 elephant seal pups in one season #shorts",
+    "description": "Bird flu killed about 17,000 elephant seal pups in one season. The same strain has also hit sea lions across Peru and Chile, killing tens of thousands. #shorts #nature #facts #didyouknow",
+    "photo_query": "elephant seal pups",
+    "tags": [
+      "h5n1",
+      "elephant",
+      "seal",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In 2023, bird flu swept through an elephant seal colony in Argentina. In one season, about seventeen thousand pups died, more than ninety-six percent of the colony's newborns. Researchers described beaches strewn with bodies. The virus had jumped from wild birds to mammals, and it kept moving along the coast. The same strain has also hit sea lions across Peru and Chile, killing tens of thousands.",
+    "captions": [
+      "Bird flu reached an Argentine colony.",
+      "It jumped from birds to seals.",
+      "About 17,000 pups died in one season.",
+      "Over 96% of the newborns were lost.",
+      "The beaches were covered in bodies."
+    ],
+    "image_prompts": [
+      "extreme close-up of a dark elephant seal pup's face, dramatic light",
+      "macro of a seal pup's nostrils and wet whiskers, high contrast",
+      "tight shot of a limp pup on wet sand, sharp detail",
+      "close-up of a mother seal sniffing her pup, strong highlight",
+      "close-up of a long beach with dark shapes, harsh light"
+    ]
+  },
+  {
+    "id": "nile-perch-lake-victoria-extinctions",
+    "title": "One introduced fish wiped out more than 200 species in Lake Victoria #shorts",
+    "description": "One introduced fish wiped out more than 200 species in Lake Victoria. Biologists call it one of the biggest vertebrate extinctions ever caused by a single introduction. #shorts #nature #facts #didyouknow",
+    "photo_query": "nile perch",
+    "tags": [
+      "nile",
+      "perch",
+      "lake",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In the 1950s, people introduced the Nile perch to Lake Victoria to boost fishing. It ate its way through the lake's cichlids, and more than two hundred species disappeared. The big fish now fuel a major export industry. But local fishermen say the fish are too oily to dry in the sun, so forests are burned to smoke them. Biologists call it one of the biggest vertebrate extinctions ever caused by a single introduction.",
+    "captions": [
+      "People introduced the Nile perch.",
+      "It ate the lake's native cichlids.",
+      "More than 200 species vanished.",
+      "The fish are now a major export.",
+      "Forests are cut to smoke the fish."
+    ],
+    "image_prompts": [
+      "extreme close-up of a Nile perch head with big eye, dramatic light",
+      "macro of a perch's rows of small teeth, high contrast",
+      "tight shot of a bright small cichlid, sharp detail",
+      "close-up of a fisherman's hands holding a huge fish",
+      "close-up of smoking racks beside a smoky fire, harsh light"
+    ]
+  },
+  {
+    "id": "urchin-barrens-kelp-collapse",
+    "title": "Purple sea urchins have turned kelp forests into barren rock #shorts",
+    "description": "Purple sea urchins have turned kelp forests into barren rock. Scientists and divers now smash urchins by hand, trying to give the kelp a chance to return. #shorts #nature #facts #didyouknow",
+    "photo_query": "purple sea urchin",
+    "tags": [
+      "urchin",
+      "barrens",
+      "kelp",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Off the California coast, ninety-five percent of the kelp forest is gone. A sea star disease killed the predators that kept purple urchins in check, and the urchin population exploded. They eat every blade of kelp, and they can survive starving for years. What was once an underwater forest is now gray rock. Scientists and divers now smash urchins by hand, trying to give the kelp a chance to return.",
+    "captions": [
+      "A disease killed off the sea stars.",
+      "Purple urchin numbers exploded.",
+      "They devoured the kelp forest.",
+      "They can starve for years and survive.",
+      "95% of the kelp is gone."
+    ],
+    "image_prompts": [
+      "extreme close-up of a purple sea urchin's spines, dramatic light",
+      "macro of an urchin's mouth chewing kelp, high contrast",
+      "tight shot of a tattered kelp stalk, sharp detail",
+      "close-up of dozens of urchins covering bare rock, strong highlight",
+      "close-up of a barren gray seafloor, harsh blue light"
+    ]
+  },
+  {
+    "id": "ebola-western-gorilla-die-off",
+    "title": "Ebola killed thousands of gorillas in a few years #shorts",
+    "description": "Ebola killed thousands of gorillas in a few years. Poaching and habitat loss have since pushed the western gorilla to critically endangered status. #shorts #nature #facts #didyouknow",
+    "photo_query": "western lowland gorilla",
+    "tags": [
+      "ebola",
+      "western",
+      "gorilla",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Ebola killed thousands of western gorillas in a few short years. The outbreak around 2002 swept through the forests of Central Africa, wiping out most of some gorilla groups. Gorillas are social animals that groom each other, so the virus spread fast. Their numbers recover slowly, because females give birth only once every four years. Poaching and habitat loss have since pushed the western gorilla to critically endangered status.",
+    "captions": [
+      "Ebola reached the gorilla forests.",
+      "Gorillas groom and live close.",
+      "The virus spread through whole groups.",
+      "Thousands died in a few years.",
+      "Females give birth once every four years."
+    ],
+    "image_prompts": [
+      "extreme close-up of a western gorilla face, dramatic light",
+      "macro of a gorilla's hand gripping a branch, high contrast",
+      "tight shot of a silverback's brow and eyes, sharp detail",
+      "close-up of a gorilla mother holding an infant, strong highlight",
+      "close-up of an empty jungle clearing at dusk, harsh light"
+    ]
+  },
+  {
+    "id": "rinderpest-cattle-plague",
+    "title": "A virus killed up to 90 percent of cattle in Africa in the 1890s #shorts",
+    "description": "A virus killed up to 90 percent of cattle in Africa in the 1890s. Researchers say the famine reshaped the African landscape, as open grazing land turned into thick bush. #shorts #nature #facts #didyouknow",
+    "photo_query": "african cattle",
+    "tags": [
+      "rinderpest",
+      "cattle",
+      "plague",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In the 1890s, a virus called rinderpest swept through Africa and killed up to ninety percent of the cattle. Wildebeest and buffalo died too. Without cattle, many pastoral peoples starved. Humans eventually wiped out the disease on purpose, and in 2011 rinderpest became only the second virus ever eradicated. Researchers say the famine reshaped the African landscape, as open grazing land turned into thick bush.",
+    "captions": [
+      "The virus arrived with imported cattle.",
+      "It killed up to 90% of herds.",
+      "Wildebeest and buffalo died too.",
+      "Whole communities starved.",
+      "In 2011 it was declared eradicated."
+    ],
+    "image_prompts": [
+      "extreme close-up of a cow's eye with mucus, dramatic light",
+      "macro of a cow's cracked wet nose, high contrast",
+      "tight shot of cattle skulls bleached on dry ground, sharp detail",
+      "close-up of a thin ribbed cow standing in dust, strong highlight",
+      "close-up of vultures circling above a carcass, harsh light"
+    ]
+  },
+  {
+    "id": "ddt-peregrine-eggshell-thinning",
+    "title": "DDT made eggshells so thin that parents crushed their own chicks #shorts",
+    "description": "DDT made eggshells so thin that parents crushed their own chicks. Today they nest on skyscrapers in major cities, the fastest animals on Earth. #shorts #nature #facts #didyouknow",
+    "photo_query": "peregrine falcon",
+    "tags": [
+      "peregrine",
+      "eggshell",
+      "thinning",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "DDT nearly wiped out the peregrine falcon. The pesticide built up in the food chain and made the birds' eggshells so thin that they cracked under the weight of the parent. By the 1960s, the peregrine had disappeared east of the Mississippi. After DDT was banned in 1972, careful breeding and release brought them back. Today they nest on skyscrapers in major cities, the fastest animals on Earth.",
+    "captions": [
+      "Pesticide built up in the food chain.",
+      "Eggshells grew paper thin.",
+      "Parents cracked their own eggs.",
+      "Peregrines vanished east of the Mississippi.",
+      "The 1972 ban let them return."
+    ],
+    "image_prompts": [
+      "extreme close-up of a peregrine falcon's eye and beak, dramatic light",
+      "macro of a cracked pale eggshell, high contrast",
+      "tight shot of a falcon talon gripping a ledge, sharp detail",
+      "close-up of a broken egg in a cliff nest, strong highlight",
+      "close-up of a falcon chick's fluffy white head, harsh light"
+    ]
   }
 ]
