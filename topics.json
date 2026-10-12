@@ -1075,5 +1075,749 @@
       "close-up of a broken egg in a cliff nest, strong highlight",
       "close-up of a falcon chick's fluffy white head, harsh light"
     ]
+  },
+  {
+    "id": "snow-crab-billions-vanish",
+    "title": "Ten billion crabs vanished in three years #shorts",
+    "description": "About ten billion snow crabs disappeared from the Bering Sea when a marine heatwave starved them. #shorts #nature #facts #didyouknow",
+    "photo_query": "snow crab",
+    "tags": [
+      "snow crab",
+      "bering sea",
+      "heatwave",
+      "die-off",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Ten billion snow crabs vanished from the Bering Sea in about three years. Scientists first suspected overfishing. The real killer was heat. A marine heatwave warmed their cold-water home, and a crab's metabolism speeds up as the water warms. They needed far more food than the seafloor could give. The crabs starved, crowded and hungry, until the population collapsed. In 2022, Alaska cancelled the snow crab season for the first time ever.",
+    "captions": [
+      "Ten billion crabs vanished.",
+      "A heatwave warmed their sea.",
+      "Their bodies burned food faster.",
+      "The seafloor ran out.",
+      "The season was cancelled for the first time."
+    ],
+    "image_prompts": [
+      "extreme close-up of a snow crab's eye stalks and claws, dramatic light",
+      "macro of a crab shell on dark seafloor sand, high contrast",
+      "tight shot of a pale empty crab carapace, harsh side light",
+      "close-up of piled dead crab legs, strong shadows",
+      "close-up of an empty crab trap on a wet deck, cold light"
+    ]
+  },
+  {
+    "id": "heat-dome-shellfish-cooking",
+    "title": "A heatwave cooked a billion animals in their shells #shorts",
+    "description": "During the 2021 Pacific Northwest heat dome, an estimated billion shoreline animals cooked to death on the rocks. #shorts #nature #facts #didyouknow",
+    "photo_query": "california mussel",
+    "tags": [
+      "mussels",
+      "heat dome",
+      "intertidal",
+      "die-off",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In June 2021, a heat dome cooked an estimated one billion sea animals alive. On the Pacific Northwest coast, low tide fell in the hottest part of the day. Rock surfaces passed fifty degrees Celsius. Mussels, clams, and barnacles can't move or hide. They cooked inside their own shells. Beaches smelled of rotting seafood for days. Researchers walked over beds of gaping, empty mussels that had been alive that morning.",
+    "captions": [
+      "A heat dome hit the coast.",
+      "Low tide at the hottest hour.",
+      "The rocks passed 50°C.",
+      "Shellfish cooked in their shells.",
+      "An estimated billion died."
+    ],
+    "image_prompts": [
+      "extreme close-up of a gaping blue mussel shell with cooked flesh, harsh sun",
+      "macro of barnacles on a sun-blasted rock, high contrast",
+      "tight shot of a cracked clam shell steaming in sunlight",
+      "close-up of a dead sea star dried on a hot rock, strong light",
+      "close-up of a bed of open empty mussels, dramatic shadows"
+    ]
+  },
+  {
+    "id": "flying-fox-heatwave-die-off",
+    "title": "23,000 bats fell dead from the trees in two days #shorts",
+    "description": "In November 2018, extreme heat killed about 23,000 spectacled flying foxes in Queensland, roughly a third of the species in Australia. #shorts #nature #facts #didyouknow",
+    "photo_query": "spectacled flying fox",
+    "tags": [
+      "flying fox",
+      "fruit bat",
+      "heatwave",
+      "australia",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In two days, about twenty-three thousand bats dropped dead out of the trees. In November 2018, temperatures in northern Queensland passed forty-two degrees. Spectacled flying foxes can't cool down in that heat. They fanned their wings, licked themselves, and crowded lower on the trunks. Then their brains overheated and they fell. Carers collected bodies by the wheelbarrow. Roughly a third of the species in Australia was gone in one weekend.",
+    "captions": [
+      "Temperatures passed 42°C.",
+      "The bats couldn't cool down.",
+      "They crowded low on the trunks.",
+      "Then they fell from the trees.",
+      "A third of the species, gone."
+    ],
+    "image_prompts": [
+      "extreme close-up of a flying fox face with dark eyes, dramatic light",
+      "macro of a bat wing membrane against harsh sun",
+      "tight shot of a bat clinging low on a tree trunk, high contrast",
+      "close-up of a limp bat on dry ground, strong shadows",
+      "close-up of gloved hands holding a dead fruit bat, harsh light"
+    ]
+  },
+  {
+    "id": "common-murre-blob-starvation",
+    "title": "A million seabirds starved because the ocean got warm #shorts",
+    "description": "A marine heatwave called the Blob is estimated to have starved up to a million common murres in 2015 and 2016. #shorts #nature #facts #didyouknow",
+    "photo_query": "common murre",
+    "tags": [
+      "common murre",
+      "seabird",
+      "the blob",
+      "die-off",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Up to a million seabirds starved to death after the ocean got too warm. In 2015, a marine heatwave nicknamed the Blob spread across the North Pacific. The small fish that common murres eat disappeared or lost their fat. The murres kept diving and came up empty. Around sixty thousand bodies washed ashore from California to Alaska, mostly skin and bone. Scientists estimate the true toll was close to a million.",
+    "captions": [
+      "A heatwave called the Blob.",
+      "The murres' fish vanished.",
+      "They dove and came up empty.",
+      "60,000 bodies washed ashore.",
+      "The true toll: nearly a million."
+    ],
+    "image_prompts": [
+      "extreme close-up of a common murre's black head and sharp beak, dramatic light",
+      "macro of a thin seabird chest with ribs showing under feathers",
+      "tight shot of a dead murre on wet sand, high contrast",
+      "close-up of a seabird feather in sea foam, harsh light",
+      "close-up of a line of dead seabirds on a beach, strong shadows"
+    ]
+  },
+  {
+    "id": "caribou-mass-drowning",
+    "title": "10,000 caribou drowned in a single crossing #shorts",
+    "description": "In 1984, around 10,000 migrating caribou drowned crossing a swollen river above a waterfall in Quebec. #shorts #nature #facts #didyouknow",
+    "photo_query": "caribou",
+    "tags": [
+      "caribou",
+      "migration",
+      "drowning",
+      "quebec",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Ten thousand caribou drowned in a single river crossing. In September 1984, the George River herd swam the Caniapiscau River in northern Quebec, as it does every migration. That year heavy rain and dam releases had swollen the water. The current swept the herd toward Limestone Falls. Thousands went over, one after another. Their bodies piled up along the riverbanks for kilometres downstream, and the smell carried for miles.",
+    "captions": [
+      "The herd swam the river.",
+      "Heavy rain had swollen it.",
+      "The current pulled them toward the falls.",
+      "Thousands went over.",
+      "10,000 caribou drowned."
+    ],
+    "image_prompts": [
+      "extreme close-up of a caribou's eye and antlers, dramatic light",
+      "macro of a caribou nose breaking the surface of fast water",
+      "tight shot of antlers sinking in white water, high contrast",
+      "close-up of a waterfall edge with foaming current, harsh light",
+      "close-up of a caribou hoof on a rocky riverbank, strong shadows"
+    ]
+  },
+  {
+    "id": "walrus-cliff-falls",
+    "title": "Walruses climbed a cliff and fell to their deaths #shorts",
+    "description": "With sea ice gone, walruses crowded onto a Russian beach, climbed an 80-metre cliff, and fell when they tried to return to the sea. #shorts #nature #facts #didyouknow",
+    "photo_query": "walrus",
+    "tags": [
+      "walrus",
+      "sea ice",
+      "climate",
+      "arctic",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Hundreds of walruses fell to their deaths off a cliff in Russia. They normally rest on sea ice. With the ice gone, over a hundred thousand crowded onto one beach. Some escaped the crush by climbing a cliff eighty metres high. Walruses have poor eyesight out of the water. When they got hungry, they sensed the sea below and tried to go straight down. Their heavy bodies tumbled onto the rocks.",
+    "captions": [
+      "The sea ice was gone.",
+      "Walruses crowded one beach.",
+      "Some climbed an 80m cliff.",
+      "They tried to go straight down.",
+      "They fell onto the rocks."
+    ],
+    "image_prompts": [
+      "extreme close-up of a walrus tusk and whiskers, dramatic light",
+      "macro of wrinkled walrus skin covered in scars, high contrast",
+      "tight shot of a walrus on a rocky cliff edge, harsh light",
+      "close-up of a walrus eye looking down a drop, strong shadows",
+      "close-up of a walrus body on beach rocks, cold light"
+    ]
+  },
+  {
+    "id": "la-brea-tar-pits",
+    "title": "The trap that caught thousands of dire wolves #shorts",
+    "description": "At La Brea, prey stuck in natural asphalt lured predators in to die, so carnivore bones vastly outnumber prey bones. #shorts #nature #facts #didyouknow",
+    "photo_query": "dire wolf skull",
+    "tags": [
+      "la brea",
+      "tar pits",
+      "dire wolf",
+      "fossil",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In Los Angeles, natural asphalt caught thousands of dire wolves. Liquid tar seeped to the surface and hid under leaves and water. A horse or bison would step in and stick. Its cries drew wolves, sabre-toothed cats, and vultures. They charged in to feed and stuck too. Each trapped animal became bait for the next. That's why the predators at La Brea outnumber their prey. Over four thousand dire wolves have been dug out.",
+    "captions": [
+      "Tar seeped to the surface.",
+      "A bison stepped in and stuck.",
+      "Its cries drew predators.",
+      "They stuck too.",
+      "Over 4,000 dire wolves dug out."
+    ],
+    "image_prompts": [
+      "extreme close-up of a dire wolf skull with fangs, dramatic light",
+      "macro of black bubbling asphalt with a trapped bone, high contrast",
+      "tight shot of a hoof sinking into shiny tar, harsh light",
+      "close-up of a sabre-tooth fang stained black, strong shadows",
+      "close-up of a pile of tar-stained wolf skulls, museum spotlight"
+    ]
+  },
+  {
+    "id": "boiling-river-amazon",
+    "title": "The Amazon river that cooks animals alive #shorts",
+    "description": "Peru's Shanay-Timpishka river runs hot enough to kill any animal that falls in, cooking it as it drifts. #shorts #nature #facts #didyouknow",
+    "photo_query": "boiling river peru",
+    "tags": [
+      "boiling river",
+      "amazon",
+      "peru",
+      "geothermal",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "There's a river in the Amazon that cooks animals alive. The Shanay-Timpishka in Peru runs hot enough in places to brew tea. Its water is heated deep underground by the earth itself, not by a volcano. Frogs, snakes, and small mammals that fall in can't climb back out. They die within seconds. Researchers say the eyes are the first thing to cook, turning milky white as the body drifts downstream.",
+    "captions": [
+      "A river in the Amazon.",
+      "Hot enough to brew tea.",
+      "Heated deep underground.",
+      "Animals that fall in can't escape.",
+      "The eyes cook first."
+    ],
+    "image_prompts": [
+      "extreme close-up of steaming jungle river water, dramatic light",
+      "macro of a frog on a hot wet rock in steam, high contrast",
+      "tight shot of steam rising off fast water, harsh light",
+      "close-up of a milky white animal eye in hot water, strong shadows",
+      "close-up of a dead frog drifting in steaming current"
+    ]
+  },
+  {
+    "id": "brinicle-ice-finger",
+    "title": "The icicle of death that freezes the seafloor #shorts",
+    "description": "A brinicle is a tube of ice that grows down from sea ice and freezes everything it touches on the seabed. #shorts #nature #facts #didyouknow",
+    "photo_query": "brinicle",
+    "tags": [
+      "brinicle",
+      "antarctica",
+      "sea ice",
+      "starfish",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Under Antarctic sea ice, an icicle of death grows down toward the seafloor. When sea ice forms, it squeezes out super-salty brine colder than normal seawater. That brine sinks and freezes the water around it into a hollow tube of ice. When the brinicle touches the bottom, it spreads across the seabed as a web of ice. Starfish and sea urchins too slow to escape are frozen solid where they stand.",
+    "captions": [
+      "An icicle grows under the sea ice.",
+      "Freezing brine sinks.",
+      "It reaches the seafloor.",
+      "Ice spreads across the bottom.",
+      "Starfish freeze where they stand."
+    ],
+    "image_prompts": [
+      "extreme close-up of a hollow ice tube under water, cold blue light",
+      "macro of ice crystals growing over a starfish arm, high contrast",
+      "tight shot of a sea urchin encased in ice, harsh light",
+      "close-up of frost creeping across dark seafloor, strong shadows",
+      "close-up of a frozen starfish in a web of ice"
+    ]
+  },
+  {
+    "id": "bladderwort-suction-trap",
+    "title": "This plant swallows prey in under a millisecond #shorts",
+    "description": "Bladderworts fire underwater suction traps in less than a millisecond, one of the fastest movements in the plant kingdom. #shorts #nature #facts #didyouknow",
+    "photo_query": "bladderwort",
+    "tags": [
+      "bladderwort",
+      "carnivorous plant",
+      "utricularia",
+      "trap",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This plant swallows prey faster than you can blink. Bladderworts are carnivorous plants that float in ponds. Each one carries hundreds of tiny bladders, pumped empty so they hold a vacuum. When a water flea brushes the trigger hairs, the trap door snaps open. Water and prey are sucked inside in under a millisecond. The door slams shut behind them. Then the plant digests them alive over the next few hours.",
+    "captions": [
+      "Bladderworts float in ponds.",
+      "Each trap holds a vacuum.",
+      "Prey brushes the trigger hairs.",
+      "Sucked in under a millisecond.",
+      "Digested alive for hours."
+    ],
+    "image_prompts": [
+      "extreme close-up of a translucent bladderwort trap, dramatic light",
+      "macro of a water flea beside tiny trigger hairs, high contrast",
+      "tight shot of a trap door snapping open, harsh backlight",
+      "close-up of prey trapped inside a clear bladder, strong shadows",
+      "close-up of a darkened full trap underwater"
+    ]
+  },
+  {
+    "id": "venus-flytrap-counting",
+    "title": "The plant that counts before it eats you #shorts",
+    "description": "A Venus flytrap counts touches on its trigger hairs before closing and digesting an insect alive for days. #shorts #nature #facts #didyouknow",
+    "photo_query": "venus flytrap",
+    "tags": [
+      "venus flytrap",
+      "carnivorous plant",
+      "insect",
+      "botany",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A Venus flytrap counts before it eats you. One touch on its trigger hairs does nothing. A second touch within about twenty seconds snaps the trap shut in a tenth of a second. The insect struggles, and every struggle touches more hairs. At five touches, the plant seals itself airtight and floods the trap with digestive enzymes. The insect dissolves alive. About ten days later, the trap opens with only an empty shell.",
+    "captions": [
+      "One touch does nothing.",
+      "Two touches snap it shut.",
+      "Struggling touches more hairs.",
+      "Five touches start digestion.",
+      "Ten days later: an empty shell."
+    ],
+    "image_prompts": [
+      "extreme close-up of a venus flytrap jaw with spiky teeth, dramatic light",
+      "macro of a fly touching red trigger hairs, high contrast",
+      "tight shot of a trap snapping shut on a fly, harsh light",
+      "close-up of interlocked teeth with insect legs poking out, strong shadows",
+      "close-up of an open trap holding an empty insect husk"
+    ]
+  },
+  {
+    "id": "rafflesia-corpse-lily",
+    "title": "The world's biggest flower smells like a corpse #shorts",
+    "description": "Rafflesia has no leaves, stem or roots, lives as a parasite inside a vine, and smells of rotting meat to attract carrion flies. #shorts #nature #facts #didyouknow",
+    "photo_query": "rafflesia",
+    "tags": [
+      "rafflesia",
+      "parasitic plant",
+      "flower",
+      "borneo",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "The biggest single flower on Earth smells like a rotting corpse. Rafflesia has no leaves, no stem, and no roots. It lives hidden as threads inside a jungle vine, stealing everything it needs. Then a bud bursts through the vine's bark and opens into a flower up to a metre wide. It's blotchy red, like raw meat, and smells like it. Carrion flies crawl inside, fooled into thinking it's a carcass.",
+    "captions": [
+      "The biggest flower on Earth.",
+      "No leaves, stem, or roots.",
+      "It lives inside a vine.",
+      "Red and blotchy like raw meat.",
+      "It smells like a corpse."
+    ],
+    "image_prompts": [
+      "extreme close-up of a giant red blotchy rafflesia petal, dramatic light",
+      "macro of rafflesia flower center with spikes, high contrast",
+      "tight shot of a dark rafflesia bud bursting from a vine, harsh light",
+      "close-up of a carrion fly on red flower flesh, strong shadows",
+      "close-up of a rotting black rafflesia flower"
+    ]
+  },
+  {
+    "id": "sandbox-tree-exploding-pods",
+    "title": "The tree that fires seeds like bullets #shorts",
+    "description": "The sandbox tree's pods explode with a gunshot crack, launching seeds at about 70 metres per second. #shorts #nature #facts #didyouknow",
+    "photo_query": "hura crepitans",
+    "tags": [
+      "sandbox tree",
+      "hura crepitans",
+      "dynamite tree",
+      "seeds",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "There's a tree that fires its seeds like bullets. The sandbox tree is called the dynamite tree. Its pumpkin-shaped pods dry out in the sun until the tension inside is enormous. Then they explode with a crack like a gunshot. Seeds fly out at about seventy metres per second and can land forty metres away. Its trunk is covered in sharp spikes, and its milky sap can blind you.",
+    "captions": [
+      "The dynamite tree.",
+      "Its pods dry under tension.",
+      "They explode like gunshots.",
+      "Seeds fly at 70 metres per second.",
+      "Its sap can blind you."
+    ],
+    "image_prompts": [
+      "extreme close-up of a spiky sandbox tree trunk, dramatic light",
+      "macro of a ribbed pumpkin-shaped seed pod, high contrast",
+      "tight shot of a seed pod bursting apart, harsh light",
+      "close-up of flat seeds flying through the air, motion blur",
+      "close-up of milky sap oozing from bark, strong shadows"
+    ]
+  },
+  {
+    "id": "aconite-wolfsbane",
+    "title": "The garden flower that poisons through your skin #shorts",
+    "description": "Aconite, or wolfsbane, contains aconitine, a toxin that can be absorbed through the skin and stop the heart. #shorts #nature #facts #didyouknow",
+    "photo_query": "aconitum",
+    "tags": [
+      "aconite",
+      "wolfsbane",
+      "monkshood",
+      "poisonous plant",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "One of the deadliest plants in Europe grows in ordinary gardens. Aconite, also called monkshood or wolfsbane, has pretty purple flowers. Every part contains aconitine. It jams the body's nerve and heart cells in the on position. First your mouth and skin tingle and go numb. Then come vomiting and a racing, chaotic heartbeat. The toxin can even absorb through the skin, which is why gardeners are told to wear gloves.",
+    "captions": [
+      "A pretty garden flower.",
+      "Every part holds aconitine.",
+      "Tingling, then numbness.",
+      "A chaotic heartbeat.",
+      "It can soak through your skin."
+    ],
+    "image_prompts": [
+      "extreme close-up of purple monkshood flowers, dramatic light",
+      "macro of hooded aconite petal with dew, high contrast",
+      "tight shot of a bare hand touching dark leaves, harsh light",
+      "close-up of a sliced aconite root, strong shadows",
+      "close-up of a gloved hand holding a purple flower spike"
+    ]
+  },
+  {
+    "id": "dutch-elm-disease",
+    "title": "A fungus killed 25 million trees in one country #shorts",
+    "description": "Dutch elm disease, carried by bark beetles, killed around 25 million of Britain's elms after the late 1960s. #shorts #nature #facts #didyouknow",
+    "photo_query": "dutch elm disease",
+    "tags": [
+      "dutch elm disease",
+      "elm",
+      "fungus",
+      "trees",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A fungus killed about twenty-five million trees in Britain alone. Dutch elm disease is carried by bark beetles that tunnel under elm bark. The fungus spreads into the tree's water pipes. The tree fights back by plugging its own vessels. That stops the infection, and it also stops the water. The leaves wilt and brown in midsummer. The tree dies of thirst while standing in wet ground.",
+    "captions": [
+      "Beetles tunnel under the bark.",
+      "A fungus enters the water pipes.",
+      "The tree plugs its own vessels.",
+      "Leaves wilt in midsummer.",
+      "25 million elms died."
+    ],
+    "image_prompts": [
+      "extreme close-up of bark beetle tunnels under elm bark, dramatic light",
+      "macro of a bark beetle on wood, high contrast",
+      "tight shot of brown streaks inside a cut elm branch, harsh light",
+      "close-up of wilted brown elm leaves, strong shadows",
+      "close-up of a dead grey elm trunk peeling bark"
+    ]
+  },
+  {
+    "id": "phytophthora-potato-blight",
+    "title": "The mould that caused a famine #shorts",
+    "description": "Phytophthora infestans rotted Ireland's potatoes from 1845, leading to the Great Famine in which about a million people died. #shorts #nature #facts #didyouknow",
+    "photo_query": "potato blight",
+    "tags": [
+      "potato blight",
+      "phytophthora",
+      "famine",
+      "ireland",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A microscopic water mould killed about a million people. In 1845, Phytophthora infestans reached Ireland. It spread through potato fields on wet wind. Healthy green plants turned black within days, and the potatoes rotted into stinking mush in the ground. Millions of people depended on potatoes almost entirely. The blight returned year after year. Around a million died of hunger and disease, and another million left the country.",
+    "captions": [
+      "A water mould reached Ireland.",
+      "It spread on wet wind.",
+      "Fields turned black in days.",
+      "Potatoes rotted in the ground.",
+      "About a million died."
+    ],
+    "image_prompts": [
+      "extreme close-up of a blackened rotting potato, dramatic light",
+      "macro of white mould on a potato leaf underside, high contrast",
+      "tight shot of black blighted potato leaves, harsh light",
+      "close-up of hands holding a rotten potato, strong shadows",
+      "close-up of a dark sliced potato with brown rot"
+    ]
+  },
+  {
+    "id": "ormia-fly-silent-crickets",
+    "title": "A fly made crickets go silent in 20 generations #shorts",
+    "description": "Ormia flies hunt singing crickets by ear and plant larvae that eat them alive; on Kauai, crickets evolved silence within about 20 generations. #shorts #nature #facts #didyouknow",
+    "photo_query": "field cricket",
+    "tags": [
+      "ormia",
+      "parasitoid fly",
+      "cricket",
+      "evolution",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A fly made an entire population of crickets go silent. Ormia flies hunt by ear. They home in on a male cricket's song and drop larvae onto him. The maggots burrow inside and eat him alive for about a week, then burst out. On the island of Kauai, the flies were so deadly that within about twenty generations most male crickets were born with wings that can't sing.",
+    "captions": [
+      "Ormia flies hunt by ear.",
+      "They follow a cricket's song.",
+      "Larvae burrow inside.",
+      "They eat him alive for a week.",
+      "Crickets evolved silence."
+    ],
+    "image_prompts": [
+      "extreme close-up of a parasitoid fly's large eyes, dramatic light",
+      "macro of a cricket wing with sound ridges, high contrast",
+      "tight shot of a fly hovering over a cricket, harsh light",
+      "close-up of a maggot emerging from a cricket, strong shadows",
+      "close-up of a silent cricket on a leaf at night"
+    ]
+  },
+  {
+    "id": "ribeiroia-frog-deformities",
+    "title": "The parasite that gives frogs extra legs #shorts",
+    "description": "Ribeiroia flatworms form cysts in tadpole limb buds, causing extra or missing legs that make frogs easy prey for birds. #shorts #nature #facts #didyouknow",
+    "photo_query": "pacific chorus frog",
+    "tags": [
+      "ribeiroia",
+      "frog",
+      "parasite",
+      "deformity",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A parasite gives frogs extra legs so birds can eat them. Ribeiroia is a flatworm. Its larvae burrow into tadpoles right where the back legs are growing. The cysts scramble the limb buds. The frogs grow up with extra legs, missing legs, or legs sprouting from the wrong place. They can't jump or escape. That's the point. A heron eats the crippled frog, and the worm finishes its life inside the bird.",
+    "captions": [
+      "A flatworm burrows into tadpoles.",
+      "Right where legs are growing.",
+      "Frogs grow extra legs.",
+      "They can't jump away.",
+      "A heron eats them."
+    ],
+    "image_prompts": [
+      "extreme close-up of a frog with an extra leg, dramatic light",
+      "macro of a tadpole's growing limb bud, high contrast",
+      "tight shot of tiny cysts in a tadpole, harsh light",
+      "close-up of a deformed frog leg on mud, strong shadows",
+      "close-up of a heron beak holding a frog"
+    ]
+  },
+  {
+    "id": "zombie-spider-web-wasp",
+    "title": "A wasp larva makes a spider spin its own coffin #shorts",
+    "description": "Hymenoepimecis wasp larvae chemically force their spider host to weave a special web, then kill it and use the web for a cocoon. #shorts #nature #facts #didyouknow",
+    "photo_query": "leucauge",
+    "tags": [
+      "parasitoid wasp",
+      "spider",
+      "zombie",
+      "web",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A wasp larva forces a spider to build its own coffin. The female wasp paralyses an orb-weaver spider and lays an egg on its belly. The larva clings on and sips the spider's blood while it keeps living normally. Then, one night, it injects chemicals. The spider tears down its web and spins a strange, tough platform instead. The larva kills it, sucks it dry, and builds its cocoon there.",
+    "captions": [
+      "A wasp lays an egg on a spider.",
+      "The larva drinks its blood.",
+      "Then it injects chemicals.",
+      "The spider spins a new web.",
+      "The larva kills it there."
+    ],
+    "image_prompts": [
+      "extreme close-up of a wasp larva on a spider's abdomen, dramatic light",
+      "macro of an orb-weaver spider's eyes, high contrast",
+      "tight shot of a spider spinning thick silk, harsh light",
+      "close-up of a shrivelled spider husk on silk, strong shadows",
+      "close-up of a wasp cocoon hanging in a web"
+    ]
+  },
+  {
+    "id": "parasitized-killifish",
+    "title": "The parasite that makes fish beg to be eaten #shorts",
+    "description": "Euhaplorchis flukes infect killifish brains and make them flash at the surface, where birds eat them up to 30 times more often. #shorts #nature #facts #didyouknow",
+    "photo_query": "california killifish",
+    "tags": [
+      "killifish",
+      "fluke",
+      "mind control",
+      "parasite",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A parasite makes fish beg to be eaten. In California salt marshes, flatworms called Euhaplorchis carpet the brains of killifish by the thousands. Infected fish start acting wrong. They dart to the surface, flash their silver sides, and twist in the open water. To a passing bird, it's a dinner bell. Infected fish are up to thirty times more likely to be eaten. Inside the bird, the worm breeds.",
+    "captions": [
+      "Flatworms carpet the fish's brain.",
+      "The fish starts acting wrong.",
+      "It flashes at the surface.",
+      "Birds see a dinner bell.",
+      "30 times more likely to be eaten."
+    ],
+    "image_prompts": [
+      "extreme close-up of a killifish eye and silver scales, dramatic light",
+      "macro of tiny cysts on a fish brain, high contrast",
+      "tight shot of a fish flashing at the water surface, harsh light",
+      "close-up of an egret beak striking water, strong shadows",
+      "close-up of a small fish in a bird's beak"
+    ]
+  },
+  {
+    "id": "whirling-disease-trout",
+    "title": "The parasite that makes trout chase their tails #shorts",
+    "description": "Whirling disease damages young trout skeletons so they swim in circles; it wiped out about 90 percent of rainbow trout in parts of Montana. #shorts #nature #facts #didyouknow",
+    "photo_query": "rainbow trout fry",
+    "tags": [
+      "whirling disease",
+      "trout",
+      "parasite",
+      "montana",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A parasite makes young trout chase their own tails until they die. Whirling disease eats the soft cartilage of baby fish while their skeletons are still forming. Nerves get pinched, and the fish swim in frantic circles. Their tails turn black and their skulls grow twisted. They can't feed or escape. In the 1990s, it wiped out about ninety percent of the rainbow trout in parts of Montana's Madison River.",
+    "captions": [
+      "It eats young trout's cartilage.",
+      "Nerves get pinched.",
+      "They swim in frantic circles.",
+      "Tails turn black.",
+      "90% of the trout, gone."
+    ],
+    "image_prompts": [
+      "extreme close-up of a young trout's twisted skull, dramatic light",
+      "macro of a trout fry with a black tail, high contrast",
+      "tight shot of a fish spinning in clear water, motion blur",
+      "close-up of tubifex worms in river mud, strong shadows",
+      "close-up of a dead small trout on gravel"
+    ]
+  },
+  {
+    "id": "sacoglossan-self-decapitation",
+    "title": "This sea slug cuts off its own head and grows a new body #shorts",
+    "description": "Some sacoglossan sea slugs sever their own heads, which crawl away and regrow an entire body within weeks. #shorts #nature #facts #didyouknow",
+    "photo_query": "elysia marginata",
+    "tags": [
+      "sea slug",
+      "elysia",
+      "regeneration",
+      "decapitation",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This sea slug cuts off its own head, and the head survives. Elysia sea slugs can sever their neck in a single day. The headless body keeps moving for days but eventually dies. The head crawls away and keeps feeding. It survives partly on stolen algae chloroplasts that photosynthesise in its skin. Within about three weeks, it grows a whole new body, heart included. Scientists think it's a way to dump parasites.",
+    "captions": [
+      "It cuts off its own head.",
+      "The body keeps moving.",
+      "The head crawls away.",
+      "It runs on stolen sunlight.",
+      "It regrows a whole body."
+    ],
+    "image_prompts": [
+      "extreme close-up of a green sea slug head, dramatic light",
+      "macro of a severed sea slug neck, high contrast",
+      "tight shot of a headless slug body on a dish, harsh light",
+      "close-up of a tiny slug head crawling on algae, strong shadows",
+      "close-up of a regrowing green slug body"
+    ]
+  },
+  {
+    "id": "hognose-snake-death-act",
+    "title": "The snake that fakes its own death with blood #shorts",
+    "description": "The eastern hognose snake plays dead with its mouth gaping, musk leaking and sometimes blood dripping, and flips back over if you right it. #shorts #nature #facts #didyouknow",
+    "photo_query": "eastern hognose snake",
+    "tags": [
+      "hognose snake",
+      "playing dead",
+      "thanatosis",
+      "reptile",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This snake fakes its own death, with blood. When threatened, an eastern hognose first flattens its neck and hisses like a cobra. If that fails, it writhes, flips onto its back, and goes limp. Its mouth gapes open, its tongue hangs out, and it leaks foul musk. Sometimes blood drips from its mouth. The act is so committed that if you flip it right side up, it rolls straight back over.",
+    "captions": [
+      "It flattens its neck and hisses.",
+      "Then it flips onto its back.",
+      "Mouth open, tongue out.",
+      "Blood drips from its mouth.",
+      "Flip it, and it rolls back."
+    ],
+    "image_prompts": [
+      "extreme close-up of an upturned hognose snake nose, dramatic light",
+      "macro of a snake's open mouth and limp tongue, high contrast",
+      "tight shot of a snake belly-up on leaves, harsh light",
+      "close-up of a flattened hooded snake neck, strong shadows",
+      "close-up of a drop of blood on a snake's jaw"
+    ]
+  },
+  {
+    "id": "mayfly-no-mouth",
+    "title": "Some adult mayflies live less than five minutes #shorts",
+    "description": "Adult mayflies have no working mouth, and females of one American species live less than five minutes after emerging. #shorts #nature #facts #didyouknow",
+    "photo_query": "mayfly",
+    "tags": [
+      "mayfly",
+      "insect",
+      "lifespan",
+      "dolania",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Some adult mayflies live less than five minutes. Mayflies spend up to two years underwater as nymphs. Then they emerge as adults with no working mouth and a gut full of air. They can't eat. Their only job is to mate. Females of one American species, Dolania americana, emerge before dawn, mate, drop their eggs into the river, and die in under five minutes. Fish below are waiting for them.",
+    "captions": [
+      "Years underwater as nymphs.",
+      "Adults have no working mouth.",
+      "They can't eat.",
+      "They mate and lay eggs.",
+      "Dead in under five minutes."
+    ],
+    "image_prompts": [
+      "extreme close-up of a mayfly's compound eyes, dramatic light",
+      "macro of a mayfly's delicate veined wings, high contrast",
+      "tight shot of a mayfly emerging from its skin, harsh light",
+      "close-up of a mayfly floating dead on water, strong shadows",
+      "close-up of a trout mouth breaking the surface"
+    ]
   }
 ]
