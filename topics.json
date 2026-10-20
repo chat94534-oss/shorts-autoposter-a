@@ -982,5 +982,882 @@
       "close-up of a mayfly floating dead on water, strong shadows",
       "close-up of a trout mouth breaking the surface"
     ]
+  },
+  {
+    "id": "red-deer-eat-seabird-chicks",
+    "title": "On one Scottish island, deer bite the heads off baby seabirds #shorts",
+    "description": "On the Isle of Rum, red deer chew the heads and legs off Manx shearwater chicks to get calcium. #shorts #nature #facts #didyouknow",
+    "photo_query": "red deer",
+    "tags": [
+      "red deer",
+      "isle of rum",
+      "shearwater",
+      "herbivore",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "On one Scottish island, deer bite the heads off baby seabirds. The Isle of Rum's soil is poor in minerals, and red deer there crave calcium. At night they wander up to the Manx shearwater burrows, pull out the fluffy chicks, and chew off their heads and legs for the bone. Scientists confirmed it in the 1980s. The gentle grazer you picture is quietly snacking on skulls.",
+    "captions": [
+      "Deer on the Isle of Rum.",
+      "They crave calcium.",
+      "They raid seabird burrows.",
+      "Chicks lose heads and legs.",
+      "Herbivores eating bone."
+    ],
+    "image_prompts": [
+      "extreme close-up of a red deer's dark eye at night, harsh moonlight",
+      "tight shot of a red deer muzzle sniffing a burrow, strong shadows",
+      "close-up of a fluffy grey seabird chick in a burrow, dramatic light",
+      "macro of deer teeth with feathers caught in them, high contrast",
+      "close-up of a tiny bird skull in grass, cold light"
+    ]
+  },
+  {
+    "id": "sundew-glue-trap",
+    "title": "This plant glues insects alive, then slowly dissolves them #shorts",
+    "description": "Sundews catch insects in sticky droplets, curl their tentacles around them, and digest them over days. #shorts #nature #facts #didyouknow",
+    "photo_query": "sundew",
+    "tags": [
+      "sundew",
+      "drosera",
+      "carnivorous plant",
+      "plants",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This plant glues insects alive, then slowly dissolves them. Each sundew leaf is covered in tentacles tipped with shining droplets that look like nectar. An insect lands and sticks. The more it struggles, the more tentacles it touches. They bend inward and press it down until mucus clogs its breathing holes and it suffocates. Then the leaf pours out enzymes and drinks it over several days.",
+    "captions": [
+      "Droplets that look like nectar.",
+      "An insect lands and sticks.",
+      "Struggling makes it worse.",
+      "It suffocates in mucus.",
+      "Digested over days."
+    ],
+    "image_prompts": [
+      "macro of a sundew leaf with glistening red tentacle droplets, backlit",
+      "extreme close-up of a fly's legs stuck in clear glue, high contrast",
+      "macro of red tentacles bending over a trapped insect, dramatic light",
+      "close-up of a fly drowning in sticky mucus, harsh light",
+      "macro of a curled sundew leaf around a dissolved husk, dark background"
+    ]
+  },
+  {
+    "id": "hydnora-africana",
+    "title": "This flower lives underground and traps beetles inside a stinking mouth #shorts",
+    "description": "Hydnora africana is a leafless parasitic plant that smells of dung and holds beetles prisoner until they are covered in pollen. #shorts #nature #facts #didyouknow",
+    "photo_query": "hydnora africana",
+    "tags": [
+      "hydnora",
+      "parasitic plant",
+      "africa",
+      "plants",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This flower lives underground and traps beetles inside a stinking mouth. Hydnora africana has no leaves and no green at all. It lives buried, feeding on the roots of other plants. Only its fleshy flower pushes up through the sand, and it smells like dung. Beetles crawl in and slide past stiff bristles. They're held prisoner inside for days, until they're coated in pollen and the flower finally lets them go.",
+    "captions": [
+      "No leaves. No green.",
+      "It lives buried in sand.",
+      "The flower smells like dung.",
+      "Beetles crawl inside.",
+      "Held prisoner for days."
+    ],
+    "image_prompts": [
+      "extreme close-up of a fleshy orange flower mouth breaking through sand, harsh sun",
+      "macro of stiff bristles inside a dark plant throat, high contrast",
+      "close-up of a dung beetle crawling into a fleshy opening, dramatic light",
+      "macro of beetles trapped in a dim orange chamber, strong shadows",
+      "close-up of a pollen-covered beetle crawling out, backlit"
+    ]
+  },
+  {
+    "id": "cerbera-suicide-tree",
+    "title": "In one Indian state, this tree's seed killed about one person a week #shorts",
+    "description": "Cerbera odollam, the suicide tree, caused over 500 recorded deaths in Kerala in a decade, and its poison is hard to detect. #shorts #nature #facts #didyouknow",
+    "photo_query": "cerbera odollam",
+    "tags": [
+      "cerbera",
+      "suicide tree",
+      "poison",
+      "kerala",
+      "plants",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In one Indian state, this tree's seed killed about one person a week. Cerbera odollam grows along the backwaters of Kerala. Its seed holds cerberin, a poison that stops the heart. One study counted over five hundred deaths there in ten years. The bitter taste hides easily in spicy food, and the poison is hard to find in an autopsy. Researchers warned many cases are probably never caught.",
+    "captions": [
+      "Kerala's backwater tree.",
+      "Its seed stops the heart.",
+      "500 deaths in ten years.",
+      "Hidden in spicy food.",
+      "Hard to detect after death."
+    ],
+    "image_prompts": [
+      "extreme close-up of a green mango-like fruit on a dark branch, harsh light",
+      "macro of a split fruit revealing a pale kernel, high contrast",
+      "close-up of a white star-shaped flower with a yellow eye, dramatic shadows",
+      "tight shot of a red curry with a hidden pale seed, strong light",
+      "close-up of a heart monitor flatline, cold light"
+    ]
+  },
+  {
+    "id": "abrus-rosary-pea",
+    "title": "These pretty red beads are seeds that carry a poison stronger than ricin #shorts",
+    "description": "Rosary pea seeds are used in jewelry, but chewed or pierced seeds release abrin, one of nature's deadliest toxins. #shorts #nature #facts #didyouknow",
+    "photo_query": "abrus precatorius",
+    "tags": [
+      "rosary pea",
+      "abrin",
+      "poison",
+      "seeds",
+      "plants",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "These pretty red beads are seeds that carry a poison stronger than ricin. Rosary peas are glossy scarlet with a black dot, and people string them into bracelets. Their hard coat usually lets a swallowed seed pass through harmlessly. But drill a hole for a necklace, or chew one, and abrin leaks out. It shuts down the cells that make proteins. Some of these bracelets have been pulled from sale.",
+    "captions": [
+      "Glossy red seeds with a black dot.",
+      "Strung into bracelets.",
+      "A hard coat keeps it sealed.",
+      "Pierce it and abrin leaks out.",
+      "Bracelets pulled from sale."
+    ],
+    "image_prompts": [
+      "extreme macro of a glossy scarlet seed with a black spot, studio light",
+      "close-up of a red-bead bracelet on a wrist, high contrast",
+      "macro of a drill bit piercing a red seed, harsh light",
+      "extreme close-up of a cracked red seed revealing pale flesh, dramatic shadows",
+      "close-up of a hand dropping red beads into a bin, cold light"
+    ]
+  },
+  {
+    "id": "conium-poison-hemlock",
+    "title": "The plant that killed Socrates paralyzes you while you stay awake #shorts",
+    "description": "Poison hemlock contains coniine, which causes ascending paralysis and kills by stopping breathing while the mind stays clear. #shorts #nature #facts #didyouknow",
+    "photo_query": "poison hemlock",
+    "tags": [
+      "poison hemlock",
+      "conium",
+      "socrates",
+      "coniine",
+      "plants",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "The plant that killed Socrates paralyzes you while you stay awake. Poison hemlock looks like wild carrot and grows along roadsides today. Its poison, coniine, blocks the signals from nerves to muscles. Plato described Socrates walking until his legs grew heavy, then lying down as the numbness climbed toward his chest. The mind stays clear. Death comes when the muscles that move your lungs stop working.",
+    "captions": [
+      "It looks like wild carrot.",
+      "It blocks nerves to muscles.",
+      "Legs grow heavy first.",
+      "The numbness climbs.",
+      "The lungs stop."
+    ],
+    "image_prompts": [
+      "extreme close-up of purple-blotched hemlock stem, harsh side light",
+      "macro of white umbrella-shaped hemlock flowers, high contrast",
+      "close-up of a clay cup of green liquid on stone, dramatic shadows",
+      "tight shot of bare feet on a cold stone floor, strong light",
+      "extreme close-up of an old man's calm closed eyes, candlelight"
+    ]
+  },
+  {
+    "id": "gyromitra-false-morel",
+    "title": "This mushroom makes the same chemical used in rocket fuel #shorts",
+    "description": "False morels contain gyromitrin, which breaks down into monomethylhydrazine, a rocket propellant. Even the cooking fumes can poison people. #shorts #nature #facts #didyouknow",
+    "photo_query": "gyromitra esculenta",
+    "tags": [
+      "false morel",
+      "gyromitra",
+      "mushroom",
+      "fungi",
+      "poison",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This mushroom makes the same chemical used in rocket fuel. The false morel looks like a wrinkled brown brain. Inside, it holds gyromitrin, which your body breaks down into monomethylhydrazine, a propellant used in spacecraft engines. It attacks the liver and nervous system. Some people still eat it after boiling it twice. But the steam carries the poison, and cooks have been poisoned just from breathing the fumes.",
+    "captions": [
+      "It looks like a brain.",
+      "Its toxin becomes rocket fuel.",
+      "It attacks the liver.",
+      "Some still boil and eat it.",
+      "The steam alone can poison."
+    ],
+    "image_prompts": [
+      "extreme close-up of a wrinkled brain-like brown mushroom cap, dramatic light",
+      "macro of reddish mushroom folds, high contrast",
+      "close-up of a rocket engine nozzle glowing, harsh light",
+      "tight shot of a pot boiling over with brown mushrooms, strong steam",
+      "close-up of steam rising into a cook's face, dark kitchen"
+    ]
+  },
+  {
+    "id": "deadly-webcap-kidney-failure",
+    "title": "This mushroom destroys your kidneys and gives no symptoms for weeks #shorts",
+    "description": "Deadly webcap mushrooms contain orellanine, which can cause kidney failure days to weeks after a meal, long after anyone connects the cause. #shorts #nature #facts #didyouknow",
+    "photo_query": "cortinarius rubellus",
+    "tags": [
+      "webcap",
+      "cortinarius",
+      "orellanine",
+      "fungi",
+      "kidney",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This mushroom destroys your kidneys and gives no symptoms for weeks. The deadly webcap is a plain orange-brown mushroom. Its poison, orellanine, enters the kidney cells and slowly kills them. You feel fine for days, sometimes up to three weeks. By the time the thirst and exhaustion arrive, the damage is done. In 2008, the author of The Horse Whisperer needed a kidney transplant after eating them.",
+    "captions": [
+      "A plain orange-brown mushroom.",
+      "It kills kidney cells.",
+      "No symptoms for weeks.",
+      "Then thirst and exhaustion.",
+      "A transplant was needed."
+    ],
+    "image_prompts": [
+      "extreme close-up of a rusty orange mushroom cap in moss, dramatic light",
+      "macro of fibrous orange gills, high contrast",
+      "close-up of a basket of foraged orange mushrooms, strong shadows",
+      "tight shot of a calendar page with weeks crossed off, cold light",
+      "close-up of a hospital dialysis tube filled with blood, harsh light"
+    ]
+  },
+  {
+    "id": "buruli-ulcer",
+    "title": "This bacterium eats your flesh and makes it painless #shorts",
+    "description": "Mycobacterium ulcerans releases a toxin that destroys skin and fat while blocking pain, so huge ulcers can grow unnoticed. #shorts #nature #facts #didyouknow",
+    "photo_query": "buruli ulcer",
+    "tags": [
+      "buruli ulcer",
+      "mycobacterium",
+      "bacteria",
+      "disease",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This bacterium eats your flesh and makes it painless. Mycobacterium ulcerans causes Buruli ulcer. It starts as a small lump under the skin. Then it releases a toxin called mycolactone that kills skin and fat cells and switches off the nerves that would warn you. With no pain, people wait. The wound spreads quietly, sometimes across most of an arm or leg, before anyone seeks help.",
+    "captions": [
+      "It starts as a small lump.",
+      "Its toxin kills skin and fat.",
+      "It switches off pain.",
+      "People wait.",
+      "The wound keeps spreading."
+    ],
+    "image_prompts": [
+      "extreme macro of rod-shaped bacteria under a microscope, dramatic light",
+      "close-up of a small red lump on skin, harsh light",
+      "macro of a toxin crystal glinting, high contrast",
+      "tight shot of a bandaged forearm, strong shadows",
+      "close-up of a doctor's gloved hands unwrapping a bandage, cold light"
+    ]
+  },
+  {
+    "id": "leishmaniasis-sandfly",
+    "title": "A fly smaller than a mosquito can leave you with a wound that won't heal #shorts",
+    "description": "Sand flies spread Leishmania parasites, which cause open skin sores or, in the visceral form, a disease that is usually fatal untreated. #shorts #nature #facts #didyouknow",
+    "photo_query": "sand fly",
+    "tags": [
+      "leishmaniasis",
+      "sand fly",
+      "parasite",
+      "disease",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A fly smaller than a mosquito can leave you with a wound that won't heal. Sand flies bite silently at dusk. Some carry Leishmania, a parasite that moves into your white blood cells. In the skin form, it becomes a crater-like ulcer that can last months and leave a deep scar. In the visceral form, it invades the liver and spleen. Untreated, that version is fatal in over ninety percent of cases.",
+    "captions": [
+      "A tiny fly bites at dusk.",
+      "A parasite enters your blood.",
+      "A crater-like ulcer forms.",
+      "Or it reaches the organs.",
+      "Usually fatal untreated."
+    ],
+    "image_prompts": [
+      "extreme macro of a tiny hairy sand fly on skin, dramatic light",
+      "macro of a sand fly's needle mouthparts piercing skin, high contrast",
+      "microscope close-up of parasites inside a white blood cell, harsh light",
+      "close-up of a crater-shaped skin ulcer, strong shadows",
+      "close-up of a swollen belly under a hospital light, cold tone"
+    ]
+  },
+  {
+    "id": "thelazia-eye-worm",
+    "title": "A woman in Oregon pulled 14 live worms out of her own eye #shorts",
+    "description": "In 2016, Thelazia gulosa, a cattle eyeworm spread by face flies, was found in a human eye for the first time. #shorts #nature #facts #didyouknow",
+    "photo_query": "face fly",
+    "tags": [
+      "eyeworm",
+      "thelazia",
+      "parasite",
+      "flies",
+      "oregon",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A woman in Oregon pulled fourteen live worms out of her own eye. In 2016, she felt something in her eye after riding near cattle. Then she pulled out a wriggling, translucent worm half an inch long. Doctors removed more over the next weeks. It was Thelazia gulosa, a cattle eyeworm that flies spread by feeding on eye moisture. It had never been found in a human before.",
+    "captions": [
+      "Something in her eye.",
+      "A wriggling worm.",
+      "Fourteen in total.",
+      "A cattle eyeworm.",
+      "Spread by flies."
+    ],
+    "image_prompts": [
+      "extreme close-up of a human eye with a thin translucent worm, harsh light",
+      "macro of fingertips pinching a wriggling white worm, high contrast",
+      "close-up of a fly sipping moisture from a cow's eye, dramatic light",
+      "macro of worms in a glass sample dish, cold light",
+      "extreme close-up of a red irritated eye, strong shadows"
+    ]
+  },
+  {
+    "id": "kamchatka-valley-of-death",
+    "title": "In this Russian valley, the air kills every animal that comes to eat the dead #shorts",
+    "description": "Kamchatka's Valley of Death collects volcanic gases in hollows, killing animals and then the scavengers drawn to their bodies. #shorts #nature #facts #didyouknow",
+    "photo_query": "kamchatka",
+    "tags": [
+      "valley of death",
+      "kamchatka",
+      "volcanic gas",
+      "geology",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In this Russian valley, the air kills every animal that comes to eat the dead. In Kamchatka's Valley of Death, volcanic gases seep from the ground. On calm days they pool in the hollows, heavier than air. Birds and hares wander in and drop. Their bodies draw foxes, wolverines, ravens, even bears. The scavengers lower their heads to feed, breathe the same invisible gas, and die beside their meal.",
+    "captions": [
+      "Volcanic gas seeps up.",
+      "It pools in the hollows.",
+      "Small animals drop.",
+      "Scavengers come to feed.",
+      "They die beside their meal."
+    ],
+    "image_prompts": [
+      "extreme close-up of steam vents on yellow sulfur ground, harsh light",
+      "close-up of a dead hare on a pale volcanic slope, cold light",
+      "tight shot of a fox nose sniffing a carcass, dramatic shadows",
+      "close-up of a raven lying still on grey rock, high contrast",
+      "extreme close-up of a bear's open dead eye in snow, strong light"
+    ]
+  },
+  {
+    "id": "mazuku-evil-winds",
+    "title": "In parts of Africa, invisible pools of gas suffocate children in their sleep #shorts",
+    "description": "Mazuku, or evil winds, are pockets of volcanic carbon dioxide near Lake Kivu that collect in low ground and kill animals and people. #shorts #nature #facts #didyouknow",
+    "photo_query": "lake kivu",
+    "tags": [
+      "mazuku",
+      "carbon dioxide",
+      "lake kivu",
+      "volcano",
+      "geology",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In parts of Africa, invisible pools of gas suffocate children in their sleep. Near Lake Kivu, volcanoes leak carbon dioxide through the soil. It has no smell. Because it's heavier than air, it pools in dips, ditches, and low houses. Locals call these spots mazuku, meaning evil winds. Animals walk in and collapse. Children, whose heads are closer to the ground, are most at risk.",
+    "captions": [
+      "Volcanoes leak gas.",
+      "It has no smell.",
+      "It pools in low ground.",
+      "Locals call it evil winds.",
+      "Children are most at risk."
+    ],
+    "image_prompts": [
+      "extreme close-up of black volcanic soil with a faint haze, harsh light",
+      "tight shot of a dead bird lying in a ditch, dramatic shadows",
+      "close-up of a goat collapsed in tall grass, cold light",
+      "close-up of a child's sandal at the edge of a hollow, strong light",
+      "extreme close-up of a candle flame going out near the ground, dark"
+    ]
+  },
+  {
+    "id": "bramble-cay-melomys",
+    "title": "This rat was the first mammal wiped out by climate change #shorts",
+    "description": "The Bramble Cay melomys lived only on a tiny reef island. Rising seas and storm surges destroyed its home, and it was declared extinct. #shorts #nature #facts #didyouknow",
+    "photo_query": "bramble cay melomys",
+    "tags": [
+      "bramble cay melomys",
+      "extinction",
+      "climate change",
+      "rodent",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This rat was the first mammal wiped out by climate change. The Bramble Cay melomys lived on one speck of sand in the Great Barrier Reef, smaller than a few soccer fields. Rising seas and storm surges kept washing over it, drowning the plants it ate. Searches in 2014 found not a single one. Australia formally declared it extinct in 2019. Its entire world was underwater.",
+    "captions": [
+      "One tiny sand island.",
+      "Seas kept rising.",
+      "Storms drowned its food.",
+      "Searches found none.",
+      "Declared extinct."
+    ],
+    "image_prompts": [
+      "extreme close-up of a small brown rodent's whiskered face, dramatic light",
+      "close-up of seawater washing over sandy roots, harsh light",
+      "tight shot of drowned grass on a beach, strong shadows",
+      "macro of small footprints erased by a wave, high contrast",
+      "close-up of an empty burrow flooded with water, cold light"
+    ]
+  },
+  {
+    "id": "stellers-sea-cow",
+    "title": "Humans ate this giant sea cow to extinction in 27 years #shorts",
+    "description": "Steller's sea cow was discovered in 1741 and hunted to extinction by 1768. Its herds gathered around wounded members. #shorts #nature #facts #didyouknow",
+    "photo_query": "dugong",
+    "tags": [
+      "stellers sea cow",
+      "extinction",
+      "marine mammal",
+      "history",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Humans ate this giant sea cow to extinction in twenty seven years. Steller's sea cow was up to eight meters long and grazed kelp in the cold Bering Sea. Europeans found it in 1741. Hunters harpooned them for meat. The naturalist who described them noted that the others would gather around a wounded animal, trying to help. That made them easy targets. By 1768, they were gone.",
+    "captions": [
+      "Eight meters long.",
+      "Found in 1741.",
+      "Hunted for meat.",
+      "They gathered round the wounded.",
+      "Gone by 1768."
+    ],
+    "image_prompts": [
+      "extreme close-up of a huge wrinkled grey sea mammal eye underwater, dramatic light",
+      "close-up of thick bark-like skin with barnacles, high contrast",
+      "tight shot of a rusted harpoon tip, harsh light",
+      "close-up of a giant tail in churning cold water, strong shadows",
+      "close-up of a huge bleached rib bone on a beach, cold light"
+    ]
+  },
+  {
+    "id": "great-auk-last-pair",
+    "title": "The last two great auks were strangled for collectors in 1844 #shorts",
+    "description": "On an Icelandic island in 1844, hunters killed the last known breeding pair of great auks for a collector and crushed their egg. #shorts #nature #facts #didyouknow",
+    "photo_query": "great auk",
+    "tags": [
+      "great auk",
+      "extinction",
+      "iceland",
+      "birds",
+      "history",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "The last two great auks were strangled for collectors in 1844. The great auk was a flightless seabird, almost a meter tall. Hunting had already wiped out the big colonies. On a rocky island off Iceland, three men found the last known pair sitting on an egg. They strangled both birds to sell to a collector. One of them crushed the egg under his boot. The species was gone.",
+    "captions": [
+      "A flightless seabird.",
+      "Colonies already wiped out.",
+      "The last known pair.",
+      "Strangled for a collector.",
+      "The egg crushed underfoot."
+    ],
+    "image_prompts": [
+      "extreme close-up of a black and white seabird's head, dramatic light",
+      "close-up of a large speckled egg on dark rock, harsh light",
+      "tight shot of rough hands around a bird's neck, strong shadows",
+      "macro of a heavy boot crushing an eggshell, high contrast",
+      "close-up of a stuffed bird in a museum case, cold light"
+    ]
+  },
+  {
+    "id": "thylacine-last-death",
+    "title": "The last Tasmanian tiger reportedly froze after being locked out of its shelter #shorts",
+    "description": "The last known thylacine died in Hobart's zoo in September 1936, only 59 days after the species was finally protected. #shorts #nature #facts #didyouknow",
+    "photo_query": "thylacine",
+    "tags": [
+      "thylacine",
+      "tasmanian tiger",
+      "extinction",
+      "marsupial",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "The last Tasmanian tiger reportedly froze after being locked out of its shelter. Thylacines were hunted for decades, with bounties paid for every one killed. By the 1930s, one was left in a zoo in Hobart. On a freezing night in September 1936, accounts say it was shut out of its sleeping den. It died. The species had been officially protected just fifty nine days earlier.",
+    "captions": [
+      "Bounties for every kill.",
+      "One left in a zoo.",
+      "A freezing night.",
+      "Locked out of its den.",
+      "Protected 59 days earlier."
+    ],
+    "image_prompts": [
+      "extreme close-up of a striped thylacine's back, dramatic light",
+      "close-up of a thylacine's wide open jaws, high contrast",
+      "tight shot of a padlocked wooden den door, cold moonlight",
+      "close-up of frost on a zoo cage wire, harsh light",
+      "close-up of an old black and white photo of a striped animal, strong shadows"
+    ]
+  },
+  {
+    "id": "aphid-born-pregnant",
+    "title": "Some aphids are born already pregnant #shorts",
+    "description": "Aphids reproduce by telescoping generations: a female carries daughters that already carry granddaughters inside them. #shorts #nature #facts #didyouknow",
+    "photo_query": "aphid",
+    "tags": [
+      "aphid",
+      "insect",
+      "reproduction",
+      "telescoping generations",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Some aphids are born already pregnant. In summer, female aphids skip mating entirely and give birth to live clones, all of them female. But inside each developing daughter, the next generation has already begun growing. A grandmother carries her granddaughters inside her daughters, like nesting dolls. Newborns can start having babies of their own within a week. That's how one aphid on a rosebush becomes thousands.",
+    "captions": [
+      "Born already pregnant.",
+      "Live clones, no mating.",
+      "Daughters inside daughters.",
+      "Breeding within a week.",
+      "One becomes thousands."
+    ],
+    "image_prompts": [
+      "extreme macro of a green aphid giving birth, dramatic light",
+      "macro of a translucent aphid with a visible embryo inside, backlit",
+      "close-up of a crowded aphid colony on a stem, high contrast",
+      "macro of a newborn aphid's legs emerging, harsh light",
+      "close-up of a rose stem coated in aphids, strong shadows"
+    ]
+  },
+  {
+    "id": "kiwi-giant-egg",
+    "title": "A kiwi's egg is a fifth of her body weight #shorts",
+    "description": "Female kiwi lay eggs up to around 20% of their body weight, so large that they struggle to eat before laying. #shorts #nature #facts #didyouknow",
+    "photo_query": "kiwi bird",
+    "tags": [
+      "kiwi",
+      "new zealand",
+      "egg",
+      "birds",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A kiwi's egg is a fifth of her body weight. That's like a woman giving birth to a four-year-old child. The egg grows so large that it fills her body and presses against her stomach. In the final days, there's barely any room left to eat, so she fasts. Near the end, she can barely move. And after laying it, she may make another one within weeks.",
+    "captions": [
+      "A fifth of her body weight.",
+      "Like birthing a four-year-old.",
+      "It crushes her stomach.",
+      "She fasts before laying.",
+      "Then she may do it again."
+    ],
+    "image_prompts": [
+      "extreme close-up of a kiwi bird's long beak and whiskers, dramatic light",
+      "x-ray style close-up of a huge egg inside a small bird, high contrast",
+      "close-up of a giant white egg beside a small brown bird, harsh light",
+      "tight shot of a kiwi crouched still in a burrow, strong shadows",
+      "macro of a cracked enormous eggshell, cold light"
+    ]
+  },
+  {
+    "id": "stegodyphus-matriphagy",
+    "title": "This spider mother lets her babies eat her alive #shorts",
+    "description": "In some Stegodyphus spiders, the mother's body liquefies to feed her young, and the spiderlings consume her completely. #shorts #nature #facts #didyouknow",
+    "photo_query": "stegodyphus",
+    "tags": [
+      "stegodyphus",
+      "spider",
+      "matriphagy",
+      "arachnid",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This spider mother lets her babies eat her alive. In some Stegodyphus spiders, a mother feeds her young by vomiting up liquid food. Then her own insides start to break down. Her organs turn to mush. Her spiderlings climb onto her, pierce her body, and drink. Within hours she's an empty husk. In one species, even childless sisters in the colony are eaten the same way.",
+    "captions": [
+      "She vomits food for her young.",
+      "Her insides start to dissolve.",
+      "They climb onto her.",
+      "They drink her.",
+      "An empty husk."
+    ],
+    "image_prompts": [
+      "extreme macro of a hairy brown spider's eyes, dramatic light",
+      "macro of tiny spiderlings swarming over a large spider, high contrast",
+      "close-up of a spider's abdomen shrinking, harsh light",
+      "macro of spiderlings feeding with fangs, strong shadows",
+      "close-up of an empty shriveled spider husk in silk, cold light"
+    ]
+  },
+  {
+    "id": "diving-beetle-larva",
+    "title": "The 'water tiger' sucks out its prey through hollow jaws #shorts",
+    "description": "Diving beetle larvae inject digestive juices through hollow jaws and drink their prey, including tadpoles and small fish. #shorts #nature #facts #didyouknow",
+    "photo_query": "diving beetle larva",
+    "tags": [
+      "diving beetle",
+      "water tiger",
+      "dytiscus",
+      "insect",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "The water tiger sucks out its prey through hollow jaws. It's the larva of the great diving beetle, and it hunts in ponds. It hangs still, then snaps sickle-shaped jaws into a tadpole or small fish. Those jaws are hollow. It pumps in digestive juice that turns its victim's insides to liquid, then drinks it out through the same jaws. It even attacks prey larger than itself.",
+    "captions": [
+      "A pond-dwelling larva.",
+      "Sickle-shaped jaws snap shut.",
+      "The jaws are hollow.",
+      "Juice turns insides to liquid.",
+      "It drinks them out."
+    ],
+    "image_prompts": [
+      "extreme macro of a beetle larva's curved sickle jaws, dramatic light",
+      "macro of a larva's jaws clamped on a tadpole, high contrast",
+      "close-up of a hunting larva hanging in murky water, harsh light",
+      "macro of a fish turning pale in the larva's grip, strong shadows",
+      "close-up of an empty tadpole skin drifting in water, cold light"
+    ]
+  },
+  {
+    "id": "yellowstone-wolf-pack-wars",
+    "title": "Most wild wolves that die naturally are killed by other wolves #shorts",
+    "description": "In Yellowstone, fights with rival packs are the leading natural cause of death for wolves. #shorts #nature #facts #didyouknow",
+    "photo_query": "gray wolf",
+    "tags": [
+      "wolf",
+      "yellowstone",
+      "pack",
+      "predator",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Most wild wolves that die naturally are killed by other wolves. In Yellowstone, scientists tracked packs for decades. The top natural cause of death wasn't starvation or prey kicking back. It was rival wolves. Packs patrol borders and raid each other's territory. When they catch a stranger, several wolves pin it down together. Bigger packs win most fights. Yellowstone's wolves are at war with each other.",
+    "captions": [
+      "Tracked for decades.",
+      "Not starvation.",
+      "Rival wolves.",
+      "Several pin one down.",
+      "Bigger packs win."
+    ],
+    "image_prompts": [
+      "extreme close-up of a snarling grey wolf's teeth, dramatic light",
+      "close-up of a wolf's yellow eyes in snow, high contrast",
+      "tight shot of wolves biting a pinned wolf, harsh light",
+      "macro of blood on fresh snow and fur, strong shadows",
+      "close-up of a scarred wolf muzzle, cold light"
+    ]
+  },
+  {
+    "id": "ground-squirrel-vole-hunters",
+    "title": "California ground squirrels hunt, kill, and eat voles #shorts",
+    "description": "A 2024 study documented California ground squirrels chasing, killing, and eating voles, a behavior nobody had recorded before. #shorts #nature #facts #didyouknow",
+    "photo_query": "california ground squirrel",
+    "tags": [
+      "ground squirrel",
+      "vole",
+      "predator",
+      "california",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "California ground squirrels hunt, kill, and eat voles. In 2024, scientists watching a park near San Francisco filmed squirrels chasing voles through the grass. They pounced, shook them, and bit into their necks. Then they ate them, sometimes fighting over the carcass. Across one summer, almost half of the squirrels' encounters with voles involved hunting. The animal you toss peanuts to is also a predator.",
+    "captions": [
+      "Watched near San Francisco.",
+      "They chase voles.",
+      "They bite the neck.",
+      "They fight over carcasses.",
+      "Not so harmless."
+    ],
+    "image_prompts": [
+      "extreme close-up of a ground squirrel's bloody front teeth, dramatic light",
+      "close-up of a squirrel's black eye mid-pounce, high contrast",
+      "tight shot of a squirrel gripping a limp vole, harsh sun",
+      "close-up of two squirrels tugging on a carcass, strong shadows",
+      "close-up of tiny bones in dry grass, cold light"
+    ]
+  },
+  {
+    "id": "japanese-honeybee-heat-ball",
+    "title": "Japanese honeybees cook giant hornets alive inside a ball of bees #shorts",
+    "description": "Japanese honeybees mob invading hornets and vibrate their flight muscles, heating the ball until the hornet dies. #shorts #nature #facts #didyouknow",
+    "photo_query": "japanese honeybee",
+    "tags": [
+      "honeybee",
+      "giant hornet",
+      "bee ball",
+      "japan",
+      "insect",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Japanese honeybees cook giant hornets alive inside a ball of bees. A single hornet scout arrives at the hive. Hundreds of bees swarm it, packing into a tight ball. They vibrate their flight muscles until the center hits about forty six degrees Celsius. The trapped carbon dioxide adds to it. The bees survive just a few degrees more than the hornet can. The hornet slowly cooks.",
+    "captions": [
+      "A hornet scout arrives.",
+      "Hundreds of bees swarm it.",
+      "They vibrate their muscles.",
+      "Around forty six degrees.",
+      "The hornet cooks."
+    ],
+    "image_prompts": [
+      "extreme macro of a giant hornet's orange head and jaws, dramatic light",
+      "close-up of a dense ball of honeybees, high contrast",
+      "macro of a hornet leg sticking out of a bee mass, harsh light",
+      "thermal-colored close-up of a glowing bee cluster, strong shadows",
+      "macro of a dead hornet on a hive entrance, cold light"
+    ]
+  },
+  {
+    "id": "deep-sea-octopus-53-month-brood",
+    "title": "This octopus mother guarded her eggs for 53 months and never ate #shorts",
+    "description": "A deep-sea octopus off California brooded her eggs for four and a half years, the longest brooding period known for any animal. #shorts #nature #facts #didyouknow",
+    "photo_query": "graneledone boreopacifica",
+    "tags": [
+      "octopus",
+      "deep sea",
+      "brooding",
+      "monterey",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This octopus mother guarded her eggs for fifty three months and never ate. In 2007, researchers spotted a deep-sea octopus clinging to a rock off California. She covered her eggs, keeping them clean and safe. They returned eighteen times. She was never seen eating. Her skin grew pale and loose, and her eyes clouded. After four and a half years, the eggs hatched. She was gone.",
+    "captions": [
+      "Found clinging to a rock.",
+      "Guarding her eggs.",
+      "Never seen eating.",
+      "Skin pale, eyes clouded.",
+      "Four and a half years."
+    ],
+    "image_prompts": [
+      "extreme close-up of a pale octopus eye in deep darkness, dramatic light",
+      "macro of translucent octopus eggs under tentacles, high contrast",
+      "close-up of loose wrinkled octopus skin, harsh light",
+      "tight shot of an octopus clinging to dark rock, strong shadows",
+      "close-up of empty egg casings on a rock, cold light"
+    ]
+  },
+  {
+    "id": "burmese-python-everglades",
+    "title": "Pythons erased almost every raccoon from parts of the Everglades #shorts",
+    "description": "After Burmese pythons spread through the Everglades, road surveys found raccoons down 99% and opossums down nearly as much. #shorts #nature #facts #didyouknow",
+    "photo_query": "burmese python",
+    "tags": [
+      "burmese python",
+      "everglades",
+      "invasive species",
+      "florida",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Pythons erased almost every raccoon from parts of the Everglades. Burmese pythons, released or escaped pets, spread through southern Florida. They swallow animals whole, sometimes up to the size of deer. In 2012, scientists compared night surveys before and after. Raccoon sightings had dropped about ninety nine percent. Opossums nearly as much. Bobcats down almost ninety percent. Marsh rabbits and foxes weren't seen even once.",
+    "captions": [
+      "Escaped pets.",
+      "They swallow prey whole.",
+      "Raccoons down 99 percent.",
+      "Bobcats down almost 90.",
+      "Rabbits and foxes gone."
+    ],
+    "image_prompts": [
+      "extreme close-up of a Burmese python's eye and scales, dramatic light",
+      "close-up of a python's huge bulging midsection, high contrast",
+      "tight shot of a raccoon tail sticking from a snake's mouth, harsh light",
+      "close-up of python coils in swamp water, strong shadows",
+      "close-up of an empty raccoon den by the water, cold light"
+    ]
+  },
+  {
+    "id": "scale-eating-cichlid",
+    "title": "This fish only eats the scales off other fish #shorts",
+    "description": "Lake Tanganyika's scale-eating cichlids have mouths twisted left or right so they can rip scales off one side of their victims. #shorts #nature #facts #didyouknow",
+    "photo_query": "perissodus microlepis",
+    "tags": [
+      "scale-eating cichlid",
+      "lake tanganyika",
+      "fish",
+      "africa",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This fish only eats the scales off other fish. In Africa's Lake Tanganyika, the scale-eating cichlid sneaks up behind its victim and rips mouthfuls of scales from its flank. Its jaw is twisted, either to the left or to the right, so it always strikes the same side. Victims learn to watch and guard that side. So the population keeps shifting between left-mouthed and right-mouthed fish.",
+    "captions": [
+      "It sneaks up from behind.",
+      "It rips off scales.",
+      "Its jaw is twisted.",
+      "Always the same side.",
+      "Left or right mouthed."
+    ],
+    "image_prompts": [
+      "extreme close-up of a fish's crooked twisted jaw, dramatic light",
+      "macro of a fish flank with scales torn away, high contrast",
+      "close-up of a small fish lunging at a larger one, harsh light",
+      "macro of loose scales drifting in water, strong shadows",
+      "close-up of a scarred fish eye in murky water, cold light"
+    ]
+  },
+  {
+    "id": "wood-frog-frozen-solid",
+    "title": "This frog freezes solid every winter and its heart stops #shorts",
+    "description": "Wood frogs survive winter frozen, with no heartbeat or breathing, thanks to glucose that protects their cells. #shorts #nature #facts #didyouknow",
+    "photo_query": "wood frog",
+    "tags": [
+      "wood frog",
+      "freezing",
+      "amphibian",
+      "alaska",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This frog freezes solid every winter and its heart stops. As temperatures drop, the wood frog floods its cells with sugar. Ice forms in its body, up to two thirds of its water. It stops breathing. Its heart stops beating. It stays like that for weeks or even months. Then spring comes, it thaws, and within hours its heart starts again and it hops away as if nothing happened.",
+    "captions": [
+      "It floods its cells with sugar.",
+      "Ice fills its body.",
+      "Breathing stops.",
+      "Its heart stops.",
+      "In spring, it restarts."
+    ],
+    "image_prompts": [
+      "extreme close-up of a frog's eye covered in frost, dramatic light",
+      "macro of ice crystals on brown frog skin, high contrast",
+      "close-up of a frozen frog under a leaf in snow, cold light",
+      "macro of a frog's chest, still and frosted, harsh light",
+      "close-up of a frog thawing in meltwater, warm backlight"
+    ]
   }
 ]
