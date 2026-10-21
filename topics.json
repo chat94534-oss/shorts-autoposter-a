@@ -1,35 +1,5 @@
 [
   {
-    "id": "urchin-barrens-kelp-collapse",
-    "title": "Purple sea urchins have turned kelp forests into barren rock #shorts",
-    "description": "Purple sea urchins have turned kelp forests into barren rock. Scientists and divers now smash urchins by hand, trying to give the kelp a chance to return. #shorts #nature #facts #didyouknow",
-    "photo_query": "purple sea urchin",
-    "tags": [
-      "urchin",
-      "barrens",
-      "kelp",
-      "nature",
-      "facts",
-      "didyouknow",
-      "shorts"
-    ],
-    "script": "Off the California coast, ninety-five percent of the kelp forest is gone. A sea star disease killed the predators that kept purple urchins in check, and the urchin population exploded. They eat every blade of kelp, and they can survive starving for years. What was once an underwater forest is now gray rock. Scientists and divers now smash urchins by hand, trying to give the kelp a chance to return.",
-    "captions": [
-      "A disease killed off the sea stars.",
-      "Purple urchin numbers exploded.",
-      "They devoured the kelp forest.",
-      "They can starve for years and survive.",
-      "95% of the kelp is gone."
-    ],
-    "image_prompts": [
-      "extreme close-up of a purple sea urchin's spines, dramatic light",
-      "macro of an urchin's mouth chewing kelp, high contrast",
-      "tight shot of a tattered kelp stalk, sharp detail",
-      "close-up of dozens of urchins covering bare rock, strong highlight",
-      "close-up of a barren gray seafloor, harsh blue light"
-    ]
-  },
-  {
     "id": "ebola-western-gorilla-die-off",
     "title": "Ebola killed thousands of gorillas in a few years #shorts",
     "description": "Ebola killed thousands of gorillas in a few years. Poaching and habitat loss have since pushed the western gorilla to critically endangered status. #shorts #nature #facts #didyouknow",
