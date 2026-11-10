@@ -866,5 +866,997 @@
       "macro of tiny hooks on the proboscis, cold light",
       "close-up of a sleeping bird's eye with a tear, stark light"
     ]
+  },
+  {
+    "id": "nyiragongo-fastest-lava",
+    "photo_query": "nyiragongo lava lake",
+    "title": "This lava moved faster than you can run #shorts",
+    "description": "In 1977, Nyiragongo's lava lake in Congo drained in under an hour, sending runny lava downhill at up to 60 km/h. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "volcano",
+      "lava",
+      "congo",
+      "nyiragongo",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "The fastest lava ever recorded moved at up to sixty kilometers per hour. In 1977, the wall of Nyiragongo's lava lake in Congo cracked open. The lake drained in under an hour. Its lava was so low in silica it flowed almost like water, racing downhill faster than anyone could run. Villages were swallowed before people knew it was coming. And the lake has refilled since.",
+    "captions": [
+      "Fastest lava ever recorded.",
+      "The lake wall cracked.",
+      "Drained in under an hour.",
+      "It flowed like water.",
+      "Faster than you can run."
+    ],
+    "image_prompts": [
+      "extreme close-up of glowing liquid lava bubbling, harsh light",
+      "tight shot of a crack splitting a lava lake crust, high contrast",
+      "close-up of fast-flowing runny orange lava, dramatic light",
+      "macro of lava swallowing a wooden fence post, stark light",
+      "close-up of a churning lava lake surface at night, red glow"
+    ]
+  },
+  {
+    "id": "herculaneum-glass-brain",
+    "photo_query": "herculaneum skeletons",
+    "title": "Vesuvius turned this man's brain into glass #shorts",
+    "description": "A young man killed in Herculaneum in 79 AD had his brain turned to black glass by a superheated ash cloud that cooled almost instantly. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "vesuvius",
+      "herculaneum",
+      "volcano",
+      "archaeology",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Vesuvius turned a man's brain into glass. In 79 AD, a young man lay on his bed in Herculaneum when the eruption struck. A super-heated ash cloud swept in, hotter than five hundred degrees Celsius. Then it vanished just as fast. His brain cooled so quickly it became shiny black glass. Scientists found it inside his skull, still preserving tiny neurons, nearly two thousand years later.",
+    "captions": [
+      "His brain became glass.",
+      "Vesuvius, 79 AD.",
+      "Ash hotter than 500°C.",
+      "It cooled instantly.",
+      "Neurons still preserved."
+    ],
+    "image_prompts": [
+      "extreme close-up of shiny black glass fragments in a skull, harsh light",
+      "tight shot of an ancient skeleton on a charred bed, high contrast",
+      "close-up of a glowing ash cloud surge, dramatic light",
+      "macro of glossy obsidian-like brain tissue, cold light",
+      "close-up of a cracked ancient skull in volcanic ash, stark light"
+    ]
+  },
+  {
+    "id": "snottites-acid-cave-slime",
+    "photo_query": "snottite",
+    "title": "This cave drips slime as acidic as battery acid #shorts",
+    "description": "In Mexico's Cueva de Villa Luz, dangling bacterial colonies called snottites turn toxic gas into sulfuric acid. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "cave",
+      "bacteria",
+      "acid",
+      "mexico",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In a Mexican cave, the ceiling drips living slime as acidic as battery acid. They're called snottites, dangling colonies of bacteria in Cueva de Villa Luz. They eat hydrogen sulfide gas seeping through the rock and turn it into sulfuric acid. Touch one and it can burn your skin. The air is so toxic that explorers wear gas masks. Yet fish still survive in the stream below.",
+    "captions": [
+      "Slime drips from the ceiling.",
+      "Colonies of bacteria.",
+      "They make sulfuric acid.",
+      "It burns skin.",
+      "Explorers need gas masks."
+    ],
+    "image_prompts": [
+      "extreme macro of dripping translucent slime stalactites in a cave, harsh light",
+      "close-up of a slimy bacterial drip with an acid drop, high contrast",
+      "macro of yellow sulfur crust on wet cave rock, dramatic light",
+      "close-up of a gloved hand near a dripping snottite, cold light",
+      "tight shot of a gas mask lit by a headlamp in a cave"
+    ]
+  },
+  {
+    "id": "acacia-ant-nectar-trap",
+    "photo_query": "pseudomyrmex ferrugineus acacia",
+    "title": "This tree chemically enslaves its ant bodyguards #shorts",
+    "description": "The swollen-thorn acacia feeds its ants nectar laced with an enzyme that stops them digesting any other sugar, so they can never leave. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "ants",
+      "acacia",
+      "plants",
+      "symbiosis",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A tree in Central America chemically enslaves its bodyguards. The swollen-thorn acacia houses ants inside its hollow thorns and feeds them nectar. But that nectar holds an enzyme that shuts down the ants' ability to digest ordinary sugar. After their first meal, they can only feed from this tree. So they defend it savagely, stinging any hungry animal that touches a leaf. They can never leave.",
+    "captions": [
+      "The tree feeds its ants.",
+      "Nectar laced with an enzyme.",
+      "They can't digest other sugar.",
+      "Only this tree can feed them.",
+      "They can never leave."
+    ],
+    "image_prompts": [
+      "extreme macro of ants on a swollen acacia thorn, harsh light",
+      "close-up of an ant crawling out of a hollow thorn, high contrast",
+      "macro of an ant drinking a nectar droplet, dramatic light",
+      "macro of an ant's open mandibles attacking, cold light",
+      "close-up of ants swarming a leaf, stark light"
+    ]
+  },
+  {
+    "id": "english-yew-taxine",
+    "photo_query": "taxus baccata berries",
+    "title": "This churchyard tree stops hearts in hours #shorts",
+    "description": "Almost every part of the English yew contains taxine, a heart poison that has killed horses and cattle within hours. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "yew",
+      "poison",
+      "plants",
+      "trees",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Horses have been found dead with yew leaves still in their mouths. The English yew, planted in churchyards for centuries, is poisonous in almost every part. Its needles hold taxine, which jams the heart's electrical signals. Just a few mouthfuls can stop a horse's heart within hours, often with no warning. Only the red flesh around the seed is safe. The seed inside it is deadly.",
+    "captions": [
+      "Found dead mid-bite.",
+      "Every part is poison.",
+      "It jams the heart.",
+      "Dead within hours.",
+      "Only the red flesh is safe."
+    ],
+    "image_prompts": [
+      "extreme close-up of red yew berries on dark needles, harsh light",
+      "tight shot of a horse's lips near yew needles, high contrast",
+      "macro of a yew needle with a dew drop, dramatic light",
+      "close-up of a split yew berry revealing the dark seed, cold light",
+      "close-up of an ancient gnarled yew trunk, stark light"
+    ]
+  },
+  {
+    "id": "lily-pollen-cat-kidney",
+    "photo_query": "lilium pollen",
+    "title": "A lick of this flower's pollen can kill a cat #shorts",
+    "description": "True lilies and daylilies are so toxic to cats that grooming pollen off their fur can cause kidney failure within days. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "lily",
+      "cats",
+      "poison",
+      "flowers",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A single lick of lily pollen can kill a pet cat. True lilies and daylilies are so toxic to cats that grooming pollen off their fur is enough. Even the water from the vase is dangerous. Within hours they vomit and stop eating. Within three days their kidneys can shut down completely. Scientists still haven't identified the toxin. Dogs and people barely react. It's only cats.",
+    "captions": [
+      "One lick of pollen.",
+      "Even the vase water.",
+      "Vomiting within hours.",
+      "Kidneys fail in days.",
+      "Only cats are affected."
+    ],
+    "image_prompts": [
+      "extreme macro of orange lily pollen on a stamen, harsh light",
+      "close-up of pollen dust on a cat's fur, high contrast",
+      "close-up of a cat's tongue licking its paw, dramatic light",
+      "macro of a lily stamen dripping pollen, cold light",
+      "close-up of a cat's eye beside a white lily, stark light"
+    ]
+  },
+  {
+    "id": "yellow-crazy-ants-red-crabs",
+    "photo_query": "anoplolepis gracilipes",
+    "title": "These ants blinded and killed millions of crabs #shorts",
+    "description": "On Christmas Island, invasive yellow crazy ants spray formic acid into red crabs' eyes and mouths, killing an estimated 10 to 20 million. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "ants",
+      "crabs",
+      "christmas island",
+      "invasive species",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Tiny ants killed millions of Christmas Island's red crabs. Yellow crazy ants arrived by accident and formed supercolonies across the rainforest. When migrating crabs crossed their territory, the ants sprayed formic acid into their eyes and mouths. Blinded and dehydrating, the crabs collapsed, and the ants ate them where they fell. Scientists estimate up to twenty million crabs died. The ants even took over the crabs' burrows.",
+    "captions": [
+      "Tiny ants, giant crabs.",
+      "Supercolonies formed.",
+      "Acid sprayed in the eyes.",
+      "Blinded crabs collapse.",
+      "Up to 20 million dead."
+    ],
+    "image_prompts": [
+      "extreme macro of a yellow ant on a red crab's eye stalk, harsh light",
+      "close-up of a red crab claw covered in ants, high contrast",
+      "macro of an ant spraying acid, dramatic light",
+      "close-up of a dead red crab on the forest floor, cold light",
+      "tight shot of ants pouring into a crab burrow, stark light"
+    ]
+  },
+  {
+    "id": "lightning-kills-323-reindeer",
+    "photo_query": "wild reindeer hardangervidda",
+    "title": "One lightning storm killed 323 reindeer at once #shorts",
+    "description": "In 2016, lightning struck near a huddled herd on Norway's Hardangervidda plateau and killed 323 wild reindeer in an instant. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "reindeer",
+      "lightning",
+      "norway",
+      "weather",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "One lightning storm killed three hundred twenty-three reindeer at once. In 2016, a wild herd huddled together on Norway's Hardangervidda plateau during a thunderstorm. Lightning struck the ground nearby, and the current spread through the wet earth. It entered one leg of each reindeer and left through another, stopping their hearts. Rangers found the bodies lying packed tightly together. Later, the carcasses became a feast for scavengers.",
+    "captions": [
+      "323 reindeer. One storm.",
+      "The herd huddled together.",
+      "Lightning hit the ground.",
+      "Current through their legs.",
+      "All dead at once."
+    ],
+    "image_prompts": [
+      "extreme close-up of a reindeer's eye reflecting lightning, harsh light",
+      "tight shot of reindeer huddled in rain, high contrast",
+      "close-up of a lightning bolt hitting wet ground, dramatic light",
+      "close-up of reindeer hooves in wet moss, cold light",
+      "tight shot of antlers lying still on the tundra, stark light"
+    ]
+  },
+  {
+    "id": "valley-fever-desert-fungus",
+    "photo_query": "coccidioides",
+    "title": "This desert dust carries a fungus that invades lungs #shorts",
+    "description": "Coccidioides lives in desert soil in the American Southwest. When dust is stirred up, its spores can infect lungs, bones and even the brain. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "fungus",
+      "desert",
+      "valley fever",
+      "disease",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In the American Southwest, the dust itself can infect you. A fungus called Coccidioides lives in desert soil. When wind, construction, or earthquakes stir the ground, its spores float into the air. Breathe one in and it can grow inside your lungs. In rare cases, it spreads to your skin, bones, and brain. After a 1994 earthquake, landslide dust sickened over two hundred people and killed three.",
+    "captions": [
+      "The dust can infect you.",
+      "A fungus in desert soil.",
+      "Spores ride the wind.",
+      "It grows in your lungs.",
+      "Spreading to bone and brain."
+    ],
+    "image_prompts": [
+      "extreme macro of fungal spores on dry cracked soil, harsh light",
+      "close-up of desert dust swirling, high contrast",
+      "macro of white fungal threads in sand, dramatic light",
+      "close-up of a dust cloud from a cracking hillside, cold light",
+      "tight shot of a lung x-ray with white spots, stark light"
+    ]
+  },
+  {
+    "id": "cryptococcus-gattii-vancouver",
+    "photo_query": "cryptococcus gattii",
+    "title": "A killer fungus appeared in Canada's trees #shorts",
+    "description": "In 1999 a tropical fungus, Cryptococcus gattii, emerged on Vancouver Island and began infecting porpoises, pets and people. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "fungus",
+      "canada",
+      "vancouver island",
+      "disease",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In 1999, a tropical fungus suddenly appeared in the forests of Vancouver Island and started killing. Cryptococcus gattii grows on tree bark and in soil, releasing spores too small to see. Porpoises, dogs, cats, and even people began breathing them in. The fungus formed masses in lungs and invaded brains. Hundreds of people have been infected and dozens died. Nobody knows for sure how it arrived.",
+    "captions": [
+      "A tropical fungus in Canada.",
+      "It grows on tree bark.",
+      "Invisible spores in the air.",
+      "Masses in lungs and brains.",
+      "Nobody knows how it came."
+    ],
+    "image_prompts": [
+      "extreme macro of fungus on wet tree bark, harsh light",
+      "close-up of spores drifting in a forest light beam, high contrast",
+      "close-up of a porpoise's eye at the water surface, dramatic light",
+      "macro of a fungal colony under a microscope, cold light",
+      "tight shot of a mossy Douglas fir trunk in fog, stark light"
+    ]
+  },
+  {
+    "id": "acanthamoeba-eye-amoeba",
+    "photo_query": "acanthamoeba",
+    "title": "This tap water amoeba eats the surface of your eye #shorts",
+    "description": "Acanthamoeba lives in tap water and can infect the cornea of contact lens wearers, causing severe pain and sometimes blindness. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "amoeba",
+      "eyes",
+      "contact lenses",
+      "parasites",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "An amoeba in ordinary tap water can eat your eye. Acanthamoeba lives in lakes, pools, showers, and taps. It's usually harmless, until it gets trapped under a contact lens. Then it starts feeding on the cornea, the clear window of your eye. The pain is described as unbearable. It can take a year of treatment, and some people go blind or lose the eye. Rinsing lenses in tap water is the classic mistake.",
+    "captions": [
+      "It lives in tap water.",
+      "Trapped under a contact lens.",
+      "It eats the cornea.",
+      "Unbearable pain.",
+      "Some go blind."
+    ],
+    "image_prompts": [
+      "extreme macro of a contact lens on a fingertip with water droplets, harsh light",
+      "close-up of a human eye with a red inflamed cornea, high contrast",
+      "macro of an amoeba under a microscope, dramatic light",
+      "close-up of tap water pouring onto a lens case, cold light",
+      "extreme close-up of a cloudy damaged eye, stark light"
+    ]
+  },
+  {
+    "id": "dog-heartworm",
+    "photo_query": "dirofilaria immitis",
+    "title": "These foot-long worms live inside a dog's heart #shorts",
+    "description": "Heartworms spread by a single mosquito bite can grow up to a foot long and tangle by the hundreds inside a dog's heart. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "heartworm",
+      "dogs",
+      "parasites",
+      "mosquitoes",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Worms up to a foot long can live inside a dog's heart. Heartworm larvae enter through a single mosquito bite. Over six months they migrate through the body and settle in the heart and lung arteries. There they grow, mate, and tangle into masses, sometimes hundreds at once. The dog coughs, tires, and struggles to breathe. Left untreated, the worms can block blood flow and kill it.",
+    "captions": [
+      "Worms in the heart.",
+      "One mosquito bite.",
+      "They migrate for months.",
+      "Hundreds tangled together.",
+      "Blood flow blocked."
+    ],
+    "image_prompts": [
+      "extreme macro of a mosquito biting dog fur, harsh light",
+      "close-up of thin white worms tangled in red tissue, high contrast",
+      "macro of a mosquito proboscis, dramatic light",
+      "close-up of a dog's tired face panting, cold light",
+      "tight shot of a heart model wrapped with white worms, stark light"
+    ]
+  },
+  {
+    "id": "demodex-face-mites",
+    "photo_query": "demodex folliculorum",
+    "title": "Tiny mites are living in your face right now #shorts",
+    "description": "Demodex mites live head-down in the pores of almost every adult's face, crawling out at night to mate. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "mites",
+      "demodex",
+      "skin",
+      "human body",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Right now, tiny mites are almost certainly living in your face. Demodex mites burrow head-first into the pores around your nose, eyelashes, and eyebrows, eating the oil your skin makes. They're eight-legged, and too small to see. Nearly every adult carries them. At night, they crawl out across your skin to find mates, then climb back in. When they die, they decompose right there, inside your pores.",
+    "captions": [
+      "Mites in your face.",
+      "Head-first in your pores.",
+      "Nearly every adult has them.",
+      "They mate at night.",
+      "They die inside you."
+    ],
+    "image_prompts": [
+      "extreme macro of a mite in a hair follicle, harsh light",
+      "extreme close-up of skin pores on a nose, high contrast",
+      "macro of eyelash roots with tiny mites, dramatic light",
+      "close-up of a sleeping face in moonlight, cold light",
+      "macro of a worm-like mite on skin, stark light"
+    ]
+  },
+  {
+    "id": "fish-tapeworm",
+    "photo_query": "diphyllobothrium latum",
+    "title": "This tapeworm from raw fish grows 30 feet long #shorts",
+    "description": "The broad fish tapeworm hides in raw or undercooked freshwater fish and can grow up to 30 feet long inside the human gut. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "tapeworm",
+      "parasites",
+      "fish",
+      "sushi",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A tapeworm from raw fish can grow thirty feet long inside you. The broad fish tapeworm hides in the flesh of salmon, pike, and perch. Eat it raw or undercooked and the larva latches onto your intestine with two sucking grooves. Then it grows, adding segments every day, and can live for decades. It steals vitamin B12, and some people only notice when long pieces come out.",
+    "captions": [
+      "30 feet long.",
+      "Hiding in raw fish.",
+      "It latches on inside.",
+      "Growing for decades.",
+      "Pieces come out."
+    ],
+    "image_prompts": [
+      "extreme close-up of raw salmon flesh with a pale larva, harsh light",
+      "macro of a tapeworm's grooved head, high contrast",
+      "close-up of a long ribbon-like worm coiled in a dish, dramatic light",
+      "macro of flat tapeworm segments, cold light",
+      "close-up of raw fish sushi under stark light"
+    ]
+  },
+  {
+    "id": "berry-ant-nematode",
+    "photo_query": "cephalotes atratus",
+    "title": "This worm turns ants into fake berries for birds #shorts",
+    "description": "A parasitic nematode turns the abdomens of tropical ants bright red so birds mistake them for berries and spread its eggs. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "ants",
+      "parasites",
+      "nematode",
+      "rainforest",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A parasitic worm turns ants into fake berries. In the rainforest canopy of Central and South America, a nematode infects giant gliding ants. Its eggs fill the ant's abdomen and turn it from black to bright red. The ant raises its swollen red rear in the air, like a ripe berry. Birds pluck it off and eat it. Their droppings spread the eggs to new ants.",
+    "captions": [
+      "Ants into berries.",
+      "A worm infects the ant.",
+      "Its rear turns bright red.",
+      "Raised like ripe fruit.",
+      "Birds eat it."
+    ],
+    "image_prompts": [
+      "extreme macro of a black ant with a swollen bright red abdomen, harsh light",
+      "macro of red berry-like ant abdomen next to real red berries, high contrast",
+      "close-up of a bird's beak plucking an ant, dramatic light",
+      "macro of tiny worm eggs inside a translucent abdomen, cold light",
+      "macro of an ant on a branch with its red rear raised, stark light"
+    ]
+  },
+  {
+    "id": "melioidosis-soil-bacteria",
+    "photo_query": "burkholderia pseudomallei",
+    "title": "After heavy rain, this soil bacteria comes for you #shorts",
+    "description": "Burkholderia pseudomallei lives in wet tropical soil. Floods spread it, and melioidosis can kill up to 40% of those infected. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "bacteria",
+      "melioidosis",
+      "monsoon",
+      "disease",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "After a tropical downpour, the mud itself can kill you. Burkholderia pseudomallei lives in wet soil across Southeast Asia and northern Australia. Monsoon rains and floods churn it up, and it enters through cuts or is breathed in from spray. It causes melioidosis, which can kill up to forty percent of those infected. Worse, it can hide in the body for decades before striking. Veterans called it the Vietnamese time bomb.",
+    "captions": [
+      "The mud can kill.",
+      "Bacteria in wet soil.",
+      "Floods churn it up.",
+      "Up to 40% die.",
+      "It hides for decades."
+    ],
+    "image_prompts": [
+      "extreme close-up of churned red mud after rain, harsh light",
+      "macro of rod-shaped bacteria under a microscope, high contrast",
+      "close-up of a muddy cut on a hand, dramatic light",
+      "close-up of rain splashing into muddy water, cold light",
+      "tight shot of a flooded rice paddy at dusk, stark light"
+    ]
+  },
+  {
+    "id": "nipah-date-palm-sap",
+    "photo_query": "pteropus giganteus",
+    "title": "Bats lick this sweet sap and spread a brain virus #shorts",
+    "description": "In Bangladesh, fruit bats contaminate pots of raw date palm sap with Nipah virus, which causes deadly brain swelling. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "nipah",
+      "bats",
+      "virus",
+      "bangladesh",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In Bangladesh, a sweet winter drink can carry a deadly brain virus. Farmers hang clay pots on date palms overnight to collect fresh sap. Fruit bats find them in the dark, lick the sap, and sometimes urinate in it. Some carry Nipah virus. People who drink the raw sap can develop brain swelling. Nipah kills up to three in four of those infected, and there's no approved vaccine.",
+    "captions": [
+      "A sweet winter drink.",
+      "Pots on palm trees.",
+      "Bats drink at night.",
+      "The virus spreads.",
+      "Up to 75% die."
+    ],
+    "image_prompts": [
+      "extreme close-up of a clay pot tied to a palm trunk, harsh light",
+      "close-up of a fruit bat licking sap at night, high contrast",
+      "macro of sap dripping into a pot, dramatic light",
+      "close-up of a fruit bat's face and teeth, cold light",
+      "tight shot of a glass of cloudy palm sap, stark light"
+    ]
+  },
+  {
+    "id": "marburg-python-cave",
+    "photo_query": "rousettus aegyptiacus",
+    "title": "Tourists caught a deadly virus in this bat cave #shorts",
+    "description": "In 2008, two tourists who visited Uganda's Python Cave caught Marburg virus from its fruit bats. One of them died. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "marburg",
+      "bats",
+      "virus",
+      "uganda",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Tourists caught one of the deadliest viruses on Earth just by visiting a cave. Python Cave in Uganda holds tens of thousands of Egyptian fruit bats, and pythons that hunt them. In 2008, two visitors, one American and one Dutch, fell ill after returning home. Both had Marburg virus, a cousin of Ebola. The Dutch woman died days later. The bats carry it silently, never getting sick.",
+    "captions": [
+      "A cave full of bats.",
+      "Pythons hunt inside.",
+      "Two tourists fall ill.",
+      "Marburg virus.",
+      "The bats never get sick."
+    ],
+    "image_prompts": [
+      "extreme close-up of an Egyptian fruit bat's face, harsh light",
+      "tight shot of a python coiled on cave rock, high contrast",
+      "close-up of hundreds of bats on a cave ceiling, dramatic light",
+      "macro of a virus particle under a microscope, cold light",
+      "close-up of a bat's glowing eyes in a dark cave, stark light"
+    ]
+  },
+  {
+    "id": "beached-whale-explosion",
+    "photo_query": "sperm whale carcass",
+    "title": "A dead whale exploded in the middle of a city #shorts",
+    "description": "In 2004, a dead sperm whale being trucked through Tainan, Taiwan burst open from built-up gas, spraying the street with blood and guts. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "whale",
+      "sperm whale",
+      "taiwan",
+      "decomposition",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In 2004, a dead whale exploded in the middle of a Taiwanese city. A sperm whale weighing over fifty tons had washed ashore. Workers loaded it onto a truck to carry it to a research center. Loading it took three cranes and thirteen hours. But as it rotted, gas built up inside its body. As the truck drove through Tainan, the carcass burst open, showering cars, shops, and bystanders with blood and guts.",
+    "captions": [
+      "A dead whale.",
+      "Over 50 tons.",
+      "Gas built up inside.",
+      "It burst in the street.",
+      "Blood rained on cars."
+    ],
+    "image_prompts": [
+      "extreme close-up of a sperm whale's bloated skin, harsh light",
+      "tight shot of a whale tail hanging off a truck bed, high contrast",
+      "close-up of stretched whale skin about to burst, dramatic light",
+      "close-up of red gore splattered on a car windshield, cold light",
+      "tight shot of a whale's open jaw and teeth, stark light"
+    ]
+  },
+  {
+    "id": "bloodworm-copper-fangs",
+    "photo_query": "glycera dibranchiata",
+    "title": "This worm has venomous fangs made of copper #shorts",
+    "description": "Bloodworms shoot out a proboscis tipped with four copper-reinforced jaws that inject venom into their prey. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "bloodworm",
+      "worms",
+      "venom",
+      "ocean",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This worm has venomous fangs made of copper. The bloodworm hides in mud along the coast. When prey comes near, it fires out a proboscis almost a fifth of its body length, tipped with four black jaws. Those jaws are reinforced with copper, making them hard and resistant to wear. They inject venom that paralyzes prey. Anglers who dig them for bait get bites like a bee sting.",
+    "captions": [
+      "Fangs made of copper.",
+      "Hiding in the mud.",
+      "The proboscis shoots out.",
+      "Four copper jaws.",
+      "Venom paralyzes prey."
+    ],
+    "image_prompts": [
+      "extreme macro of a pink worm's black jaws open, harsh light",
+      "close-up of a worm burrowing in wet mud, high contrast",
+      "macro of a proboscis shooting out, dramatic light",
+      "macro of four curved black fangs, cold light",
+      "close-up of a red worm coiled on a fingertip, stark light"
+    ]
+  },
+  {
+    "id": "crowned-eagle-skull-crusher",
+    "photo_query": "stephanoaetus coronatus",
+    "title": "This eagle killed one of our oldest ancestors #shorts",
+    "description": "The Taung Child skull carries talon marks matching eagles like Africa's crowned eagle, which still drives its talons into monkeys' skulls. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "eagle",
+      "crowned eagle",
+      "taung child",
+      "evolution",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "An eagle likely killed one of humanity's most famous ancestors. The Taung Child, a skull nearly three million years old, has puncture marks in its eye sockets. Scientists matched them to the talons of eagles like Africa's crowned eagle. Today it still hunts monkeys, dropping silently from the canopy and driving its talons straight through their skulls. It can kill animals several times its own weight.",
+    "captions": [
+      "Killed by an eagle.",
+      "Three million years ago.",
+      "Talon marks in the skull.",
+      "It still hunts monkeys.",
+      "Talons through the skull."
+    ],
+    "image_prompts": [
+      "extreme close-up of a crowned eagle's fierce eye, harsh light",
+      "close-up of an ancient fossil child skull, high contrast",
+      "macro of huge curved eagle talons, dramatic light",
+      "close-up of an eagle diving through jungle leaves, cold light",
+      "close-up of puncture holes in a fossil eye socket, stark light"
+    ]
+  },
+  {
+    "id": "pelican-swallows-pigeons",
+    "photo_query": "pelican swallowing pigeon",
+    "title": "Pelicans swallow live pigeons whole #shorts",
+    "description": "In 2006 a pelican in London's St James's Park swallowed a live pigeon. In South Africa, pelicans raid seabird colonies for chicks. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "pelican",
+      "birds",
+      "pigeons",
+      "predators",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Pelicans swallow live pigeons whole. In 2006, in London's St James's Park, a pelican snatched a pigeon and forced it into its huge throat pouch. The pigeon kept flapping inside for around twenty minutes while horrified tourists watched. Then the pelican finally gulped it down. It's not a one-off. In South Africa, great white pelicans raid seabird colonies and swallow the chicks alive, one after another.",
+    "captions": [
+      "Pigeons swallowed alive.",
+      "Into the throat pouch.",
+      "Flapping for 20 minutes.",
+      "Then gulped down.",
+      "Seabird chicks too."
+    ],
+    "image_prompts": [
+      "extreme close-up of a pelican's open bill and pouch, harsh light",
+      "close-up of a pigeon inside a stretched pelican pouch, high contrast",
+      "macro of a pelican's pale eye, dramatic light",
+      "close-up of a pelican throat bulging, cold light",
+      "tight shot of a pelican bill hook tip, stark light"
+    ]
+  },
+  {
+    "id": "mike-the-headless-chicken",
+    "photo_query": "mike the headless chicken",
+    "title": "This chicken lived 18 months without a head #shorts",
+    "description": "In 1945, a Colorado rooster named Mike survived having his head chopped off and lived for 18 more months. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "chicken",
+      "mike",
+      "colorado",
+      "history",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A chicken lived for eighteen months without its head. In 1945, a Colorado farmer swung his axe at a rooster named Mike, but missed the jugular and left most of the brainstem intact. Mike got up and kept walking. His owner fed him liquid with an eyedropper, straight down his open neck. He toured the country as a sideshow, until he choked one night in a motel room.",
+    "captions": [
+      "No head. 18 months.",
+      "The axe missed.",
+      "He kept walking.",
+      "Fed with an eyedropper.",
+      "A sideshow star."
+    ],
+    "image_prompts": [
+      "extreme close-up of a rooster's feathers and neck, harsh light",
+      "close-up of an old axe on a chopping block, high contrast",
+      "close-up of a rooster's feet walking on straw, dramatic light",
+      "macro of a glass eyedropper with liquid, cold light",
+      "tight shot of a vintage sideshow poster of a chicken, stark light"
+    ]
+  },
+  {
+    "id": "sheep-flystrike",
+    "photo_query": "lucilia cuprina",
+    "title": "These maggots eat sheep alive #shorts",
+    "description": "Blowflies lay eggs in dirty wool, and their maggots eat into living sheep. Flystrike can kill a sheep in days. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "sheep",
+      "blowfly",
+      "maggots",
+      "parasites",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Flies can eat a sheep alive in just a few days. Blowflies lay their eggs in damp, dirty wool, usually around the tail. It's called flystrike. Within hours, the maggots hatch and start chewing into living skin. Their feeding releases ammonia that poisons the sheep while the wound spreads. Thousands of maggots can strike a single animal. Without treatment, the sheep dies from shock, infection, and toxins.",
+    "captions": [
+      "Eaten alive by maggots.",
+      "Eggs in dirty wool.",
+      "They hatch in hours.",
+      "Thousands at once.",
+      "Dead in days."
+    ],
+    "image_prompts": [
+      "extreme macro of a green blowfly on wool, harsh light",
+      "macro of tiny white fly eggs in dirty wool, high contrast",
+      "macro of maggots wriggling in fleece, dramatic light",
+      "close-up of a sheep's frightened eye, cold light",
+      "macro of a metallic green blowfly's head, stark light"
+    ]
+  },
+  {
+    "id": "kamikaze-termite-backpacks",
+    "photo_query": "neocapritermes taracua",
+    "title": "Old termites explode with toxic backpacks #shorts",
+    "description": "Older workers of a South American termite store blue crystals in backpacks and burst themselves open to release toxic goo on attackers. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "termites",
+      "insects",
+      "amazon",
+      "defense",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In the Amazon, old termites carry explosive backpacks. Workers of one species store blue crystals in pouches on their backs, building them up over their whole lives. As they age and their jaws wear down, they become suicide bombers. The older they are, the more toxic they get. When enemies attack, they rupture their own bodies. The crystals mix with saliva into a toxic, sticky goo that paralyzes or kills the attackers.",
+    "captions": [
+      "Explosive backpacks.",
+      "Blue crystals stored inside.",
+      "Jaws wear down with age.",
+      "They burst on purpose.",
+      "Toxic goo kills enemies."
+    ],
+    "image_prompts": [
+      "extreme macro of a termite with blue spots on its back, harsh light",
+      "macro of blue crystals inside a translucent abdomen, high contrast",
+      "macro of worn termite jaws, dramatic light",
+      "macro of a termite bursting with sticky fluid, cold light",
+      "macro of an attacking termite stuck in blue goo, stark light"
+    ]
+  },
+  {
+    "id": "mormon-cricket-cannibal-march",
+    "photo_query": "anabrus simplex",
+    "title": "These crickets march to escape being eaten by each other #shorts",
+    "description": "Mormon cricket bands stretch for miles because each cricket is fleeing the cannibals behind it while trying to eat the one in front. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "crickets",
+      "cannibalism",
+      "insects",
+      "swarm",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Millions of crickets march across the American West, running from each other. Mormon crickets form bands stretching for miles. They're desperate for protein and salt, so each cricket tries to eat the one in front, while being chased by the one behind. Any cricket that stops gets eaten alive from behind. Roads become so slick with crushed bodies that cars skid, and the survivors stop to eat the dead.",
+    "captions": [
+      "A cannibal march.",
+      "Bands miles long.",
+      "Eat the one in front.",
+      "Stop and get eaten.",
+      "Roads slick with bodies."
+    ],
+    "image_prompts": [
+      "extreme macro of a cricket's jaws biting another cricket, harsh light",
+      "close-up of a dense mass of crickets on a road, high contrast",
+      "macro of a cricket's compound eye, dramatic light",
+      "close-up of crushed insects on asphalt with tire tracks, cold light",
+      "macro of crickets feeding on a dead cricket, stark light"
+    ]
+  },
+  {
+    "id": "cyanide-millipede",
+    "photo_query": "harpaphe haydeniana",
+    "title": "This millipede oozes cyanide that smells like almonds #shorts",
+    "description": "The yellow-spotted millipede of the Pacific Northwest defends itself by releasing hydrogen cyanide, which smells of bitter almonds. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "millipede",
+      "cyanide",
+      "poison",
+      "insects",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This millipede defends itself with cyanide. The yellow-spotted millipede of the Pacific Northwest crawls openly in broad daylight across forest floors, its bright colors a warning. Grab it and glands along its body release hydrogen cyanide, the same poison used in gas chambers. That's why it smells like bitter almonds. Almost nothing eats it. One beetle does, paralyzing it with a single bite to the neck.",
+    "captions": [
+      "Armed with cyanide.",
+      "Bright colors warn you.",
+      "Glands release poison gas.",
+      "It smells like almonds.",
+      "Almost nothing eats it."
+    ],
+    "image_prompts": [
+      "extreme macro of a black millipede with yellow spots, harsh light",
+      "macro of tiny glands along a millipede's side, high contrast",
+      "close-up of a millipede coiled on dark moss, dramatic light",
+      "macro of a beetle's jaws gripping a millipede, cold light",
+      "macro of a millipede's segmented legs, stark light"
+    ]
+  },
+  {
+    "id": "rat-king-knotted-tails",
+    "photo_query": "rat king altenburg",
+    "title": "Rat kings: dozens of rats tangled by their tails #shorts",
+    "description": "Rat kings form when rats' tails knot together. A German museum holds one of 32 rats, and a living one was found in Estonia in 2021. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "rats",
+      "rat king",
+      "mystery",
+      "animals",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Dozens of rats can become trapped together by their own tails. It's called a rat king. Their tails become knotted and glued with dirt, sap, or frost, until none of them can escape. A museum in Altenburg, Germany, displays a mummified rat king of thirty-two rats, found in 1828. In 2021, a living rat king of thirteen rats was found in Estonia. Nobody knows exactly how they form.",
+    "captions": [
+      "Rats tied by their tails.",
+      "Knotted and glued together.",
+      "32 rats in one knot.",
+      "A living one in 2021.",
+      "Nobody knows how."
+    ],
+    "image_prompts": [
+      "extreme close-up of knotted rat tails, harsh light",
+      "tight shot of a ring of rats facing outward, high contrast",
+      "close-up of a mummified rat king in a glass jar, dramatic light",
+      "macro of a rat's eye and whiskers in the dark, cold light",
+      "close-up of tangled tails in dirt and straw, stark light"
+    ]
+  },
+  {
+    "id": "toad-fly-lucilia-bufonivora",
+    "photo_query": "lucilia bufonivora",
+    "title": "This fly's maggots eat a toad's face from inside #shorts",
+    "description": "Lucilia bufonivora lays eggs on living toads. Its maggots crawl into the nostrils and eat the toad's head from the inside. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "toad",
+      "fly",
+      "maggots",
+      "parasites",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A fly lays its eggs on living toads, and the maggots eat their faces from the inside. Lucilia bufonivora targets common toads in Europe. When the eggs hatch, the maggots crawl into the toad's nostrils. They feed on the tissue inside its head, eating through the nose and eyes. A gaping hole opens where its nose used to be. The toad keeps hopping around for days, being devoured, until it dies.",
+    "captions": [
+      "Maggots in a living toad.",
+      "Eggs on its skin.",
+      "They crawl into its nose.",
+      "Eating from inside.",
+      "It hops until it dies."
+    ],
+    "image_prompts": [
+      "extreme macro of a green fly on a toad's warty back, harsh light",
+      "macro of tiny white eggs on toad skin, high contrast",
+      "macro of a toad's nostril with maggots, dramatic light",
+      "extreme close-up of a toad's golden eye, cold light",
+      "close-up of a toad in damp leaves, stark light"
+    ]
+  },
+  {
+    "id": "galapagos-racer-snakes",
+    "photo_query": "galapagos racer",
+    "title": "Baby iguanas run a gauntlet of snakes #shorts",
+    "description": "On Fernandina Island, newly hatched marine iguanas must sprint past swarms of racer snakes waiting to ambush them. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "iguana",
+      "snakes",
+      "galapagos",
+      "predators",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Baby iguanas on the Galápagos must outrun a swarm of snakes the moment they hatch. On Fernandina Island, marine iguanas bury their eggs in sand. When the hatchlings dig out and sprint for the rocks, racer snakes are waiting. Dozens burst from crevices and chase them across the beach. They have poor eyesight, so hatchlings that freeze can go unseen. The snakes wrap and squeeze them to death. Many hatchlings never make it.",
+    "captions": [
+      "Born into a snake ambush.",
+      "Eggs buried in sand.",
+      "A sprint for the rocks.",
+      "Dozens of snakes give chase.",
+      "Many never make it."
+    ],
+    "image_prompts": [
+      "extreme close-up of a baby marine iguana's face, harsh light",
+      "close-up of a snake's head emerging from black rock, high contrast",
+      "macro of a snake's tongue flicking, dramatic light",
+      "close-up of a snake coiled around a tiny iguana, cold light",
+      "close-up of a hatchling iguana frozen on black lava rock, stark light"
+    ]
+  },
+  {
+    "id": "nomuras-jellyfish-trawler",
+    "photo_query": "nemopilema nomurai",
+    "title": "Giant jellyfish capsized a fishing boat #shorts",
+    "description": "Nomura's jellyfish can weigh 200 kg. In 2009, a net full of them capsized a 10-ton trawler off Chiba, Japan. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "jellyfish",
+      "japan",
+      "ocean",
+      "fishing",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Jellyfish capsized a ten-ton fishing boat. Nomura's jellyfish can grow two meters wide and weigh two hundred kilograms. Some years, they swarm the Sea of Japan by the millions, clogging nets and stinging fishermen. In 2009, a trawler off Chiba hauled in a net packed with dozens of them. The weight tipped the boat over, and its crew of three was thrown into the sea. They were rescued by another boat.",
+    "captions": [
+      "Jellyfish capsized a boat.",
+      "Two meters wide.",
+      "Swarms by the millions.",
+      "One net, dozens inside.",
+      "The boat flipped."
+    ],
+    "image_prompts": [
+      "extreme close-up of a giant jellyfish bell with tentacles, harsh light",
+      "tight shot of a net bulging with huge jellyfish, high contrast",
+      "close-up of tentacles tangled in rope, dramatic light",
+      "close-up of a fishing boat hull tipping into waves, cold light",
+      "macro of a jellyfish's translucent edge, stark light"
+    ]
+  },
+  {
+    "id": "laki-fissure-poison-haze",
+    "photo_query": "laki craters",
+    "title": "This volcanic haze killed a fifth of Iceland #shorts",
+    "description": "The 1783 Laki eruption poisoned Iceland's grass with fluorine. Over half the livestock died and the famine killed about a fifth of the population. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "volcano",
+      "iceland",
+      "laki",
+      "famine",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A volcanic haze killed about a fifth of Iceland's people. In 1783, the Laki fissure split open and poured lava for eight months. It released clouds of fluorine and sulfur that settled on the grass. Sheep and cattle that ate it grew lumps on their bones and their teeth crumbled. Over half the livestock died, and the famine that followed killed thousands of people. The haze drifted across Europe too.",
+    "captions": [
+      "A fifth of Iceland died.",
+      "Eight months of lava.",
+      "Fluorine on the grass.",
+      "Bones and teeth deformed.",
+      "Famine followed."
+    ],
+    "image_prompts": [
+      "extreme close-up of a glowing lava fissure, harsh light",
+      "close-up of grass coated in grey volcanic ash, high contrast",
+      "close-up of a sheep's deformed teeth, dramatic light",
+      "close-up of toxic yellow haze over lava, cold light",
+      "tight shot of a sheep skull in black ash, stark light"
+    ]
   }
 ]
