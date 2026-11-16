@@ -1114,5 +1114,749 @@
       "close-up of toxic yellow haze over lava, cold light",
       "tight shot of a sheep skull in black ash, stark light"
     ]
+  },
+  {
+    "id": "deadly-nightshade-belladonna",
+    "photo_query": "atropa belladonna",
+    "title": "A few of these berries can kill a child #shorts",
+    "description": "Deadly nightshade's sweet black berries carry atropine. A handful can kill a child. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "nightshade",
+      "belladonna",
+      "poison",
+      "plants",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A few of these sweet black berries can kill a child. This is deadly nightshade, and every part of it is poison. Its atropine jams the nerves that slow your heart and let you sweat. Victims burn with fever, their pupils blow wide open, and they talk to people who aren't there. Doctors had a rhyme for it: red as a beet, blind as a bat, mad as a hatter.",
+    "captions": [
+      "A few berries can kill.",
+      "Every part is poison.",
+      "The heart races.",
+      "Pupils blow wide.",
+      "Mad as a hatter."
+    ],
+    "image_prompts": [
+      "extreme close-up of glossy black nightshade berries on a stem, harsh light",
+      "macro of a purple bell-shaped nightshade flower, high contrast",
+      "close-up of a dilated human pupil filling the iris, dramatic light",
+      "tight shot of a feverish flushed cheek beaded with no sweat, cold light",
+      "close-up of crushed black berries leaking dark juice, stark light"
+    ]
+  },
+  {
+    "id": "oleander-every-part-toxic",
+    "photo_query": "nerium oleander",
+    "title": "The pretty highway shrub that stops hearts #shorts",
+    "description": "Oleander is planted everywhere, yet its leaves, flowers, sap and even smoke carry heart-stopping toxins. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "oleander",
+      "poison",
+      "plants",
+      "toxic",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "One of the most common roadside shrubs can stop your heart. Oleander is planted along highways and in schoolyards because nothing eats it, and there's a reason. Every part of it, leaves, flowers, sap, even the smoke from burning it, carries oleandrin. It scrambles the heart's electrical rhythm until it stutters, slows, and quits. Horses have died from a mouthful of dried leaves. It still lines thousands of miles of road.",
+    "captions": [
+      "It can stop your heart.",
+      "Nothing eats it.",
+      "Even the smoke is toxic.",
+      "The heart stutters.",
+      "It lines our roads."
+    ],
+    "image_prompts": [
+      "extreme close-up of pink oleander flowers with dew, harsh light",
+      "macro of white sap oozing from a snapped oleander stem, high contrast",
+      "close-up of narrow dark oleander leaves, dramatic light",
+      "tight shot of grey smoke curling off burning leaves, cold light",
+      "close-up of a horse's eye beside oleander leaves, stark light"
+    ]
+  },
+  {
+    "id": "sudden-oak-death",
+    "photo_query": "phytophthora ramorum",
+    "title": "The water mold that made oak trees bleed to death #shorts",
+    "description": "Sudden oak death, a water mold first spotted in 1990s California, has killed millions of oaks and tanoaks. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "oak",
+      "trees",
+      "disease",
+      "forest",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A microscopic water mold has killed millions of oak trees, and they bleed while they die. Sudden oak death appeared in California in the 1990s. Spores splash off bay laurel leaves in the rain and land on oak bark. The trunk splits into wounds that ooze dark red sap. Within months, a healthy green crown turns brown all at once. Whole hillsides now stand grey and dead.",
+    "captions": [
+      "Millions of oaks killed.",
+      "Spores in the rain.",
+      "The bark bleeds.",
+      "Brown overnight.",
+      "Grey hillsides."
+    ],
+    "image_prompts": [
+      "extreme close-up of dark red sap oozing from oak bark, harsh light",
+      "macro of raindrops splashing on a glossy bay leaf, high contrast",
+      "close-up of a split bleeding canker on a tree trunk, dramatic light",
+      "tight shot of dead brown oak leaves still on a branch, cold light",
+      "close-up of grey dead oak bark peeling away, stark light"
+    ]
+  },
+  {
+    "id": "ash-dieback-fungus",
+    "photo_query": "hymenoscyphus fraxineus",
+    "title": "This fungus could kill 80% of Europe's ash trees #shorts",
+    "description": "Ash dieback, a fungus from Asia, is expected to kill most of Europe's ash trees. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "ash tree",
+      "fungus",
+      "forest",
+      "disease",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A fungus is expected to kill up to eight in ten ash trees in Britain. Ash dieback arrived from Asia, where native ash shrug it off. European ash has no defence. Its spores ride the wind from fallen leaf stalks every summer. They blacken the leaves, then carve diamond-shaped wounds into the bark that choke the tree's water supply. Old giants rot from the crown down and drop limbs on paths.",
+    "captions": [
+      "Eight in ten could die.",
+      "It came from Asia.",
+      "Spores on the wind.",
+      "Diamond wounds.",
+      "Giants rot."
+    ],
+    "image_prompts": [
+      "extreme close-up of blackened wilting ash leaves, harsh light",
+      "macro of tiny white fungal cups on a dead leaf stalk, high contrast",
+      "close-up of a diamond-shaped dark lesion on ash bark, dramatic light",
+      "tight shot of a dead bare ash branch against grey sky, cold light",
+      "close-up of a snapped rotten ash limb on a path, stark light"
+    ]
+  },
+  {
+    "id": "coffee-leaf-rust-ceylon",
+    "photo_query": "hemileia vastatrix",
+    "title": "The fungus that wiped out an island's coffee #shorts",
+    "description": "In 1869 coffee leaf rust reached Ceylon and destroyed its coffee industry within two decades. The island switched to tea. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "coffee",
+      "fungus",
+      "sri lanka",
+      "history",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "An orange fungus erased an entire island's coffee in about twenty years. In 1869, coffee leaf rust reached Ceylon, now Sri Lanka, then one of the biggest coffee growers on Earth. Its powdery spores coat the undersides of leaves until they drop off. Bare trees can't make cherries. Plantation after plantation collapsed and owners went broke. The survivors ripped out the coffee and planted tea. That's why Ceylon became famous for tea.",
+    "captions": [
+      "A whole island's coffee.",
+      "Ceylon, 1869.",
+      "Orange spores.",
+      "Plantations collapsed.",
+      "Tea replaced it."
+    ],
+    "image_prompts": [
+      "extreme close-up of orange rust spores on the underside of a coffee leaf, harsh light",
+      "macro of powdery orange fungus dusting a green leaf, high contrast",
+      "close-up of a bare coffee branch with withered cherries, dramatic light",
+      "tight shot of dead brown coffee leaves piled on soil, cold light",
+      "close-up of fresh tea leaves beside a dead coffee leaf, stark light"
+    ]
+  },
+  {
+    "id": "rabbit-hemorrhagic-disease",
+    "photo_query": "european rabbit",
+    "title": "The virus that escaped an island and killed millions of rabbits #shorts",
+    "description": "Rabbit hemorrhagic disease escaped a 1995 field trial on an Australian island and swept the continent. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "rabbits",
+      "virus",
+      "australia",
+      "invasive",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In 1995, a rabbit virus escaped from a test island off Australia and killed millions within weeks. Scientists were trialling it on Wardang Island when it reached the mainland, probably carried by flies. It destroys a rabbit's liver and stops its blood clotting. Many die within two days, often with blood at the nose. Some look perfectly healthy hours before. Farmers found warrens full of bodies.",
+    "captions": [
+      "The virus escaped.",
+      "Carried by flies.",
+      "Blood won't clot.",
+      "Dead in two days.",
+      "Warrens of bodies."
+    ],
+    "image_prompts": [
+      "extreme close-up of a wild rabbit's dark eye, harsh light",
+      "macro of a blowfly on dry grass, high contrast",
+      "close-up of a rabbit's nose in shadow, dramatic light",
+      "tight shot of a rabbit burrow entrance in red soil, cold light",
+      "close-up of a still rabbit lying in dry grass, stark light"
+    ]
+  },
+  {
+    "id": "carnivorous-harp-sponge",
+    "photo_query": "chondrocladia lyra",
+    "title": "The deep-sea sponge that eats animals alive #shorts",
+    "description": "The harp sponge, found in 2012 off California, snags tiny crustaceans on hooked branches and slowly digests them. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "sponge",
+      "deep sea",
+      "ocean",
+      "predator",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Some sponges hunt, and this one looks like a harp. The harp sponge lives over three kilometres deep off California and wasn't described until 2012. Its upright vanes are covered in microscopic hooks, like Velcro. Tiny crustaceans drifting in the dark get snagged on contact. Then a thin membrane slowly creeps over the prey and wraps it in a cocoon. The sponge digests it there, alive.",
+    "captions": [
+      "A sponge that hunts.",
+      "Three kilometres deep.",
+      "Velcro hooks.",
+      "Prey gets snagged.",
+      "Wrapped and digested."
+    ],
+    "image_prompts": [
+      "extreme close-up of a white harp-shaped deep-sea sponge in black water, harsh light",
+      "macro of tiny hooks on a sponge branch, high contrast",
+      "close-up of a small crustacean stuck to a white branch, dramatic light",
+      "tight shot of a membrane cocoon around prey, cold light",
+      "close-up of a ghostly sponge vane glowing in a spotlight, stark light"
+    ]
+  },
+  {
+    "id": "hawaiian-carnivorous-caterpillar",
+    "photo_query": "eupithecia",
+    "title": "Hawaii's caterpillars ambush flies like mantises #shorts",
+    "description": "Most caterpillars eat leaves. Hawaii's Eupithecia inchworms sit still on twigs and snatch passing insects. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "caterpillar",
+      "hawaii",
+      "insects",
+      "predator",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In Hawaii, some caterpillars are hunters. Nearly every caterpillar on Earth eats plants, but a group of Hawaiian inchworms evolved to eat meat. One stands rigid on a twig, disguised as a broken stem. When a fly brushes the hairs on its back, the caterpillar whips around in a fraction of a second. Its clawed front legs pin the fly. Then it eats it alive, head first.",
+    "captions": [
+      "Caterpillars that hunt.",
+      "Disguised as a twig.",
+      "A fly brushes it.",
+      "It strikes instantly.",
+      "Eaten alive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a green inchworm standing rigid on a twig, harsh light",
+      "macro of a fly landing beside a camouflaged caterpillar, high contrast",
+      "close-up of a caterpillar's clawed front legs, dramatic light",
+      "tight shot of a caterpillar gripping a struggling fly, cold light",
+      "close-up of a caterpillar's jaws on an insect, stark light"
+    ]
+  },
+  {
+    "id": "australia-mouse-plague-2021",
+    "photo_query": "house mouse",
+    "title": "Millions of mice swarmed Australian farms and ate each other #shorts",
+    "description": "In 2021, a mouse plague swept New South Wales. Mice bit hospital patients, chewed wiring and turned cannibal. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "mice",
+      "plague",
+      "australia",
+      "farming",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In 2021, Australia's farms were overrun by so many mice they started eating each other. A wet year after drought gave a bumper harvest, and mice bred out of control. Fields rippled with them at night. They chewed through wiring, crawled into beds, and bit patients in a country hospital. Farmers poured grain over poisoned bait and saw starving mice devour their own dead. The stench filled whole towns.",
+    "captions": [
+      "Mice ate each other.",
+      "A bumper harvest.",
+      "Fields rippled.",
+      "Patients were bitten.",
+      "Towns stank."
+    ],
+    "image_prompts": [
+      "extreme close-up of dozens of mice swarming over grain, harsh light",
+      "macro of a mouse's teeth gnawing a wire, high contrast",
+      "close-up of mice pouring out of a crack in a wall at night, dramatic light",
+      "tight shot of a mouse eating another mouse, cold light",
+      "close-up of a heap of dead mice on a shed floor, stark light"
+    ]
+  },
+  {
+    "id": "yamal-exploding-craters",
+    "photo_query": "yamal crater",
+    "title": "The Siberian ground that explodes #shorts",
+    "description": "Since 2014, giant craters have blasted open in Siberian permafrost as trapped methane builds pressure and erupts. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "siberia",
+      "permafrost",
+      "methane",
+      "earth",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In Siberia, the ground explodes. Since 2014, giant craters have been found on the Yamal Peninsula, some deeper than a fifteen-storey building. As the permafrost thaws, methane collects in a pocket beneath it. The pressure pushes the ground up into a mound. Then it bursts, flinging chunks of frozen soil and ice hundreds of metres. What's left is a perfect round hole into the dark.",
+    "captions": [
+      "The ground explodes.",
+      "Deeper than a tower.",
+      "Methane builds up.",
+      "The mound bursts.",
+      "A hole into the dark."
+    ],
+    "image_prompts": [
+      "extreme close-up of the rim of a deep round crater in tundra, harsh light",
+      "macro of ice crystals in torn frozen soil, high contrast",
+      "close-up of a bulging cracked mound of earth, dramatic light",
+      "tight shot of chunks of ice and soil flung across moss, cold light",
+      "close-up looking down a black crater shaft, stark light"
+    ]
+  },
+  {
+    "id": "montana-hail-kills-waterfowl",
+    "photo_query": "hailstone",
+    "title": "A hailstorm killed 11,000 birds in minutes #shorts",
+    "description": "In August 2019, a hailstorm at Montana's Big Lake killed about 11,000 waterfowl and wetland birds. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "hail",
+      "birds",
+      "storm",
+      "montana",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "One hailstorm killed around eleven thousand birds in a few minutes. In August 2019, a storm crossed Big Lake in Montana, where ducks and wetland birds were moulting and couldn't fly away. Hailstones the size of baseballs fell from the sky. They broke wings, cracked skulls, and smashed birds into the water. When biologists arrived, the shoreline was lined with bodies. Some survivors could only swim in circles.",
+    "captions": [
+      "Eleven thousand birds.",
+      "They couldn't fly.",
+      "Baseball-sized hail.",
+      "Wings and skulls broke.",
+      "The shore of bodies."
+    ],
+    "image_prompts": [
+      "extreme close-up of huge hailstones on wet ground, harsh light",
+      "macro of a duck's feathers beaded with ice, high contrast",
+      "close-up of hail splashing into dark water, dramatic light",
+      "tight shot of a broken duck wing on a shoreline, cold light",
+      "close-up of dead waterfowl on muddy shore, stark light"
+    ]
+  },
+  {
+    "id": "cold-stunned-sea-turtles",
+    "photo_query": "kemps ridley sea turtle",
+    "title": "The turtles that freeze in place off Cape Cod #shorts",
+    "description": "Every autumn, hundreds of sea turtles trapped in Cape Cod Bay become cold-stunned and wash ashore. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "sea turtle",
+      "cold",
+      "ocean",
+      "cape cod",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Every winter, hundreds of sea turtles freeze in place and wash up on Cape Cod. Young turtles drift north in warm summer water and get trapped in the bay's hooked shoreline. When the sea drops below about ten degrees, their bodies shut down. Their hearts slow to a few beats a minute. They float helplessly as wind drives them ashore. Volunteers walk the beaches at night to save them.",
+    "captions": [
+      "Turtles freeze in place.",
+      "Trapped in the bay.",
+      "Below ten degrees.",
+      "Hearts nearly stop.",
+      "Rescued at night."
+    ],
+    "image_prompts": [
+      "extreme close-up of a small sea turtle's face on wet sand, harsh light",
+      "macro of frost on a turtle's shell, high contrast",
+      "close-up of a turtle's motionless flipper in icy foam, dramatic light",
+      "tight shot of a turtle floating in grey water, cold light",
+      "close-up of a flashlight beam on a stranded turtle, stark light"
+    ]
+  },
+  {
+    "id": "berkeley-pit-snow-geese",
+    "photo_query": "snow goose",
+    "title": "Thousands of geese died landing on this toxic lake #shorts",
+    "description": "In 2016, thousands of snow geese died after landing on Montana's Berkeley Pit, a flooded mine full of acidic water. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "snow geese",
+      "birds",
+      "toxic",
+      "montana",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Thousands of snow geese died after landing on a single lake. In 2016, a migrating flock dropped onto the Berkeley Pit in Montana, a flooded copper mine more than a kilometre wide. Its water is as acidic as lemon juice and full of heavy metals. Birds that drank it burned their throats and stomachs. Thousands of white bodies floated on red water. The mine now fires guns to scare flocks off.",
+    "captions": [
+      "Thousands of geese died.",
+      "A flooded mine pit.",
+      "Acid like lemon juice.",
+      "Burned from inside.",
+      "White bodies, red water."
+    ],
+    "image_prompts": [
+      "extreme close-up of a snow goose's head above rust-red water, harsh light",
+      "macro of acidic orange water rippling, high contrast",
+      "close-up of a goose feather floating on red water, dramatic light",
+      "tight shot of a dead white goose on a rocky ledge, cold light",
+      "close-up of white wings on dark red water, stark light"
+    ]
+  },
+  {
+    "id": "bracken-fern-bleeding-cattle",
+    "photo_query": "bracken fern",
+    "title": "The fern that makes cows bleed from everywhere #shorts",
+    "description": "Bracken fern contains ptaquiloside. Cattle that graze it can suffer bone marrow failure, bleeding and bladder tumours. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "bracken",
+      "fern",
+      "cattle",
+      "poison",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "One of the world's commonest ferns can make cattle bleed from everywhere. Bracken contains a toxin called ptaquiloside. Cows that graze it for weeks can see their bone marrow shut down. Their blood stops clotting. They bleed from the nose, the gut, under the skin. Others grow tumours in the bladder and pass red urine for months. The toxin can even leak into milk and drinking water.",
+    "captions": [
+      "A fern that makes cows bleed.",
+      "A toxin in the fronds.",
+      "Bone marrow fails.",
+      "They bleed everywhere.",
+      "It leaks into water."
+    ],
+    "image_prompts": [
+      "extreme close-up of an unfurling bracken fern frond, harsh light",
+      "macro of green fern fronds dripping rain, high contrast",
+      "close-up of a cow's nose in tall bracken, dramatic light",
+      "tight shot of a cow's eye in dim pasture, cold light",
+      "close-up of dew dripping from fern into a stream, stark light"
+    ]
+  },
+  {
+    "id": "locoweed-crazy-horses",
+    "photo_query": "oxytropis",
+    "title": "The weed that makes horses go insane #shorts",
+    "description": "Locoweed contains swainsonine. Livestock can become hooked on it and develop permanent brain damage. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "locoweed",
+      "horses",
+      "plants",
+      "poison",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "There's a weed that drives horses insane, and they get hooked on it. Locoweed grows across the American West and carries a toxin called swainsonine. Animals that taste it often seek it out over grass. Over weeks it damages nerve cells. Horses stagger, rear at nothing, and panic when touched. Some flip over backwards or walk into walls. The Spanish named it loco, meaning crazy. The damage can be permanent.",
+    "captions": [
+      "It drives horses insane.",
+      "They get hooked.",
+      "Nerve cells die.",
+      "They panic at nothing.",
+      "Loco means crazy."
+    ],
+    "image_prompts": [
+      "extreme close-up of purple locoweed flowers, harsh light",
+      "macro of silvery hairy locoweed leaves, high contrast",
+      "close-up of a horse's wide panicked eye, dramatic light",
+      "tight shot of a rearing horse's hooves, cold light",
+      "close-up of a horse's muzzle in purple weeds, stark light"
+    ]
+  },
+  {
+    "id": "nematode-trapping-fungus",
+    "photo_query": "arthrobotrys",
+    "title": "The fungus that lassos worms #shorts",
+    "description": "Some soil fungi grow tiny rings that inflate in a fraction of a second, trapping worms that crawl through. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "fungus",
+      "soil",
+      "worms",
+      "predator",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "In the soil beneath your feet, a fungus lassos worms. Some fungi grow tiny loops, each made of just three cells. When a worm pushes its head through, the ring inflates in under a tenth of a second and squeezes shut. The worm thrashes but can't pull free. Then the fungus grows threads straight into its body and digests it from the inside out, leaving an empty skin.",
+    "captions": [
+      "A fungus that lassos worms.",
+      "Rings of three cells.",
+      "Snap shut instantly.",
+      "The worm thrashes.",
+      "Digested inside out."
+    ],
+    "image_prompts": [
+      "extreme macro of a fungal ring trap in soil, harsh light",
+      "macro of a tiny clear worm approaching a loop, high contrast",
+      "close-up of a ring clamped on a thrashing worm, dramatic light",
+      "tight shot of fungal threads inside a worm's body, cold light",
+      "close-up of an empty worm husk in fungus, stark light"
+    ]
+  },
+  {
+    "id": "greenfinch-trichomonosis",
+    "photo_query": "european greenfinch",
+    "title": "The parasite spreading through garden bird feeders #shorts",
+    "description": "Trichomonosis has crashed Britain's greenfinch population by around two thirds since 2005, spread at bird feeders. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "greenfinch",
+      "birds",
+      "parasite",
+      "uk",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A parasite at garden bird feeders has wiped out about two thirds of Britain's greenfinches. It arrived around 2005 and spreads through shared food and water. It grows lumps in the bird's throat until it can't swallow. Sick birds sit fluffed up at the feeder, trying to eat, with seed stuck in their mouths. They starve surrounded by food. Washing feeders weekly slows it down.",
+    "captions": [
+      "Two thirds gone.",
+      "Spread at feeders.",
+      "Lumps in the throat.",
+      "Can't swallow.",
+      "Starving beside food."
+    ],
+    "image_prompts": [
+      "extreme close-up of a fluffed-up greenfinch on a feeder, harsh light",
+      "macro of seeds stuck in a small bird's beak, high contrast",
+      "close-up of a greenfinch's half-closed eye, dramatic light",
+      "tight shot of a dirty bird bath, cold light",
+      "close-up of a green feather on a feeder tray, stark light"
+    ]
+  },
+  {
+    "id": "dhole-eat-prey-alive",
+    "photo_query": "dhole",
+    "title": "These wild dogs start eating before prey is dead #shorts",
+    "description": "Dholes, Asia's whistling wild dogs, hunt in packs and often begin feeding while their prey is still alive. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "dhole",
+      "wild dog",
+      "predator",
+      "asia",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Asia's wild dogs often start eating their prey before it's dead. Dholes hunt in packs of a dozen or more, whistling to each other through the forest. They chase deer to exhaustion, then attack from every side at once. Instead of a killing bite, they pull the animal down and tear into its belly and rump while it still stands. A pack can strip a deer in minutes.",
+    "captions": [
+      "Eaten before it's dead.",
+      "They whistle to hunt.",
+      "Chased to exhaustion.",
+      "Attacked from every side.",
+      "Stripped in minutes."
+    ],
+    "image_prompts": [
+      "extreme close-up of a red dhole's snarling face, harsh light",
+      "macro of a dhole's amber eye in forest shadow, high contrast",
+      "close-up of a running dhole's paws kicking dust, dramatic light",
+      "tight shot of a deer's terrified eye, cold light",
+      "close-up of bloody dhole jaws, stark light"
+    ]
+  },
+  {
+    "id": "common-krait-sleeping-bite",
+    "photo_query": "bungarus caeruleus",
+    "title": "The snake that kills people in their sleep #shorts",
+    "description": "The common krait hunts at night, slips into homes, and its bite is often painless. Victims can die without waking. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "krait",
+      "snake",
+      "venom",
+      "india",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "This snake kills people in their sleep, and its bite can be so painless they never wake. The common krait hunts at night and slides into homes looking for warmth and rats. People sleeping on the floor roll onto it. Its tiny fangs barely leave a mark. Hours later, the venom paralyses the eyelids, then the throat, then the breathing muscles. Many victims are found dead at sunrise.",
+    "captions": [
+      "It kills in their sleep.",
+      "It hunts at night.",
+      "Barely a mark.",
+      "Paralysis spreads.",
+      "Found at sunrise."
+    ],
+    "image_prompts": [
+      "extreme close-up of a black and white banded krait, harsh light",
+      "macro of a krait's glossy scales in torchlight, high contrast",
+      "close-up of a krait's head on a dark floor, dramatic light",
+      "tight shot of two tiny puncture marks on skin, cold light",
+      "close-up of a krait's eye in moonlight, stark light"
+    ]
+  },
+  {
+    "id": "chigger-mite-stylostome",
+    "photo_query": "chigger",
+    "title": "Chiggers melt your skin and drink it #shorts",
+    "description": "Chiggers don't burrow. They inject enzymes that dissolve skin cells, then drink the liquid through a hardened tube. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "chiggers",
+      "mites",
+      "insects",
+      "skin",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Chiggers don't bite you. They melt your skin and drink it. These red mite larvae are smaller than a pinhead and climb onto you from grass, settling where clothing is tight. They don't burrow or suck blood. Instead, they inject saliva that dissolves skin cells. It hardens into a feeding straw, and they sip your liquefied flesh for days. The maddening itch is your body fighting the straw.",
+    "captions": [
+      "They melt your skin.",
+      "Smaller than a pinhead.",
+      "Saliva dissolves cells.",
+      "A feeding straw.",
+      "The itch."
+    ],
+    "image_prompts": [
+      "extreme macro of a tiny red chigger mite on skin, harsh light",
+      "macro of a chigger climbing a blade of grass, high contrast",
+      "close-up of a red welt on an ankle, dramatic light",
+      "tight macro of mite mouthparts, cold light",
+      "close-up of scratched itchy skin, stark light"
+    ]
+  },
+  {
+    "id": "moon-snail-drill-hole",
+    "photo_query": "moon snail",
+    "title": "This snail drills through shells and eats clams alive #shorts",
+    "description": "Moon snails smother clams with their huge foot and drill a neat hole through the shell with acid and a toothed tongue. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "moon snail",
+      "snail",
+      "ocean",
+      "predator",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "That perfect round hole in a beach shell was drilled by a snail. Moon snails plough through sand and smother clams under a huge foot. Then they go to work with acid and a tongue lined with tiny teeth. Drilling can take hours or even days, while the clam stays clamped inside. Once through, the snail eats the clam alive through the hole. The empty shell washes up.",
+    "captions": [
+      "A drilled hole.",
+      "Smothered by a foot.",
+      "Acid and teeth.",
+      "Hours of drilling.",
+      "Eaten through the hole."
+    ],
+    "image_prompts": [
+      "extreme close-up of a clam shell with a perfect round hole, harsh light",
+      "macro of a moon snail's huge foot engulfing a clam, high contrast",
+      "close-up of a snail's toothed tongue on shell, dramatic light",
+      "tight shot of a moon snail in wet sand, cold light",
+      "close-up of empty drilled shells on a beach, stark light"
+    ]
+  },
+  {
+    "id": "mangrove-dieback-carpentaria",
+    "photo_query": "mangrove dieback",
+    "title": "1,000 kilometres of mangroves died at once #shorts",
+    "description": "In 2015-16, about 7,400 hectares of mangroves died along Australia's Gulf of Carpentaria during extreme heat and low sea levels. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "mangroves",
+      "australia",
+      "climate",
+      "forest",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "Along a thousand kilometres of Australian coast, a mangrove forest died all at once. In late 2015, record heat, drought and an unusually low sea struck the Gulf of Carpentaria together. The mangrove roots were left high and dry. About seven thousand four hundred hectares of trees died of thirst in a few weeks. Satellite images turned from green to grey. It's the largest mangrove die-off ever recorded.",
+    "captions": [
+      "A forest died at once.",
+      "Heat, drought, low sea.",
+      "Roots left dry.",
+      "Trees died of thirst.",
+      "Green to grey."
+    ],
+    "image_prompts": [
+      "extreme close-up of dead grey mangrove roots in cracked mud, harsh light",
+      "macro of bleached mangrove leaves, high contrast",
+      "close-up of a dry exposed root tangle, dramatic light",
+      "tight shot of cracked salt mud under dead branches, cold light",
+      "close-up of a single dead mangrove trunk, stark light"
+    ]
+  },
+  {
+    "id": "monarch-butterfly-2002-freeze",
+    "photo_query": "monarch butterfly",
+    "title": "One storm froze 500 million butterflies #shorts",
+    "description": "In January 2002, a winter storm in Mexico's mountains killed an estimated 500 million monarch butterflies. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "monarch",
+      "butterfly",
+      "storm",
+      "mexico",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "A single storm killed around five hundred million butterflies. In January 2002, monarchs were packed into their winter forests in the mountains of Mexico, clinging to trees in dense clusters. Rain soaked them, then the temperature plunged below freezing overnight. Wet butterflies froze solid on the branches and fell. By morning, the forest floor was carpeted in drifts of orange wings. Some colonies lost four in five.",
+    "captions": [
+      "Half a billion butterflies.",
+      "Packed on the trees.",
+      "Soaked, then frozen.",
+      "They fell.",
+      "A carpet of wings."
+    ],
+    "image_prompts": [
+      "extreme close-up of monarch butterflies clustered on bark, harsh light",
+      "macro of frost on an orange butterfly wing, high contrast",
+      "close-up of a frozen monarch on a branch, dramatic light",
+      "tight shot of dead monarchs piled on a forest floor, cold light",
+      "close-up of a single orange wing in snow, stark light"
+    ]
+  },
+  {
+    "id": "gough-island-mice-albatross",
+    "photo_query": "tristan albatross",
+    "title": "The island where mice eat albatross chicks alive #shorts",
+    "description": "On Gough Island, introduced house mice eat seabird chicks alive, killing an estimated two million eggs and chicks a year. #shorts #nature #facts #didyouknow",
+    "tags": [
+      "albatross",
+      "mice",
+      "seabirds",
+      "invasive",
+      "nature",
+      "facts",
+      "didyouknow",
+      "shorts"
+    ],
+    "script": "On a remote island, ordinary mice eat albatross chicks alive. Sailors brought house mice to Gough Island in the 1800s. With no predators, they grew bigger and started hunting. Albatross chicks are huge but helpless and never evolved to fear anything. At night, mice chew open wounds on their backs and return to feed, night after night. They kill an estimated two million seabird chicks and eggs a year.",
+    "captions": [
+      "Mice eat chicks alive.",
+      "Sailors brought them.",
+      "The chicks can't flee.",
+      "Night after night.",
+      "Two million a year."
+    ],
+    "image_prompts": [
+      "extreme close-up of a fluffy albatross chick on a nest, harsh light",
+      "macro of a house mouse's face at night, high contrast",
+      "close-up of a mouse on a chick's downy back, dramatic light",
+      "tight shot of a chick's dark eye in torchlight, cold light",
+      "close-up of an empty albatross nest, stark light"
+    ]
   }
 ]
